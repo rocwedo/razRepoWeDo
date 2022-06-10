@@ -1,0 +1,26 @@
+Guardian Dogs Penguin Protectors		
+breed	v.	繁殖
+petrol	n.	汽油
+penguins	n.	企鹅（复数）
+population	n.	族群
+predators	n.	捕食性动物
+volunteer	n.	志愿者
+burrows	n.	(动物的)洞穴（复数）
+conservationists	n.	自然环境保护主义者
+monitored	v.	跟踪调查
+duty	n.	职责
+supervision	n.	监督
+comfortable	v.	舒适的
+Living in Desert		
+arid	adj.	干旱的
+Indigenous	adj.	当地的
+nomadic	adj.	流浪的
+oasis	n.	绿洲
+reservations	n.	(美国为土著美洲人划出的)保留地
+tribe	n.	部落
+modern	adj.	现代的
+roam	v.	漫步
+traditional	adj.	传统的
+remain	v.	继续存在
+shelter	n.	避难所
+traditions	n.	传统（复数）

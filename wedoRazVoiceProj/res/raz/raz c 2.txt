@@ -1,0 +1,97 @@
+Building a Road		
+built	v.	建造（过去式）
+flattened	v.	把...压扁（过去式）
+gravel	n.	砂砾
+painted	v.	涂漆（过去式）
+paved	v.	铺砌（过去式）
+spread	v.	展开（过去式）
+is	v.	是
+next		接着
+then		然后
+Elephant Car Wash		
+driver	n.	司机
+elephant	n.	大象
+laughs	v.	大笑（三单）
+tire	n.	轮胎
+washes	v.	洗（三单）
+window	n.	窗户
+of	prep.	的
+the	art.	这个
+Busy At School		
+a	art.	一个
+are	v.	是
+at	prep.	在...
+the	art.	这个
+they	pron.	他们
+to	prep.	去
+picture	n.	图片
+snacks	n.	零食（复数）
+story	n.	故事
+numbers	n.	数字（复数）
+Fall		
+in	prep.	在...里面
+the	art.	这个
+corn	n.	玉米
+frost	n.	霜
+grass	n.	草
+leaves	n.	树叶（复数）
+moon	n.	月亮
+pumpkins	n.	南瓜（复数）
+City Shapes		
+hexagons	n.	六边形（复数）
+oval	n.	椭圆形
+rectangles	n.	矩形（复数）
+shapes	n.	形状（复数）
+squares	n.	正方形（复数）
+triangles	n.	三角形（复数）
+here	adv.	这里
+many	adj.	许多的
+see	v.	看见
+Fall Fun		
+carve	v.	雕刻
+fall	n.	秋天
+friends	n.	朋友（复数）
+pick	v.	采摘
+rake	v.	耙
+roasted	adj.	烤好的
+all	pron.	所有
+then	adv.	然后
+we	pron.	我们
+Different Kinds of Sharks		
+a	art.	一个
+has	v.	有
+is	v.	是
+teeth	n.	牙齿（复数）
+different	adj.	不同的
+sharp	adj.	尖锐的
+spots	n.	斑点（复数）
+stripes	n.	线条（复数）
+I Can Be		
+be	v.	是
+can	modal.	能够
+I	pron.	我
+cheetah	n.	猎豹
+meek	adj.	温顺的
+peacock	n.	孔雀
+proud	adj.	骄傲的
+silent	adj.	沉默的
+Fall Foods		
+are	v.	是
+the	art.	这个
+them	pron.	他们
+beets	n.	甜菜（复数）
+cabbages	n.	卷心菜（复数）
+potatoes	n.	土豆（复数）
+pumpkins	n.	南瓜（复数）
+ripe	adj.	成熟的
+I Looked Everywhere		
+my	pron.	我的
+not	adv.	不是
+there	adv.	那里
+closet	n.	橱柜
+everywhere	pron.	到处
+look	v.	看
+shoes	n.	鞋子（复数）
+		
+		
+		

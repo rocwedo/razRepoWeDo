@@ -1,0 +1,40 @@
+Bonk’s Loose Tooth		
+crown	n.	王冠
+party	n.	派对
+sorry	adj.	抱歉的
+tooth	n.	牙齿
+wiggle	v.	扭动
+true	adj.	真实的
+once	adv.	曾经
+Animal Eyes		
+see	v.	看见
+animals	n.	动物
+dragonfly	n.	蜻蜓
+eyes	n.	眼睛
+lizard	n.	蜥蜴
+owl	n.	猫头鹰
+spider	n.	蜘蛛
+Doing the Right Thing		
+cheating	n.	作弊
+decide	v.	决定
+explains	v.	解释
+fair	adj.	公平的
+right	adj.	正确的
+stealing	n.	偷
+Are You From Australia		
+eat	v.	吃
+live	v.	居住
+bill	n.	鸟喙
+country	n.	国家
+deserts	n.	沙漠
+forests	n.	森林
+pouch	n.	育儿袋
+seashore	n.	海岸
+Going to the Dentist		
+clean	v.	清洁
+dentist	n.	牙医
+filling	n.	补牙
+office	n.	办公室
+problem	n.	问题
+tools	n.	工具
+		

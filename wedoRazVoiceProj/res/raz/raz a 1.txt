@@ -1,0 +1,90 @@
+All Kinds of Buttons		
+button	n.	纽扣
+dark	adj.	深色的
+large	adj.	大的
+metal	adj.	金属的
+round	adj.	圆的
+shiny	adj.	闪亮的
+small	adj.	小的
+square	adj.	方形的
+wooden	adj.	木质的
+is	v.	是
+this	pron.	这个
+All Kinds of Faces		
+excited	adj.	激动的
+face	n.	脸
+happy	adj.	开心的
+mad	adj.	生气的
+sad	adj.	伤心的
+scared	adj.	害怕的
+shy	adj.	害羞的
+sleepy	adj.	瞌睡的
+sorry	adj.	抱歉的
+is	v.	是
+this	pron.	这个
+Athletes		
+athletes	n.	运动员
+dive	v.	跳水
+ride	v.	骑
+swim	v.	游泳
+throw	v.	扔
+win	v.	赢得
+some	pron.	一些
+Baby Animals		
+a	art.	一个
+is	v.	是
+this	pron.	这个
+calf	n.	小牛
+chick	n.	小鸡
+cub	n.	幼兽
+foal	n.	小马驹
+kid	n.	小山羊
+kitten	n.	小猫
+lamb	n.	小羊羔
+puppy	n.	小狗
+Bedtime Counting		
+I	pron.	我
+many	adj.	许多
+count	v.	数
+sheep	n.	绵羊
+The Big Cat		
+big	adj.	大的
+the	art.	这个
+cleans	v.	打扫（第三人称单数）
+climbs	v.	爬（第三人称单数）
+sleeps	v.	睡觉（第三人称单数）
+hides	v.	隐藏（第三人称单数）
+plays	v.	玩（第三人称单数）
+Bird Colors		
+is	v.	是
+this	pron.	这个
+brown	adj.	棕色的
+colors	n.	颜色（复数）
+gray	adj.	灰色的
+purple	adj.	紫色的
+pink	adj.	粉色的
+Bird Goes Home		
+over	prep.	在...上方
+the	art.	这个
+city	n.	城市
+farm	n.	农场
+mountains	n.	高山（复数）
+streets	n.	街道（复数）
+tables	n.	桌子（复数）
+Building with Blocks		
+boat	n.	小船
+build	v.	建造
+castle	n.	城堡
+house	n.	房子
+maze	n.	迷宫
+plane	n.	飞机
+a	art.	一个
+I	pron.	我
+Car Parts		
+a	art.	一个
+has	v.	有
+wheels	n.	车轮
+engine	n.	发动机
+lights	n.	车灯
+seat belts	n.	安全带
+trunk	n.	车厢

@@ -1,0 +1,94 @@
+Country Animals
+from	prep.	来自
+live	v.	居住
+what	pron.	什么
+they	pron.	他们
+where	adv.	哪里
+country	n.	乡村
+fields	n.	田野（复数形式）
+grains	n.	谷物（复数形式）
+nests	n.	巢（复数形式）
+Class Pets
+care	v.	照顾
+classes	n.	班级（复数形式）
+guinea pig	n.	天竺鼠
+hamster	n.	仓鼠
+pets	n.	宠物（复数形式）
+squeak	v.	吱吱叫
+is	v.	是
+play	v.	玩耍
+we	pron.	我们
+Crazy Cakes
+beehive	n.	蜂巢
+marble	n.	大理石
+peacock	n.	孔雀
+rooster	n.	公鸡
+treasure chest	n.	宝藏
+unicorn	n.	独角兽
+like	prep.	像
+look	v.	看起来
+make	v.	制作
+The Contest
+away	adv.	离开
+then	adv.	然后
+went	v.	去（过去式）
+contest	n.	竞赛
+farther	adv.	较远
+mine	pron.	我的
+seed	n.	种子
+spit	v.	发咕噜咕噜声
+A Day of Firsts
+a	art.	一个
+is	v.	是
+what	pron.	什么
+exciting	adj.	令人激动的
+grade	n.	年级
+learn	v.	学习
+pack	v.	收拾
+Fantastic Phil
+budge	v.	挪动
+face	v.	面对
+nephew	n.	侄子
+relief	n.	解脱
+toil	v.	跋涉
+triumph	n.	胜利
+help	v.	帮助
+his	pron.	他的
+says	v.	说（第三人称单数）
+The First Strawberry
+bloom	v.	开花
+fruits	n.	水果（复数形式）
+patch	n.	小块土地
+pests	n.	害虫（复数形式）
+spread	v.	伸展
+strawberries	n.	草莓（复数形式）
+for	prep.	为了
+in	prep.	在...里面
+your	pron.	你的
+Five Seconds to Blastoff!
+balstoff	n.	发射
+control room	n.	控制室
+rocket	n.	火箭
+seconds	n.	秒（复数形式）
+space	n.	太空
+T.rex	n.	霸王龙
+are	v.	是
+there	adv.	那里
+to	prep.	去
+Food Trucks
+barbecue	n.	烧烤
+crowds	n.	一伙人（复数形式）
+kitchen	n.	厨房
+seafood	n.	海鲜
+tacos	n.	墨西哥肉卷
+taste	v.	尝起来
+are	v.	是
+this	pron.	这个
+where	adv.	哪里
+Grandparents Day
+my	pron.	我的
+we	pron.	我们
+bakes	v.	烘焙（第三人称单数）
+piano	n.	钢琴
+share	v.	分享
+together	adv.	一起

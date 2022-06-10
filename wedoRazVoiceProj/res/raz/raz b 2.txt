@@ -1,0 +1,80 @@
+Animal Sounds		
+chirp	v.	叽喳声
+hiss	v.	嘶嘶声
+quack	v.	嘎嘎声
+oink	v.	哼
+roar	v.	吼叫
+snore	v.	打呼噜
+Games We Play		
+like	v.	喜欢
+to	inf.	表示目的或意图
+we	pron.	我们
+baseball	n.	棒球
+dress-up	n.	装扮
+hide-and-seek	n.	捉迷藏
+video games	n.	电子游戏
+soccer	n.	足球
+Bananas Sometimes		
+eat	v.	吃
+good	adj.	好的
+like	prep.	像
+look	v.	看起来
+to	inf.	表示目的或意图
+frowns	n.	皱眉（复数）
+smiles	n.	微笑（复数）
+telephones	n.	电话（复数）
+Gracie's Nose		
+is	v.	是
+my	pron.	我的
+sniff	v.	闻
+bugs	n.	虫子（复数）
+lunch	n.	午餐
+toes	n.	脚趾（复数）
+roses	n.	玫瑰（复数）
+Animals Can Move		
+can	modal	能
+the	art.	这个
+crawl	v.	爬行
+slither	v.	蛇行
+Henry's Hike		
+deer	n.	小鹿
+hikes	v.	徒步
+mud	n.	泥坑
+past	prep.	经过
+pond	n.	池塘
+trail	n.	林荫路
+down	prep.	向下
+on	prep.	在...上面
+up	prep.	向上
+Beach Fun		
+beach	n.	沙滩
+castles	n.	城堡
+dig	v.	挖
+kites	n.	风筝
+shells	n.	贝壳
+swim	v.	游泳
+at	prep.	在...处
+the	art.	这个
+we	pron.	我们
+I Love Art Class		
+a	art.	一个
+I	pron.	我
+make	v.	制作
+airplane	n.	飞机
+chain	n.	项链
+mess	n.	混乱
+Boats		
+boat	n.	小船
+carries	v.	搬运（三单）
+logs	n.	圆木（复数）
+police	n.	警察
+planes	n.	飞机（复数）
+trash	n.	垃圾
+this	pron.	这个
+Carlos and His Teacher		
+and	conj.	和
+his	pron.	他的
+add	v.	算加法
+share	v.	分享
+write	v.	写字
+paint	v.	画画

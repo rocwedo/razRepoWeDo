@@ -1,0 +1,26 @@
+Shelter Pets Are Best		
+breeders	n.	饲养员
+counselors	n.	顾问（复数）
+microchip	n.	芯片
+purebred	n.	纯种的
+shelter	n.	避难所
+veterinarian	n.	兽医
+lifestyle	n.	生活方式
+obedience training	n.	服从性训练
+owner	n.	主人
+shepherd	n.	牧羊人
+adopt	v.	收养
+tame	adj.	驯服的
+The Legend of Sleepy Hollow		
+haunted	adj.	闹鬼的
+mischief	n.	恶作剧
+mustered	v.	聚集（过去式）
+scorched	adj.	烤焦的
+stunning	adj.	令人震惊的
+vanished	v.	突然消失（过去式）
+bellowed	v.	怒吼（过去式）
+fawned	v.	恭维（过去式）
+shrieked	v.	尖叫（过去式）
+skinny	adj.	极瘦的
+trotting		小跑
+farewell	n.	告别

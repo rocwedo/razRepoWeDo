@@ -1,0 +1,89 @@
+Rocks		
+is	v.	是
+off	prep.	从...脱离
+this	pron.	这个
+boulder	n.	大卵石
+broke	v.	使...破裂
+pebble	n.	小圆石
+stone	n.	石头
+Teeth Brushing Fun		
+I	pron.	我
+my	pron.	我的
+the	art.	这个
+bottom	n.	底部
+minutes	n.	分钟
+toothpaste	n.	牙膏
+front	n.	前面
+Shadows		
+blocked	v.	挡住
+long	adj.	长的
+round	adj.	圆的
+shape	n.	形状
+square	adj.	方形的
+is	v.	是
+the	art.	这个
+There is a Mouse in the House		
+air	n.	空中
+boat	n.	小船
+cup	n.	茶杯
+fox	n.	狐狸
+house	n.	房子
+tea	n.	茶
+in	prep.	在...里面
+is	v.	是
+there	adv.	那里
+Snow Falls		
+clouds	n.	云彩
+desert	n.	沙漠
+falls	v.	落下
+forest	n.	森林
+mountains	n.	高山
+plains	n.	平原
+from	prep.	从...里来
+in	prep.	在...里面
+on	prep.	在...上面
+Too Hot!		
+catch	v.	抓住
+climb	v.	攀爬
+hot	adj.	热的
+outside	adv.	外面
+ride	v.	骑
+sprinkler	n.	喷灌器
+too	adv.	太...
+want	v.	想要
+we	pron.	我们
+Space		
+are	v.	是
+in	prep.	在...里面
+see	v.	看见
+the	art.	这个
+comets	n.	彗星
+satellites	n.	人造卫星
+planets	n.	行星
+sky	n.	天空
+Water Fight!		
+a		一个
+by	prep.	通过
+with	prep.	带着
+bucket	n.	桶
+noodle	n.	面条
+soaked	v.	浸透的
+sponge	n.	海绵
+squirt gun	n.	水枪
+Spirals, Spirals Everywhere		
+clouds	n.	云彩
+finger	n.	手指
+horn	n.	角
+shape	n.	形状
+shell	n.	贝壳
+spiral	n.	螺旋
+has	v.	有
+many	adj.	许多的
+this	pron.	这个
+We Make a Snowman		
+in	prep.	在...里面
+make	v.	制作
+the	art.	这个
+we	pron.	我们
+snowman	n.	雪人
+soup	n.	汤

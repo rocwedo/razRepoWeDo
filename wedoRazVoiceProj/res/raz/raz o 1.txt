@@ -1,0 +1,22 @@
+1849 The California Gold Rush		
+economy	n.	经济
+erosion	n.	侵蚀
+fortune	n.	运气
+gold rush	n.	淘金热
+mining	n.	采矿
+prospectors	n.	勘探者（复数）
+shovel	n.	铁锹
+wagon	n.	货车
+discovery	n.	发现
+Acadia National Park		
+donate	v.	贡献
+mammals	n.	哺乳动物
+national park	n.	国家公园
+preserve	v.	保护
+tides	n.	潮汐(复数）
+variety	n.	多样性
+limits	v.	限制（三单）
+migrate	v.	迁徙
+falcon	n.	猎鹰
+coastline	n.	海岸线
+raptors	n.	猛禽（复数）

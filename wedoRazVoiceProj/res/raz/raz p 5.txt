@@ -1,0 +1,48 @@
+Magnetism		
+atoms	n.	原子（复数）
+electromagnets	n.	电磁体（复数）
+force	n.	力量
+magnetic poles	n.	磁极
+motors	n.	发动机（复数）
+repel	v.	排斥
+encode	v.	编码
+generators	n.	发电机（复数）
+lines of force	n.	磁力线
+lodestone	n.	天然磁石
+magnetic	adj.	有磁性的
+magnetic field	n.	磁场
+magnetism	n.	磁力
+electricity	n.	电
+magnet	n.	磁铁
+sprinkle	adj.	撒
+Seals, Sea Lions, and Walruses		
+blubber	n.	鲸脂
+migrate	v.	迁徙
+molt	v.	蜕皮
+pinnipeds	n.	鳍足动物
+predators	n.	捕食性动物（复数）
+prey	n.	猎物
+haul out	v.	拖出
+marine	adj.	海生的
+walruses	n.	海象（复数）
+feature	n.	特征
+fluffy	adj.	毛茸茸的
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

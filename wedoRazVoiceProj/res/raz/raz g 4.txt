@@ -1,0 +1,41 @@
+Penny the Rude Penguin		
+bumped	v.	碰撞
+mean	v.	本意是
+sliding	v.	滑动（slide的现在分词）
+sorry	adj.	抱歉的
+spun	v.	旋转（spin的过去式）
+whacked	v.	重击（whack的过去式）
+Time of Day		
+afternoon	n.	下午
+evening	n.	晚上
+morning	n.	早晨
+o’clock	adj.	...点钟
+time	n.	时间
+tomorrow	adv.	明天
+Science Fair		
+helicopter	n.	直升机
+leaked	v.	渗漏（leak的过去式）
+prize	n.	奖品
+robot	n.	机器人
+science fair 	n.	科学展览
+soda volcano	n.	苏打火山
+work	v.	奏效
+Wiggly Worms 		
+cocoon	n.	茧
+mate	v.	交配
+slimy	adj.	黏滑的
+soil	n.	土壤
+tunnels	n.	隧道
+waste	n.	排泄物
+ A Trip to Petra		
+canyon	n.	峡谷
+channels	n.	通道，水槽
+lost city	n.	遗失的古城
+temple	n.	庙宇
+tombs	n.	古墓
+treasures	n.	财宝
+look	v.	看
+saw	v.	看见（see的过去式）
+said	v.	说（say的过去式）
+thought	v.	认为（think的过去式）
+use	v.	用

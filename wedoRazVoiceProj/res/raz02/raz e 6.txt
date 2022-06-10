@@ -1,0 +1,90 @@
+Let's Carve a Pumpkin		
+ask	v.	请求
+help	v.	帮助
+you	pron.	你
+carve	v.	雕刻
+draw	v.	画画
+light	v.	点亮
+scoop	v.	挖出
+The Sister C		
+ceiling	n.	天花板
+cement	n.	水泥
+cereal	n.	谷物
+concerts	n.	音乐会
+hard	adj.	坚硬的
+soft	adj.	柔软的
+and	conj.	和
+are	v.	是
+like	v.	喜欢
+Let's Make Lemonade		
+for	prep.	为了
+our	pron.	我们的
+this	pron.	这个
+pitcher	n.	投手
+spot	v.	斑点
+squeeze	v.	挤出
+thirsty	adj.	口渴的
+sticky	adj.	甜腻的
+Sloth Wants to Snooze		
+into	prep.	到...里面
+she	pron.	她
+too	adv.	太
+were	v.	是
+forgot	v.	忘记
+noisy	adj.	吵闹的
+rainforest	n.	热带雨林
+sloth	n.	树懒
+snooze	v.	小睡
+Lunch Boxes		
+common	adj.	普通的
+fancy	adj.	精巧的
+lunch boxes	n.	午餐盒（复数形式）
+plain	adj.	简朴的
+rectangles	n.	长方形（复数形式）
+round	adj.	圆的
+new	adj.	新的
+old	adj.	旧的
+some	adj.	一些的
+Stop Snoring!		
+on	adv.	表示持续性
+they	pron.	他们
+instruments	n.	乐器（复数形式）
+loudly	adv.	大声的
+snoring	v.	打呼噜（现在分词）
+squeeze	v.	捏
+style	v.	做造型
+Making Pizza		
+like	prep.	像
+making	v.	使得（现在分词）
+this	pron.	这个
+too	adv.	太
+cheese	n.	奶酪
+pepperoni	n.	意大利腊肉肠
+sauce	n.	调味汁
+spread	v.	涂
+toss	v.	抛
+The Storm		
+around	adv.	周围
+coming	v.	来到（现在分词）
+get	v.	变得
+stops	v.	停止（第三人称单数）
+lighting	n.	闪电
+thunder	n.	雷声
+winds	n.	大风（复数形式）
+flashes	v.	闪光（第三人称单数）
+gather	v.	聚集
+Places Plants and Animals Live		
+are	v.	是
+in	prep.	在...里面
+live	v.	生存
+plains	n.	平原（复数形式）
+rainforests	n.	热带雨林（复数形式）
+salty	adj.	咸的
+steep	adj.	陡峭的
+tundra	n.	苔原
+Time for Bed		
+for	prep.	为了
+brushes	v.	刷（第三人称单数）
+drinks	v.	喝（第三人称单数）
+pajamas	n.	睡衣
+glass	n.	玻璃杯

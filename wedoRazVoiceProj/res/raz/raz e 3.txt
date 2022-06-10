@@ -1,0 +1,87 @@
+Country Animals		
+animals	n.	动物
+country	n.	乡村
+fields	n.	田野
+grains	n.	谷物
+nests	n.	鸟巢
+rivers	n.	河流
+eat	v.	吃
+kinds	n.	种类
+from	prep.	来自
+Class Pets		
+care	v.	关心，照顾
+classes	n.	班级（class的复数）
+guinea pig 	n.	豚鼠
+hamster	n.	仓鼠
+pets	n.	宠物
+squeak	v.	发出吱吱声
+play	v.	玩
+we	pron.	我们
+Crazy Cakes		
+beehive	v.	蜂巢
+marble	n.	大理石
+peacock	n.	孔雀
+rooster	n.	公鸡
+treasure chest	n.	宝箱
+unicorn	n.	独角兽
+use	v.	使用
+like	prep.	像
+look	v.	看
+make	v.	做出
+The Contest 		
+contest	n.	竞赛
+farther	adv.	远地
+mine	pron.	我的
+past	prep.	经过
+seed	n.	籽
+spit	v.	吐
+away	prep.	在远处
+went	v.	走
+A Day of Firsts		
+exciting	adj.	兴奋的
+first	adj.	第一次的
+grade	n.	年级
+learn	v.	学习
+meet	v.	见面
+pack	v.	打包
+Fantastic Phil		
+budge	v.	移动
+face	v.	面对
+nephew	n.	侄子
+relief	n.	安慰
+toil	v.	努力
+triumph	n.	成功
+finally	adv.	最后地
+help	v.	帮助
+his	pron.	他的
+says	v.	说
+The First Strawberry		
+bloom	v.	开花
+fruits	n.	果实
+patch	n.	小块土地
+pests	n.	害虫
+spread	v.	分开，散开
+strawberries	n.	草莓
+your	pron.	你的
+Five Seconds to Blastoff 		
+blastoff	n.	发射
+control room 	n.	控制室
+rocket	n.	火箭
+seconds	n.	秒
+space	n.	太空
+T. rex	n.	霸王龙
+there	adv.	在那里
+Food Trucks		
+barbecue	n.	烤肉
+crowds 	n.	人群
+kitchen	n.	厨房
+seafood	n.	海鲜
+tacos	n.	卷饼
+taste	v.	尝起来
+Grandparents Day		
+bakes	v.	烤，烘焙
+grandparents	n.	爷爷奶奶
+piano	n.	钢琴
+share	v.	分享
+together	adv.	一起
+watches	v.	注视

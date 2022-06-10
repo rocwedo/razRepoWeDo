@@ -1,0 +1,87 @@
+At the Watering Hole		
+drink	v.	喝水
+flock	n.	兽群
+pack	n.	一群
+parade	n.	群
+savanna	n.	稀树大草原
+watering hole	n.	水潭
+come	v.	来到
+look	v.	看
+take	v.	拿
+Fishing with Grandpa		
+get	v.	得到
+go	v.	去
+we	pron.	我们
+pole	n.	竿
+worms	n.	虫子（复数形式）
+hook	n.	鱼钩
+Bald Eagle		
+beautiful	adj.	漂亮的
+city halls	n.	市政厅（复数形式）
+flags	n.	旗子（复数形式）
+free	adj.	自由的
+national	adj.	国家的
+symbol	n.	象征
+for	prep.	为了
+many	adj.	许多的
+of	prep.	的
+Fishtank Fun		
+alien	n.	外星人
+astronaut	n.	宇航员
+fishtank	n.	鱼缸
+pretend	v.	假装
+submarine	n.	潜水艇
+warrior	n.	武士
+can	modal.	能
+has	v.	有（第三人称单数)
+my	pron.	我的
+Battery Power		
+batteries	n.	电池
+charged	v.	充电
+chemicals	n.	化学物质
+electricity	n.	电能
+energy	n.	能量
+power	v.	运转
+can	modal.	能够
+many	adj.	许多的
+they	pron.	他们
+Flashlight Shadow Show		
+makes	v.	使得（第三人称单数)
+that	pron.	那个
+with	prep.	伴着
+crack	n.	重击声
+flashlight	n.	手电筒
+flight	n.	航行
+howls	v.	嗥叫
+Cascarones		
+celebrate	v.	庆祝
+confetti	n.	五彩纸屑
+crack	v.	破裂
+eggshells	n.	蛋壳（复数形式）
+fill	v.	填充
+painted	adj.	上色的
+are	v.	是
+makes	v.	制造（复数形式）
+some	adj.	一些的
+Following the Map		
+her	pron.	她的
+she	pron.	她
+went	v.	去(过去式）
+compass	n.	指南针
+east	n.	东方
+north	n.	北方
+south	n.	南方
+west	n.	西方
+Changing Seasons		
+have	v.	有
+then	adv.	然后
+where	adv.	哪里
+cycle	n.	循环
+season	n.	季节
+Friends in the Stars		
+me	pron.	我
+see	v.	看见
+what	adv.	什么
+breathing	v.	呼吸（现在分词）
+slithering	v.	爬行（现在分词）
+waving	v.	挥动（现在分词）

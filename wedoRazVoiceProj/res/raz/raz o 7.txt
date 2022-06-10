@@ -1,0 +1,20 @@
+ Whales		
+baleen	n.	鲸须
+blowhole	n.	(鲸头顶的)呼吸孔
+blubber	n.	鲸脂
+buoyant	adj.	有浮力的
+extinction	n.	灭绝
+pods	n.	荚
+decibels	n.	分贝（复数）
+narwhal	n.	独角鲸
+Wonders of Nature		
+burrow	v.	挖洞
+glide	v.	滑翔
+larvae	n.	幼虫
+silk	n.	丝
+tropical	adj.	热带的
+wetlands	n.	湿地（复数）
+nature	n.	自然
+underground	adj.	地下的
+wonders	n.	奇观（复数）
+		

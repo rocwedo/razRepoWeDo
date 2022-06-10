@@ -1,0 +1,20 @@
+About Trees		
+bark	n.	吠声
+chlorophyll	n.	叶绿素
+nutrients	n.	营养物
+protect	v.	保护
+sap	n.	树液
+sprout	v.	发芽
+conifers	n.	针叶树（复数）
+deciduous	adj.	落叶的
+seed case	n.	果皮
+Breeds of Dogs		
+breeds	n.	品种（复数）
+herding dogs	n.	牧羊犬（复数）
+hounds	n.	猎犬（复数）
+sporting dogs	n.	运动犬（复数）
+terriers	n.	梗类犬（复数）
+toy dogs	n.	玩具狗（小型宠物狗）
+mixed-breed	adj.	混血的
+purebred	adj.	纯种的
+working dogs	n.	工作犬（复数）

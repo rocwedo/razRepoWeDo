@@ -1,0 +1,456 @@
+Ancient Egypt 		
+culture 	n.	文化
+mummy	n.	木乃伊
+pharaoh	n.	法老
+preserved	adj.	被保存的
+pyramid	n.	金字塔
+tomb	n.	墓穴
+ancient 	adj.	古代的
+burial	n.	葬礼
+thieves	n.	小偷（thief 的复数）
+worshipped	v.	 崇拜; 尊崇
+Nile River 	n.	尼罗河
+Egyptians 	n.	埃及人
+beliefs 	n.	信仰
+spirit 	n.	精神，灵魂
+Sphinx 	n.	（古埃及）狮身人面像
+China		
+border 	n.	边界, 边境
+characters 	n.	汉字
+civilizations 	n.	文明
+ancient 	adj.	古代的
+wetlands 	n.	湿地
+bamboo 	n.	竹子
+The People’s Republic of China	n.	中华人民共和国
+Russia 	n.	俄罗斯
+Asia 	n.	亚洲
+Mandarin 	n.	普通话
+alphabet 	n.	26字母表
+celebrations	n.	庆祝活动
+created 	v.	创造
+gunpowder 	n.	火药
+Silk Road 	n.	丝绸之路
+The 100th Day Project		
+brainstorm 	v.	头脑风暴
+celebrate	v.	庆祝
+creative	adj.	有创造力的
+curious	adj.	好奇的
+grid	n.	格子
+project	n.	项目，课题
+custodians	n.	管理员
+principal	n.	校长
+cafeteria	n.	食堂
+Deep in the Ocean 		
+marine 	adj.	海洋的
+water pressure 	n.	水压
+oceanographer	n.	海洋学家
+species	n.	物种
+submersible	n.	潜水器,深潜器,
+tag	v.	标记，给...加标签
+report 	n.	报告
+study	v.	研究
+Satellites 	n.	卫星
+surprising 	adj.	使人惊讶的
+census 	n.	生物普查
+temperature 	n.	温度
+Arctic sea 	n.	北冰洋
+freezing 	adj.	严寒的
+see-through 	adj.	透明的
+Dragonflies		
+directions 	n.	方向
+shed 	v.	蜕皮
+habitat	n.	栖息地
+insects	n.	昆虫
+life cycle	n.	生命周期
+pairs	n.	一对，一双
+entire	adj.	整个的
+splits	v.	裂开
+swoop	v.	俯冲
+mosquitoes 	n.	蚊子
+swarms 	n.	（昆虫等）群
+Goldilocks and the Three Bears 		
+answered	v.	回答，回应
+groaned	v.	抱怨
+knocked	v.	 敲
+porridge	n.	粥
+returned	v.	返回
+whined	v.	抱怨
+gobbled 	v.	狼吞虎咽，大口大口地吃
+How Animals Sleep 		
+awake 	adj.	醒着的
+brain	n.	大脑
+ceiling	n.	天花板
+glide	v.	滑翔
+sleep	v.	睡觉
+surface	n.	表面
+periods 	n.	一段时间
+How to Make Ice Cream 		
+creation 	n.	创作物
+ingredients	n.	配料
+mixture	n.	混合物
+remember	v.	记得
+toppings	n.	浇料
+vanilla	adj.	香草味的
+sealable 	adj.	密封的
+Jessica Loves Soccer 		
+Championships	n.	锦标赛
+goal	n.	进球得的分
+invisible	adj.	隐形的
+miserable	adj.	痛苦的
+spectacular	adj.	精彩的
+teammates	n.	队友
+coach 	n.	教练
+field	n.	球场
+goalie	n.	守门员
+neighborhood	n.	社区
+referee	n.	裁判员
+captain 	n.	队长
+determined	adj.	坚定的,坚决的
+Insect Life Cycle 		
+cocoons 	n.	茧
+larva	n.	幼虫
+life cycle 	n.	生命周期
+metamorphosis	n.	变态，变形（尤指从蛹变为昆虫）
+nymph	n.	若虫(与成虫相似的昆虫幼体)
+pupa	n.	pupa
+adult	n.	成虫
+egg	n.	卵
+rarely	adv.	很少地
+foam 	n.	泡沫
+larvae 	n.	幼虫（larva的复数）
+destroy 	v.	毁坏
+devour 	v.	吞食
+thread 	n.	线；细线
+Introducing Planet Earth 		
+continents 	n.	大陆;  洲
+equator	n.	赤道
+latitude	n.	纬度
+longitude	n.	经度
+North Pole	n.	北极
+South Pole 	n.	南极
+Antarctica 	n.	南极洲
+seasons	n.	季节
+tilted	adj.	倾斜的
+solar system 	n.	太阳系
+Mercury 	n.	水星
+unevenly 	adv.	不均匀地;不平衡地
+direct 	adj.	直接的
+identify 	v.	识别
+rotate 	v.	旋转
+Joey’s Stop Sign 		
+agenda 	n.	议程
+city council	n.	市议会
+discuss	v.	讨论
+majority	n.	多数
+petition	n.	请愿书
+signature	n.	签名
+accomplished 	v.	完成, 实现
+microphone	n.	麦克风
+research	n.	调查
+Kenya		
+tribes 	n.	部落
+crops 	n.	农作物
+highlands 	n.	高地
+rare 	adj.	稀有的
+protected 	adj.	受保护的
+savannas 	n.	热带稀树草原
+Africa 	n.	非洲
+Indian Ocean 	n.	印度洋
+businesses 	n.	企业；生意
+guests	n.	客人
+The Great Rift Valley	n.	东非大裂谷
+treasures 	n.	宝藏
+Plant Defenses 		
+defend	v.	防卫，防御
+fluid	n.	液体
+poison	n.	毒素
+prickles	n.	刺（长在植物茎上）
+spines	n.	刺（长在植物叶子上）
+thorns	n.	刺（长在树枝上）
+invading 	adj.	入侵的
+defenseless 	adj.	无防御的，不能自卫的
+The Last Day of School		
+classmates 	n.	同学
+goals	n.	目标
+kickball	n.	踢球
+office	n.	办公室
+sign	v.	签名
+yearbooks	n.	学校年刊
+except	prep.	除了
+include	v.	包括
+completely 	adv.	完全
+crisscrossed	v.	纵横交错
+focused	adj.	专注的
+home plate 	n.	本垒板
+suddenly 	adv.	突然
+Two Make Twins 		
+bond 	n.	联系
+characteristics	n.	特征
+fraternal twins 	n.	异卵双胞胎
+identical twins 	n.	同卵双胞胎
+personalities	n.	个性
+twin	n.	双胞胎
+alike 	adj.	同样的, 相像的
+exact 	adj.	精确的
+identical 	adj.	完全一样的
+slightly 	adv.	稍稍
+reversed	adj.	相反的
+invent 	v.	发明
+Acadia National Park 		
+donate	v.	捐赠
+mammals	n.	哺乳动物
+migrate 	v.	迁徙
+national park 	n.	国家公园 
+raptors	n.	猛禽类动物
+tides	n.	潮汐
+area	n.	地区
+became	v.	成为
+different	adj.	不同的
+Little Red Riding Hood 		
+bound 	n.	跳跃
+sprinted	v.	冲刺，全速奔跑
+strangers	n.	陌生人
+swallowed	v.	吞下；咽下
+tickled	v.	使发痒
+wicked	adj.	邪恶的
+farther 	adv.	远
+through	prep.	穿过
+explained 	v.	解释
+managed 	v.	设法
+Badlands National Park 		
+distance 	n.	远处
+layer	n.	层
+protect 	v.	保护
+National Park	n.	国家公园 
+tough	adj.	艰苦的，恶劣的
+warn	v.	警告
+area 	n.	地区
+believe	v.	相信
+history	n.	历史
+native 	adj.	当地的，本地的
+jungle 	n.	丛林
+prairie 	n.	大草原；牧场
+beware 	v.	谨防, 当心
+Big Ben and Westminster Palace 		
+Parliament 	n.	议会
+laws 	n.	法律
+the United Kingdom 	n.	英国
+House of Commons 	n.	(英国)下议院
+House of Lords 	n.	(英国)上议院
+chiming 	adj.	鸣钟报时的
+palace 	n.	宫殿
+chimney	n.	烟道
+debate 	v.	辩论，讨论
+exactly 	adv.	精确地；准确地
+British 	adj.	英国的
+Wonderful Winter		
+adventures 	n.	冒险
+bundled	v.	匆匆送走; 推搡
+galoshes	n.	胶套鞋
+snowshoeing	n.	雪地健行
+suggested	v.	建议
+wrinkled	v.	皱了皱
+grumpiest 	adj.	生气的（grumpy的最高级）
+sledding 	n.	滑雪橇
+terrific 	adj.	极好的
+Big Machines		
+barge 	n.	驳船
+cargo	n.	货物
+concrete	n.	水泥
+excavators	n.	挖掘机
+machines	n.	机器
+resources	n.	资源
+container ships	n.	集装箱船
+trailor	n.	拖车
+shovels 	n.	铁铲
+bulldozers 	n.	推土机
+dump trucks	n.	自卸卡车
+flatbed trucks 	n.	平板卡车
+cranes 	n.	起重机
+scrapers 	n.	刮运机
+loaders 	n.	装载机
+graders 	n.	平路机
+drills	n.	钻机
+products 	n.	产品
+massive 	adj.	大量的
+Bison Came Back 		
+bison 	n.	北美野牛
+exist	v.	存在
+extinct 	adj.	灭绝的
+hides	n.	兽皮
+roam	v.	漫游，漫步
+shelter	n.	庇护所，住所
+important	adj.	重要的
+probably	adv.	可能
+protect	v.	保护
+provide	v.	提供
+several	adj.	几个的
+settlers 	n.	居住者；移居者
+The Animal Bridge 		
+construction 	n.	施工
+dizzy	adj.	晕眩的
+encouraging 	v.	鼓励，鼓舞
+fumed	v.	十分恼火
+humans	n.	人类
+sprayed	v.	喷射
+project	n.	项目
+underneath	prep	在…的下面
+chopping 	v.	砍伐（chop的ing形式）
+bragged	v.	吹嘘
+dashed	v.	猛冲
+boasted	v.	自吹自擂
+dent	n.	凹痕
+disappointed 	adj.	失望的
+Anna and the Painted Eggs 		
+fair 	n.	集市
+wind	v.	给…上发条
+hatched	v.	孵化
+music box	n.	音乐盒
+pysanky eggs	n.	彩绘蛋（乌克兰）
+Ukrainian	adj.	乌克兰的
+village	n.	村庄
+kistka	n.	画笔（制作乌克兰彩绘蛋的专用工具）
+market	n.	市场
+laid 	v.	下蛋（lay的过去式）
+wax	n.	蜡
+design	n.	设计
+brightly 	adv.	明亮地；鲜明地
+Blizzards 		
+biting 	adj.	刺痛的
+blizzard	n.	暴风雪
+dangerous 	adj.	危险的
+hurricane	n.	飓风
+whiteout	n.	临时性失明（因暴露于恶劣环境而引起的）
+wind chill 	n.	风寒
+cause 	v.	导致
+enough 	adj.	足够的
+impossible	adj.	不可能的
+prepare	v.	准备
+several	adj.	几个的
+Cinderello 		
+chores 	n.	杂活
+fairy godmother 	n.	仙女教母
+pitcher	n.	投手
+runt	n.	小不点儿
+transformed	v.	改变
+tryouts	n.	选拔赛
+allow	v.	允许
+overjoyed	adj.	万分高兴的, 欣喜若狂的
+siblings 	n.	兄弟姐妹
+spoiled 	adj.	被宠坏的
+bullied	v.	欺负（bully的过去式）
+talented 	adj.	有天赋的
+thrilled	adj.	兴奋的
+package 	n.	包裹
+recognize 	v.	认出
+Celebrating Ramadan 		
+celebration 	n.	庆祝
+crescent moon 	n.	新月，月牙形的月亮
+fast	v.	斋戒
+new moon	n.	新月
+praying	v.	祈祷
+religion	n.	宗教
+culture	n.	文化
+entire	adj.	整个的
+important	adj.	重要的
+Ramadan	n.	斋月节
+Muslims 	n.	穆斯林
+Islam 	n.	伊斯兰教
+calendar 	n.	日历；历法
+donate 	v.	捐赠，捐献
+Cy and Medusa 		
+direct	adj.	直接的
+minotaur	n.	人身牛头怪物
+miracle 	n.	奇迹
+monocle	n.	单片眼镜
+shop class	n.	手工课
+visor	n.	面罩
+contact 	n.	接触
+enough	adj.	足够的
+however	adv.	然而
+Chichén Itzá 		
+ruins 	n.	废墟
+Maya 	n.	玛雅人
+carved	adj.	雕刻的
+columns 	n.	石柱
+wells 	n.	井
+temples 	n.	庙宇
+peninsula 	n.	半岛
+plain 	adj.	普通的
+cenotes	n.	天然水井
+slippery 	adj.	滑的
+Colosseum 		
+stadium 	n.	体育馆
+gladiators 	n.	角斗士
+empire 	n.	帝国
+defeat 	v.	打败
+cranes 	n.	起重机
+Arches	n.	拱门
+ruin 	n.	废墟；遗迹
+symbol 	n.	象征
+ancient	adj.	古代的
+fought 	v.	决斗（fight的过去式）
+Rome 	n.	罗马
+battles 	n.	战役
+emperor	n.	皇帝
+glory 	n.	荣耀，辉煌
+Jewish 	adj.	犹太人的
+enslaved 	adj.	被奴役的
+Eggy’s Easy Out 		
+catcher 	n.	接球手
+coach	n.	教练
+fastball	n.	(投手投出的)快球
+inning	n.	（棒球的）一局
+pitcher	n.	投手
+pop-up 	n.	内野飞球
+Little League 	n.	少年棒球联合会
+mitt	n.	棒球手套
+signals	v.	发暗号; 示意
+Diabetes and Me 		
+blood sugar 	n.	血糖
+carbohydrates	n.	碳水化合物; 糖类
+contagious	adj.	传染性的
+diabetes	n.	糖尿病
+insulin	n.	胰岛素
+cure 	v.	治愈
+waist 	n.	腰部
+prick 	v.	刺，扎，戳
+glucose 	n.	葡萄糖
+bloodstream	n.	血流,体内循环的血液
+bracelet	n.	手环
+A Hero’s Name 		
+deeds 	n.	善行
+famous	adj.	有名的
+heroic	adj.	英雄的
+nickname	n.	昵称，小名
+saint	n.	圣人
+signed	v.	签名
+perfectly 	adv.	完美地;理想地
+explained 	v.	解释
+oral 	adj.	口头的，口述的
+awesome 	adj.	令人敬畏的，极好的
+Discovering Dinosaurs 		
+dinosaurs	n.	恐龙
+examine	v.	检查
+extinct 	adj.	灭绝的
+fossils	n.	化石
+museum	n.	博物馆
+remains	n.	残骸
+discover	v.	发现
+study	v.	研究
+excavating	v.	挖掘
+replace 	v.	代替，替换
+grind 	v.	磨碎
+complete	adj.	完整的
+estimate	v.	估计
+determine	v.	确定，测定
+Eiffel Tower 		
+tower 	n.	塔
+structure 	n.	建筑物
+beams 	n.	(建筑物的)梁
+cement 	n.	水泥
+capital 	n.	首都
+signals 	n.	信号
+restaurants 	n.	餐馆; 餐厅;
+contest 	n.	竞赛
+displays 	n.	陈列; 展览

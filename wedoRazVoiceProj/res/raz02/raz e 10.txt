@@ -1,0 +1,94 @@
+Skateboards		
+contests	n.	比赛（复数形式）
+helmets	n.	头盔（复数形式）
+pads	n.	护具（复数形式）
+ride	v.	乘坐
+skateboard	n.	滑板
+tricks	n.	技巧（复数形式）
+in	prep.	在...里面
+on	prep.	在...上面
+some	adj.	一些的
+What Is in the Box		
+big	adj.	大的
+brown	adj.	棕色的
+goes	v.	去（第三人称单数）
+knocks	v.	撞击（第三人称单数）
+smashed	v.	破碎（过去式）
+stamped	v.	冲压（过去式）
+tossed	v.	扔（过去式）
+The Leaning Tower		
+bell tower	n.	钟楼
+lean	v.	倾斜
+Pisa	n.	比萨
+safe	adj.	安全的
+weights	n.	重量（复数形式）
+workers	n.	工人（复数形式）
+call	v.	称作
+many	adj.	许多的
+too	adv.	太
+When I Grow Up		
+said	v.	说（过去式）
+when	adv.	当...时
+you	pron.	你
+alone	adj.	独自的
+myself	pron.	我自己
+shopping	v.	购物
+movies	n.	电影（复数形式）
+What's in That Pouch	
+in	prep.	在...里面
+that	pron.	那个
+bilbies	n.	兔耳袋狸（复数形式）
+kangaroo	n.	袋鼠
+koala	n.	考拉
+pouch	n.	口袋
+wallaby	n.	沙袋鼠
+Where Are My Things		
+branches	n.	树枝（复数形式）
+collecting	n.	收藏
+marbles	n.	弹珠（复数形式）
+roots	n.	根（复数形式）
+stamp	n.	邮票
+trunk	n.	树干
+he	pron.	他
+his	pron.	他的
+where	adv.	哪里
+Which Tree		
+hollow	adj.	空心的
+roots	n.	根（复数形式）
+sharp	adj.	尖锐的
+syrup	n.	糖浆
+trunk	n.	树干
+umbrella	n.	雨伞
+see	v.	看见
+their	pron.	他们的
+these	pron.	这些
+Zots Goes to School		
+behave	v.	行为
+focus	v.	集中注意力
+learn	v.	学习
+listen	v.	听
+try	v.	尝试
+work	v.	工作
+my	pron.	我的
+says	v.	说（第三人称单数）
+to	prep.	去
+Winter Sports		
+climbing	n.	攀爬
+ice hockey	n.	冰球
+skiing	n.	滑雪
+snowboarding	n.	单板滑雪
+snowshoeing	n.	雪地行走
+sports	n.	运动（复数形式）
+go	v.	去
+play	v.	玩
+we	pron.	我们
+Zots Learns to Play		
+against	prep.	违反
+breaking	v.	打破
+create	v.	创造
+rules	n.	规则（复数形式）
+swings	v.	晃动（第三人称单数）
+touches	v.	触摸（第三人称单数）
+play	v.	玩
+one	n.	一个
+say	v.	说

@@ -1,0 +1,91 @@
+Color Wheel Colors		
+color wheel	n.	色轮
+complementary	adj.	互补色
+primary colors	n.	三原色（复数形式）
+secondary colors	n.	次生色（复数形式）
+shades	n.	深色（复数形式）
+tints	n.	浅色（复数形式）
+blue	n.	蓝色
+red	n.	红色
+yellow	n.	黄色
+Giant Turnip		
+budge	v.	移动
+burst	v.	冲破
+grabbed	v.	抓住
+heap	n.	堆
+sprouted	v.	发芽
+turnip	n.	萝卜
+and	conj.	和
+by	prep.	经过
+help	v.	帮助
+Community Workers		
+is	v.	是
+this	pron.	这个
+who	pron.	谁
+community	n.	社会
+deliver	v.	传递
+firefighter	n.	消防员
+thermometer	n.	温度计
+healthy	n.	健康
+Hide and Seek With Zog		
+over	prep.	在..上方
+she	pron.	她
+when	adv.	当..时候
+curious	adj.	好奇的
+giggle	n.	咯咯笑
+juicy	adj.	多汁的
+knocks	v.	敲门（第三人称单数）
+Does It Sink or Float		
+in	prep.	在...里面
+some	adj.	一些的
+will	modal.	将会
+float	v.	漂浮
+sink	v.	下沉
+marble	n.	大理石
+penny	n.	一分钱
+How Is the Weather Today		
+how	adv.	怎样
+know	v.	知道
+want	v.	想要
+will	modal.	将会
+icy	adj.	结冰的
+stormy	adj.	有暴风雨的
+weather	n.	天气
+windy	adj.	多风的
+Election Day		
+booths	n.	投票站（复数形式）
+change	v.	改变
+count	v.	计算
+Election Day	n.	选举日
+stickers	n.	贴纸（复数形式）
+vote	v.	投票
+day	n.	天
+they	pron.	他们
+when	adv.	当..时候
+I Need A Snow Day		
+flake	n.	雪片
+important	adj.	重要的
+nervous	adj.	焦虑的
+run	v.	跑步
+studied	v.	学习（过去式）
+subway	n.	地铁
+day	n.	天
+let	v.	让
+much	adj.	很多的
+Firefighters		
+firefighters	n.	消防员（复数形式）
+helicopters	n.	直升飞机（复数形式）
+machines	n.	机器（复数形式）
+masks	n.	面具（复数形式）
+spray	v.	喷洒
+tools	n.	工具（复数形式）
+they	pron.	他们
+us	pron.	我们
+use	v.	使用
+Jobs for James
+he	pron.	他
+said	v.	说（过去式）
+counted	v.	计算（过去式）
+earn	v.	赚取
+proud	adj.	自豪的
+weeds	n.	杂草（复数形式）

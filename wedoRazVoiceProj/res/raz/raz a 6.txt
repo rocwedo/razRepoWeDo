@@ -1,0 +1,86 @@
+My Body		
+is	v.	是
+my	pron.	我的
+this	pron.	这是
+belly	n.	肚子
+chest	n.	胸脯
+foot	n.	脚
+head	n.	头
+hand	n.	手
+My Dog		
+can	modal.	能够
+my	pron.	我的
+climb	v.	爬
+dig	v.	挖
+roll	v.	打滚
+sit	v.	坐下
+My Easter Eggs		
+fancy	adj.	精巧的
+plain	adj.	朴素的
+silly	adj.	愚蠢的
+spooky	adj.	幽灵般的
+starry	adj.	布满星星的
+stormy	adj.	有暴风雨的
+is	v.	是
+this	pron.	这个
+My Face		
+is	v.	是
+my	pron.	我的
+this	pron.	这个
+cheek	n.	面颊
+chin	n.	下巴
+eyebrow	n.	眉毛
+My Hair		
+is	v.	是
+like	prep.	像
+what	pron.	什么
+my	pron.	我的
+your	pron.	你的
+blond	adj.	金色的
+braided	adj.	编小辫子的
+curly	adj.	卷曲的
+straight	adj.	直的
+My House		
+is	v.	是
+this	pron.	这个
+the	pron.	这个
+bathroom	n.	浴室
+bedroom	n.	卧室
+dining room	n.	餐厅
+hall	n.	走廊
+kitchen	n.	厨房
+living room	n.	客厅
+My Little Brother		
+brother	n.	弟弟
+feed	v.	喂
+help	v.	帮助
+hold	v.	抱住
+meet	v.	见到
+rock	v.	轻轻摇晃
+I	pron.	我
+my	pron.	我的
+My Room		
+are	v.	是
+here	adv.	这里
+is	v.	是
+my	pron.	我的
+clothes	n.	衣服
+desk	n.	桌子
+shoes	n.	鞋子
+Nice, Not Nice		
+is	v.	是
+not	adv.	不
+this	pron.	这个
+hit	v.	击打
+kick	v.	踢
+push	v.	推
+pull	v.	拉
+Now We Bake		
+bake	v.	烘焙
+frost	v.	撒糖霜
+pour	v.	倾倒
+serve	v.	端上
+shop	v.	购物
+wait	v.	等待
+now	adv.	现在
+we	pron.	我们

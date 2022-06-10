@@ -1,0 +1,96 @@
+Amazing Caves		
+bright	adj.	明亮的
+cave	n.	洞穴
+crystals	n.	水晶（复数）
+drawings	n.	图画（复数）
+sharp	adj.	尖锐的
+shiny	adj.	有光泽的
+has	v.	有(三单）
+this	pron.	这个
+worm	n.	虫子
+rock	n.	岩石
+After School		
+act	v.	表演
+sing	v.	唱歌
+play	v.	玩耍
+dance	v.	跳舞
+study	v.	学习
+bike	v.	骑自行车
+like	v.	喜欢
+after	prep.	...之后
+to	inf.	表示目的或意图
+have fun	v.	玩得开心
+Animal Coverings		
+have	v.	有
+just	adv.	仅仅，只
+we	pron.	我们
+armor	n.	盔甲
+spines	n.	刺（复数）
+scales	n.	鳞片（复数）
+shells	n.	壳（复数）
+skin	n.	皮肤
+All By Myself		
+build	v.	建造
+color	v.	涂色
+dress	v.	穿衣服
+listen	v.	听
+think	v.	思考
+myself	pron.	我自己
+all	pron.	所有
+I	pron.	我
+Animal Caution Signs		
+cattle	n.	牛
+caution	n.	注意
+elephants	n.	大象（复数）
+kangaroos	n.	袋鼠（复数）
+turtle	n.	乌龟
+watch	v.	小心
+for	prep.	对于
+moose	n.	麋鹿
+A Cold Day		
+cold	adj.	寒冷的
+feels	v.	感觉
+fence	n.	篱笆
+handle	n.	把手
+hot chocolate	n.	热可可
+mail	n.	邮件
+mailbox	n.	邮箱
+Animal Ears		
+does	v.	做
+have	v.	有
+has	v.	有(三单）
+this	pron.	这个
+pointed	adj.	尖的
+round	adj.	圆的
+spotted	adj.	有斑点的
+striped	adj.	有条纹的
+Drop It		
+burger	n.	汉堡
+doll	n.	洋娃娃
+paper	n.	纸
+keys	n.	钥匙
+slipper	n.	拖鞋
+drop	v.	放下
+good	adj.	好的
+the	art.	这个
+The Aquarium		
+flip	v.	快速翻动
+float	v.	漂浮
+glide	v.	滑翔
+jellyfish	n.	水母
+otters	n.	水獭
+tank	n.	水池
+eat	v.	吃
+in	prep.	在...里面
+this	pron.	这个
+Firefly		
+go	v.	去
+I	pron.	我
+one	num.	一个
+Monday	n.	星期一
+Tuesday	n.	星期二
+Wednesday	n.	星期三
+Thursday	n.	星期四
+Friday	n.	星期五
+Saturday	n.	星期六
+Sunday	n.	星期日

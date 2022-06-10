@@ -1,0 +1,85 @@
+Applesauce		
+are	v.	是
+some	pron.	一些
+the	art.	这个
+applesauce	n.	苹果酱
+cinnamon	n.	桂皮香料
+mash	v.	捣碎
+I pick up		
+I	pron.	我
+my	pron.	我的
+up	prep.	向上
+blanket	n.	毯子
+pick	v.	捡起
+Are these his or hers		
+clothes	n.	衣服
+jacket	n.	夹克衫
+jeans	n.	牛仔裤
+pajamas	n.	睡衣
+shirt	n.	衬衫
+shorts	n.	短裤
+his	pron.	他的
+these	pron.	这些
+Clean is not for me!		
+dirt	n.	尘土
+grass	n.	草
+hay	n.	干草
+ketchup	n.	酱汁
+oil	n.	油
+paint	n.	油漆
+for	prep.	为了
+is	v.	是
+my	pron.	我的
+Bridges		
+bridges	n.	桥梁
+made	v.	制作
+metal	n.	金属
+rope	n.	绳子
+stone	n.	石头
+wood	n.	木头
+are	v.	是
+from	prep.	来自
+some	pron.	一些
+I read a book		
+my	pron.	我的
+I	pron.	我
+to	inf.	表示目的或意图
+with	prep.	和
+aunt	n.	阿姨
+Fun with paper		
+change	v.	改变
+fold	v.	卷
+glue	v.	用胶水贴
+paper	n.	纸
+tape	v.	用胶带贴
+tear	v.	撕
+be	v.	是
+can	modal	能够
+you	pron.	你
+Go animals go		
+a	art.	一个
+in	prep.	在..里面
+is	v.	是
+on	prep.	在...上面
+the	art.	这个
+skates	n.	轮滑鞋
+Gobi Desert Animals		
+camels	n.	骆驼
+eagles	n.	鹰
+Gobi  Desert	n.	戈壁沙漠
+horses	n.	马
+lizards	n.	蜥蜴
+wolves	n.	狼
+in	prep.	在..里面
+live	v.	居住
+many	adj.	许多
+Lazy Lulu		
+blows	v.	吹
+feather	n.	羽毛
+fly	n.	苍蝇
+lazy	adj.	懒惰的
+leaf	n.	树叶
+seed	n.	种子
+by	prep.	经过
+not	adv.	不是
+sees	v.	看见

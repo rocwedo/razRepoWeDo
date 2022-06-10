@@ -1,0 +1,93 @@
+Strange Animals		
+animals	n.	动物
+blue dragon	n.	蓝龙
+living	adj.	活着的
+rosy	adj.	玫红的
+strange	adj.	奇怪的
+water bear	n.	水熊
+look	v.	看
+other	adj.	其他的
+some	adj.	一些的
+We Make Good Choices		
+choices	n.	选择
+fair	adj.	公平的
+healthy	adj.	健康的
+helpful	adj.	有帮助的
+quiet	adj.	安静的
+try	v.	尝试
+every	adj.	每个
+good	adj.	好的
+is	v.	是
+That's a Fruit		
+avocado	n.	牛油果
+eggplant	n.	茄子
+fruits	n.	水果
+pumpkin	n.	南瓜
+surprise	n.	惊喜
+tomato	n.	西红柿
+all	pron.	所有的
+is	v.	是
+some	adj.	一些的
+What Can I Be		
+ghost	n.	幽灵
+Halloween	n.	万圣节
+mummy	n.	僵尸
+pale	adj.	苍白的
+shiny	adj.	闪耀的
+sweet	adj.	甜美的
+be	v.	是
+can	modal.	可以
+I	pron.	我
+Wash Your Hands		
+bathroom	n.	洗手间
+between	prep.	在...之间
+fingers	n.	手指
+pet	n.	宠物
+sneeze	v.	打喷嚏
+wash	v.	洗
+after	prep.	在...之后
+before	prep.	在...之前
+your	pron.	你的
+What Can We Draw		
+draw	v.	画画
+hairy	adj.	毛茸茸的
+heap	n.	堆
+fluffy	adj.	蓬松的
+shower	n.	洗澡
+together	adv.	一起
+can	modal.	能够
+we	pron.	我们
+what	adv.	什么
+We Are All People		
+clothes	n.	衣服
+different	adj.	不同的
+homes	n.	家
+live	v.	居住
+same	adj.	相同的
+world	n.	世界
+be	v.	是
+may	modal.	或许
+their	pron.	他们的
+What I Want		
+to	prep.	去
+with	prep.	伴着
+dream	n.	梦
+something	pron.	有些事
+teach	v.	教
+want	v.	想要
+We Count		
+can	modal.	能够
+we	pron.	我们
+you	pron.	你
+count	v.	数
+crickets	n.	蟋蟀
+grubs	n.	幼虫
+fleas	n.	跳蚤
+slugs	n.	鼻涕虫
+What's My Job		
+is	v.	是
+know	v.	知道
+boss	n.	老板
+drives	n.	开车
+jobs	n.	工作
+women	n.	女士

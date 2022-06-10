@@ -1,0 +1,31 @@
+The Beekeeper		
+anther	n.	花粉囊
+bellows	n.	风箱（复数）
+congregate	v.	集合
+extract	v.	提取
+honeycomb	n.	蜂巢
+pistil	n.	雌蕊
+cells	n.	蜂窝（复数）
+native	adj.	当地的
+pollen	n.	花粉
+drone	n.	雄蜂
+pollinate	v.	授粉
+nectar	n.	花蜜
+evaporate	v.	蒸发
+hive	n.	蜂箱
+Edible Bugs		
+calories	n.	卡路里
+edible	adj.	可食用的
+insects	n.	昆虫
+nutrients	n.	养分
+recipes	n.	食谱
+uncomfortable	adj.	不舒适的
+calcium	n.	钙
+chef	n.	厨师
+diets	n.	饮食
+iron	n.	铁
+poisonous	adj.	有毒的
+protein	n.	蛋白质
+termites	n.	白蚁（复数）
+caterpillars	n.	毛毛虫（复数）
+cricket	n.	蟋蟀

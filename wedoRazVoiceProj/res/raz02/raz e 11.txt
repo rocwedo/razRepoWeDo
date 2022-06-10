@@ -1,0 +1,75 @@
+City Places		
+is	v.	是
+this	pron.	这个
+what	pron.	什么
+parking garage	n.	立体停车场
+skyscraper	n.	摩天大楼
+stadium	n.	体育场
+store	n.	商店
+Doctor Jen		
+has	v.	有（第三人称单数）
+is	v.	是
+my	pron.	我的
+ache	n.	疼痛
+cough	n.	咳嗽
+stiff	adj.	僵硬的
+All Kinds of Factories		
+have	v.	有
+into	prep.	到...里面
+make	v.	生产
+machines	n.	机器（复数形式）
+robots	n.	机器人（复数形式）
+buildings	n.	建筑物（复数形式）
+Maddy Loves to March		
+around	adv.	周围
+down	prep.	向下
+she	pron.	她
+band	n.	乐队
+march	v.	齐步走
+parade	n.	游行
+stairs	n.	楼梯（复数形式）
+street	n.	街道
+How to Tie Your Shoes		
+cross	v.	穿过
+face	v.	面对
+lace	n.	鞋带
+pinch	v.	捏
+reach	v.	伸出
+tight	adj.	紧的
+pull	v.	拉
+under	prep.	在...下面
+your	pron.	你的
+What's for Dinner		
+eat	v.	吃
+just	adv.	就
+like	adv.	像
+bending	v.	弯曲（现在分词）
+delicious	adj.	美味的
+hanging	v.	悬挂（现在分词）
+otter	n.	水獭
+tongue	n.	舌头
+Dolly's Drama Queen Day		
+said	v.	说（过去式）
+you	pron.	你
+when	adv.	当...时
+kicked	v.	踢（过去式）
+stomped	v.	跺脚（过去式）
+breath	n.	呼吸
+yelled	v.	叫喊（过去式）
+Wanda's Worst Day		
+her	pron.	她的
+she	pron.	她
+when	adv.	当...时
+funny	adj.	奇怪的
+sobbed	v.	抽泣（过去式）
+spilled	v.	溢出（过去式）
+Alive With Light		
+bodies	n.	身体（复数形式）
+catch	v.	抓住
+enjoy	v.	享受
+living	adj.	有生命的
+mates	n.	伴侣（复数形式）
+stay	v.	保持
+can	modal.	能
+make	v.	制造
+some	adj.	一些的

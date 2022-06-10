@@ -1,0 +1,93 @@
+I Am Your New Plant		
+give	v.	给
+me	pron.	我
+please	adv.	请
+plant	n.	植物
+soil	n.	土壤
+sunlight	n.	阳光
+Make a Tree Friend		
+a	art.	一个
+she	pron.	她
+to	prep.	去
+when	adv.	什么时候
+birch	n.	桦树
+elm	n.	榆树
+maple	n.	枫树
+oak	n.	橡树
+pine	n.	松树
+willow	n.	柳树
+I Work at the Stables		
+coat	n.	外皮
+hoof	n.	蹄
+stable	n.	马厩
+stall	n.	马槽
+stretch	v.	伸展
+watch	v.	看
+me	pron.	我
+play	v.	玩
+work	v.	工作
+Muddy Boots		
+covered	v.	覆盖（过去式）
+mess	n.	一团糟
+mop	n.	拖把
+noticed	v.	注意到（过去式）
+someone	pron.	某人
+tracks	n.	足迹
+look	v.	看
+made	v.	使得（过去式）
+said	v.	说（过去式）
+I'd Like to Be		
+crazy	adj.	疯狂的
+fail	v.	陷入
+fantasy	n.	幻想
+search	v.	搜索
+stew	n.	炖的菜
+vet	n.	兽医
+be	v.	是
+help	v.	帮助
+when	adv.	当...时候
+Not Enough Snow		
+don't	v.	不
+have	v.	有
+not	adv.	不是
+enough	adj.	足够的
+ruined	v.	毁坏（过去式）
+shovel	v.	铲除
+snow	n.	雪
+winter	n.	冬天
+In the Mountains		
+big	adj.	大的
+does	v.	做（第三人称单数）
+yes	int.	是
+chipmunk	n.	花栗鼠
+furry	adj.	毛茸茸的
+striped	adj.	线条的
+proud	adj.	骄傲的
+sly	adj.	狡猾的
+Nothing for Father's Day		
+has	v.	有（第三人称单数）
+last	ad	最后
+said	v.	说（过去式）
+crash	v.	崩溃
+laugh	v.	大笑
+nothing	pron.	没有什么
+Jobs We Do at School		
+collector	n.	收集者
+jobs	n.	工作（复数形式）
+leader	n.	带领者
+pass	v.	传递
+saver	n.	节能者
+student	n.	学生
+do	v.	做
+my	pron.	我的
+our	pron.	我们的
+Runaway Snowball		
+bigger	adj.	更大的
+breaks	v.	打破（第三人称单数）
+hill	n.	小山
+rolls	v.	滚动（第三人称单数）
+snowball	n.	雪球
+snowman	n.	雪人
+again	adv.	再一次
+do	v.	做
+say	v.	说

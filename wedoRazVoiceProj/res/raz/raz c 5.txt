@@ -1,0 +1,89 @@
+Moms Do So Much		
+is	v.	是
+her	pron.	她的
+this	pron.	这个
+cuddling	v.	拥抱
+feeding	v.	喂养
+protecting	v.	保护
+Pick Me!		
+agreed	v.	同意
+always	adv.	经常
+everyone	pron.	每个人
+kickball	n.	儿童球戏
+last	adj.	最后的
+picked	v.	捡起
+I	pron.	我
+me	pron.	我
+now	adv.	现在
+The Moon		
+changes	v.	改变
+cycle	n.	循环
+dark	adj.	黑暗的
+different	adj.	不同的
+full	adj.	充满的
+thin	adj.	瘦的
+again	adv.	再一次
+is	v.	是
+look	v.	看
+Road Trip		
+bridge	n.	桥
+dam	n.	水坝
+Grand Canyon	n.	科罗拉多大峡谷
+mountain	n.	高山
+road trip	n.	自驾游
+yawns	v.	打哈欠
+are	v.	是
+our	pron.	我们的
+we	pron.	我们
+More Baby Animals		
+called	v.	叫做
+donkey	n.	毛驴
+gorilla	n.	猩猩
+know	v.	知道
+koala	n.	考拉
+owl	n.	猫头鹰
+do	v.	做
+is	v.	是
+which	adv.	哪一个
+Sherman Sure Is Shy		
+is	v.	是
+fancy	adj.	华丽的
+grand	adj.	壮观的
+proud	adj.	自豪的
+wonderful	adj.	很棒的
+Pairs		
+make	v.	使成为
+of	prep.	的
+dice	n.	骰子
+gloves	n.	手套
+skates	n.	轮滑鞋
+twins	n.	双胞胎
+wings	n.	翅膀
+Spring-Cleanin!		
+basement	n.	地下室
+clean	v.	打扫
+kitchen	n.	厨房
+living room	n.	客厅
+porch	n.	走廊
+spring	n.	春天
+again	adv.	再一次
+open	v.	打开
+was	v.	是
+A Place Called Home		
+a	art.	一个
+is	v.	是
+the	art.	这个
+city	n.	城市
+country	n.	国家
+world	n.	世界
+state	n.	州
+Take A Bite		
+bite	v.	咬
+dessert	n.	甜点
+hated	v.	讨厌
+one	n.	一个
+plate	n.	盘子
+take	v.	食用
+his	pron.	他的
+of	prep.	的
+said	v.	说

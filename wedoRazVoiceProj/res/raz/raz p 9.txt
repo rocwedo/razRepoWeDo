@@ -1,0 +1,25 @@
+Art Around Us		
+cast	n.	模子
+ceramic	n.	陶瓷
+kiln	v.	在窑里烧制
+loom	n.	织布机
+mosaic	n.	马赛克
+murals	n.	壁画
+blowpipe	n.	(吹制玻璃器皿的)吹管
+glaze	n.	釉料
+pottery	n.	陶器
+installations	n.	设施
+Fantastic Flying Machines		
+blimp	n.	软式飞艇
+cargo	n.	货物
+hang glider	n.	悬挂式滑翔机
+hot-air balloon	n.	热气球
+jet engine	n.	喷气发动机
+propeller	n.	螺旋桨
+helium	n.	氦气
+military	n.	军事的
+parachutes	n.	降落伞
+		
+		
+		
+		

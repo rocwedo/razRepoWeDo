@@ -1,0 +1,224 @@
+Fantastic Flying Machines		
+blimp	n.	飞艇
+helicopter	n.	直升机
+hot-air balloon	n.	热气球
+jet engine	n.	喷气发动机
+propeller	n.	螺旋桨
+pilot	n.	飞行员
+gliders	n.	滑翔机
+vacation	n.	假期
+blades	n.	叶片
+distances	n.	距离
+direction	n.	方向
+saves	v.	节省
+steer	v.	驾驶
+Golf		
+club	n.	球杆
+contests	n.	竞赛
+course	n.	球场
+events	n.	赛事
+green	n.	果岭
+traps	n.	陷阱
+practice	v.	练习
+fewest	adj.	最少的（few的最高级）
+several	adj.	几个的
+rough	adj.	粗糙的
+Here Come the Cranes		
+cranes	n.	鹤
+flocks	n.	群
+mate	n.	配偶
+migrate	v.	迁徙
+predators	n.	捕食者
+shelter	n.	庇护所
+raise	v.	抚养
+sight	n.	景象
+The Last Day of School		
+kickball	n.	踢球
+nurse	n.	护士
+office	n.	办公室
+sign	v.	签名
+traded	v.	交换
+yearbooks	n.	年册
+except	prep.	除了
+excited	adj.	兴奋的
+perfect	adj.	完美的
+Hibernation		
+burrows	n.	洞穴
+predators	n.	捕食者
+sound	adj.	深度的，不受干扰的
+breathe	v.	呼吸
+hibernate	v.	冬眠
+store	v.	储存
+fat	n.	脂肪
+underground	n.	地下
+bottom	prep.	在…下面
+groundhogs	n.	土拨鼠
+chipmunks	n.	花栗鼠
+hedgehogs	n.	刺猬
+badgers	n.	獾
+Little Red Riding Hood		
+awoke	v.	醒来（awake的过去式）
+clump	n.	一捆，一束
+roared	v.	咆哮
+strangers	n.	陌生人
+swallowed	v.	吞下
+tickled	v.	(使)发痒
+farther	adv.	更远地（far的比较级）
+though	conj.	尽管
+through	prep.	穿过
+Hockey		
+control	n.	控制
+exciting	adj.	令人兴奋的
+goal	n.	进球
+puck	n.	冰球
+score	v.	得分
+team	n.	球队
+skate	v.	滑冰
+The Loser		
+baseball	n.	棒球
+dinosaur	n.	恐龙
+keys	n.	钥匙
+losing	n.	丢失
+signed	v.	签名
+umpire	n.	裁判员
+question	n.	问题
+same	adj.	相同的
+alone	adj.	独自的
+How to Make a Paper Airplane		
+level	adj.	水平的
+overlap	v.	重叠
+slanted	adj.	倾斜的
+straight	adv.	直地
+third	n.	三分之一
+width	n.	宽度
+already	adv.	已经
+another	adj.	另一个的
+same	adj.	相同的
+folded	v.	折叠
+corner	n.	拐角
+evenly	adv.	相等地；均匀地
+dashed	n.	虚线
+unfold	v.	展开
+The Magic Bike		
+contest	n.	竞赛
+envelope	n.	信封
+instructions	n.	说明
+magic	adj.	不可思议的，有魔力的
+mail	n.	邮箱
+prize	n.	奖项
+pedal	v.	踩踏板
+glow	v.	发光
+ceiling	n.	天花板
+tire	n.	轮胎
+stick	v.	坚持
+Is That a Fish		
+backbone	n.	脊柱
+eel	n.	鳗鱼
+fins	n.	鱼鳍
+gills	n.	鱼鳃
+ray	n.	鳐鱼
+seahorse	n.	海马
+surprised	adj.	惊讶的
+grab	v.	抓住
+spines	n.	刺
+wiggles	v.	摆动
+Monster Moving Day		
+collection	n.	收藏
+house	n.	房子
+move	v.	搬家
+plenty	n.	大量
+secret	n.	秘密
+thought	n.	想法
+comic book	n.	漫画书
+creaky	adj.	嘎吱作响的
+space	n.	空间
+Istanbul		
+church	n.	教堂
+mosque	n.	清真寺
+museum	n.	博物馆
+palace	n.	宫殿
+square	n.	广场
+tower	n.	塔
+Europe	n.	欧洲
+Asia	n.	亚洲
+Turkey	n.	土耳其
+rulers	n.	统治者
+important	adj.	重要的
+became	v.	成为
+Monster Music		
+beautiful	adj.	美妙的
+earn	v.	获得，挣得
+music	n.	音乐
+plunk	v.	弹奏
+shoppers	n.	购物者
+songs	n.	歌曲
+grand piano	n.	三角钢琴
+bench	n.	长凳
+storeowner	n.	店主
+Komodo Dragon Gaint Reptiles		
+attack	v.	攻击
+burrows	n.	洞穴
+hatch	v.	孵化
+hunters	n.	猎手
+plates	n.	鳞片
+reptiles	n.	爬行动物
+wild	adj.	野生的
+The Monster Pumpkins		
+contest	n.	竞赛
+harvest	n.	丰收
+measures	v.	测量
+pumpkin	n.	南瓜
+sprout	v.	发芽
+weigh	v.	称重
+blanket	n.	毯子
+scale	n.	秤
+patch	n.	小块土地
+grocery	n.	杂货店
+Lice Aren’t Nice		
+affect	v.	影响
+attach	v.	附着在…上
+egg	n.	卵
+hatch	v.	孵化
+lice	n.	虱子
+nits	n.	幼虫
+adult	n.	成虫
+type	n.	类型
+tough	adj.	困难的
+spread	v.	传播
+comb	n.	梳子
+itch	v.	发痒
+shampoo	n.	洗发水
+hair dryer	n.	吹风机
+guests	n.	客人
+Monster Snow Day		
+crash	v.	碰撞
+gray	adj.	灰色的
+skis	n.	滑雪板
+snowflakes	n.	雪花
+snowstorm	n.	暴风雪
+tosses	v.	抛
+pillows	n.	枕头
+scowls	v.	怒视
+fists	n.	拳头
+swiftly	adv.	敏捷地
+A Monument for George		
+honor	v.	表示对…的尊敬
+monument	n.	纪念碑
+museum	n.	博物馆
+National Mall	n.	国家广场
+president	n.	总统
+Washington Monument	n.	华盛顿纪念碑
+statue	n.	雕塑，雕像
+special	adj.	特别的
+earthquake	n.	地震
+damaged	v.	破坏
+repair	v.	修复
+Monster Soccer		
+dribble	v.	运球
+kick	v.	踢球
+pass	v.	传球
+score	v.	得分
+soccer	n.	足球
+goalie	n.	守门员
+goal	n.	球门
+shoots	v.	射出
