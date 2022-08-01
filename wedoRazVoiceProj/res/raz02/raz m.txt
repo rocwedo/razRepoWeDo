@@ -1,0 +1,460 @@
+Aesop’s Fables		
+compliments	n.	恭维; 称赞
+flatter	v.	奉承; 讨好; 向…谄媚
+greedy	adj.	贪婪的
+humble	adj.	简陋的
+jealous	adj.	妒忌的
+pitcher	n.	罐子
+luxury	n.	奢侈
+pasture	n.	牧场
+snapped	v.	猛咬
+already	adv.	已经
+reflection	n.	倒影
+moral	n.	寓意
+shepherd	n.	牧羊人
+Can I Vote		
+candidates	n.	候选人
+election	n.	选举
+government	n.	政府
+president	n.	总统
+registration	n.	登记
+responsibility	n.	责任
+curtains	n.	帘
+booths	n.	投票间
+officials	n.	官员
+sticker	n.	贴纸
+Dogs at Work		
+chemicals	n.	化学制品
+comfort	v.	安慰
+detection	n.	侦查
+disabilities	n.	残疾
+medicine	n.	药
+spasms	n.	身体痉挛
+area	n.	地区
+example	n.	例子
+instead	adv.	代替
+probably	adv.	可能
+cause	v.	导致
+sniffing	v.	嗅
+rescue	v.	营救，搜救
+criminals	n.	罪犯
+Arthur’s Bad-News Day		
+diapers	n.	尿布
+gigantic	adj.	巨大的
+incredible	adj.	不可置信的
+ruin	v.	破坏; 毁坏
+tickling	v.	使发痒，挠痒（tickle的ing形式）
+awful	adj.	可怕的；极讨厌的
+embrace	v.	拥抱
+wriggles	v.	扭动
+typical	adj.	典型的
+giggle	v.	咯咯地笑
+focus	n.	焦点
+attention	n.	关注
+gorgeous	adj.	非常漂亮的
+Jack’s Tale		
+ax	n.	斧子
+beanstalk	n.	豆茎
+cure	v.	治疗
+heals	v.	治愈，痊愈
+toppled	v.	倒塌；摇摇欲坠
+traded	v.	交易
+grumbled	v.	抱怨；嘟囔
+market	n.	市场
+wagonload	n.	一货车载荷
+Hibernation		
+burrows	n.	洞穴
+migrate	v.	迁徙
+predators	n.	天敌
+scarce	adj.	缺乏的
+survive	v.	幸存，生存
+torpor	n.	迟钝
+sound	adj.	（睡得）沉的
+Frogs and Toads		
+ability	n.	能力
+field guide	n.	野外指南
+habitat	n.	栖息地
+predators	n.	天敌
+prey	n.	猎物
+rodents	n.	啮齿类动物
+amphibians	n.	两栖动物
+relatives	n.	亲缘动物
+shrinks	v.	变小
+attract	v.	吸引
+poisonous	adj.	有毒的
+Marcus Loses Patches		
+accidentally	adv.	意外地；非故意地
+amulet	n.	护身符; 驱邪物
+apology	n.	道歉
+canine	n.	犬
+escaped	v.	溜走
+irresponsible	adj.	不负责任的
+hooked	adj.	成瘾的；入迷的
+awesome	adj.	极好的
+starving	adj.	饥饿的；挨饿的
+psyched	adj.	兴奋的
+locate	v.	定位; 确定…的准确地点
+disappointed	adj.	失望的
+Mother Teresa, Mother to Many		
+charity	n.	慈善
+inspiration	n.	灵感；使人产生动机的人（或事物）
+missionaries	n.	传教士（missionary的复数）
+nun	n.	修女
+saint	n.	圣人
+slums	n.	贫民窟
+blessing	n.	祝福；保佑
+extraordinary	adj.	非同寻常的
+Roman Catholic	adj.	罗马天主教的
+faith	n.	宗教信仰
+religion	n.	宗教信仰；宗教
+principal	n.	校长
+command	n.	命令
+declared	v.	宣称
+History of the Bicycle		
+bicycles	n.	自行车
+design	n.	设计
+frame	n.	框架
+gear	n.	齿轮
+invention	n.	发明
+materials	n.	材料
+iron	n.	铁
+pedals	n.	脚踏板
+rods	n.	棒条体
+Parrots		
+bills	n.	鸟喙
+communicate	v.	交流，沟通
+crest	n.	鸟冠
+mimic	v.	模仿
+rainforests	n.	热带雨林
+reason	v.	推理；思考
+nectar	n.	花蜜
+subtropical	adj.	亚热带的
+tropical	adj.	热带的
+The Story of the Statue	
+freedom	n.	自由
+independence	n.	独立
+liberty	n.	自由
+statue	n.	雕塑
+tablet	n.	碑
+torch	n.	火把，火炬
+base	n.	底部，基础
+copper	n.	铜
+Declaration of Independence	n.	独立宣言
+engineer	n.	工程师
+iron	n.	铁
+model	n.	模型
+How Much Is a Trillion		
+billion	n.	十亿
+exact	adj.	精确的；准确的
+million	n.	百万
+thousand	n.	千
+trillion	n.	万亿
+universe	n.	宇宙
+lottery	n.	彩票抽奖
+followed	v.	跟着，跟随
+businessperson	n.	商人
+Voyagers in Space		
+exploring	v.	探索
+moons	n.	月球
+planets	n.	行星
+rings	n.	环形物
+solar system	n.	太阳系
+spacecraft	n.	航天器; 宇宙飞船
+discoveries	n.	发现（discovery的复数）
+journey	n.	长途旅行
+telescopes	n.	望远镜
+Jupiter	n.	木星
+Saturn	n.	土星
+opposite	adj.	相反的
+Wild Horses		
+herds	n.	畜群
+mustangs	n.	野马
+pests	n.	害兽
+plains	n.	平原
+sanctuaries	n.	（鸟兽类）保护区
+tame	v.	驯养
+roam	v.	漫游，漫步
+Eurasia	n.	欧亚大陆
+traditional	adj.	传统的
+extinct	adj.	灭绝的
+colonizers	n.	殖民者
+native	adj.	本国的，当地 的
+oral	adj.	口头的，口述的
+evidence	n.	证据
+comparing	v.	比较（compare的ing形式）
+throughout	prep.	（表示时间）自始至终
+stallion	n.	种马；成年公马
+foals	n.	小马驹
+Jack’s Tale		
+ax	n.	斧头
+beanstalk	n.	豆茎
+heals	v.	治愈
+magic	n.	魔法
+toppled	v.	倒塌；摇摇欲坠
+traded	v.	交易，以物易物
+market	n.	市场
+might	n.	力气, 力量, 威力
+scrambling	v.	（迅速而吃力地）爬
+You Stink		
+burrow	n.	洞穴
+enemies	n.	敌人（enemy的复数）
+mammal	n.	哺乳动物
+relatives	n.	亲缘动物
+rodents	n.	啮齿类动物
+warnings	n.	警告
+arch	v.	（使）弯成拱形
+musk	n.	麝香
+rabies	n.	狂犬病
+Amazing Antarctica		
+continents	n.	大洲
+globe	n.	地球；球体
+predator	n.	捕食者
+protect	v.	保护
+research	n.	研究
+scientists	n.	科学家
+couple	n.	一些, 几个
+discover	v.	发现
+explains	v.	解释
+however	adv.	然而
+least	adj.	至少
+study	v.	研究
+Africa	n.	非洲
+Asia	n.	亚洲
+Australia	n.	澳洲
+Europe	n.	欧洲
+Antarctica	n.	南极洲
+A New Way of Speaking		
+confuses	v.	使混乱；使困惑
+greet	v.	打招呼
+idiom	n.	习语；土话
+nervous	adj.	紧张的
+relief	n.	轻松
+success	n.	成功
+giving	adj.	慷慨的，善良的
+marks	n.	分数
+namaste	n.	（印度的）合十礼
+principal	n.	校长
+escorts	v.	陪同；护送
+introduces	v.	介绍
+flushes	v.	脸红
+frightened	adj.	害怕的
+uncontrollably	adv.	不受控制地
+Animals Defenses		
+blending	v.	（和某物）混合; 融合;
+distracts	v.	（使）分心；转移（注意力）
+poison	n.	毒素
+predators	n.	捕食者
+prey	n.	猎物
+venom	n.	毒液
+enough	adv.	足够地
+example	n.	例子
+protect	v.	保护
+release	v.	释放
+difficult	adj.	困难的
+same	adj.	相同的
+defend	v.	保护，防卫
+April Fools’ Day		
+celebrated	v.	庆祝
+costumes	n.	服装，特殊服装
+famous	adj.	有名的，著名的
+media	n.	媒体
+pranks	n.	恶作剧
+victim	n.	受害者
+another	adj.	另外的
+believe	v.	相信
+report	v.	报道
+calendar	n.	日历；历法
+ancient	adj.	古代的
+apologized	v.	道歉
+described	v.	描述
+characters	n.	字符
+Brad Needs a Budget		
+allowance	n.	零用钱
+budget	n.	预算
+charity	n.	慈善
+expenses	n.	费用
+expensive	adj.	昂贵的
+raise	n.	（工资、薪金的）提升，增加
+savings	n.	储蓄
+console	n.	（电子设备或机器的）操纵台，主机
+earned	v.	赚得; 挣钱
+explained	v.	解释
+categories	n.	类别
+entertainment	n.	娱乐
+emergency	n.	紧急情况
+Art Around Us		
+ceramic	n.	陶瓷
+glaze	n.	釉面
+installation	n.	（现代雕塑）装置
+loom	n.	织布机
+mural	n.	壁画
+weavers	n.	织布工; 编织工
+soft sculpture	n.	软雕塑
+Empire State Building		
+skyscraper	n.	摩天大楼
+elevator	n.	电梯
+construct	v.	建造
+beams	n.	梁, 横梁
+steel	n.	钢, 钢铁
+rivets	n.	铆钉
+supplies	n.	物资；供应品（supply的复数）
+carts	n.	推车
+headlines	v.	上头条
+landmark	n.	地标
+Día for María		
+altar	n.	祭坛
+celebrate	v.	庆祝
+gravestone	n.	墓碑
+marigolds	n.	万寿菊
+passed away	v.	去世
+sugar skulls	n.	糖果骷髅
+remember	v.	记得
+suppose	v.	料想；猜想；以为
+though	conj.	尽管
+Endangered Birds		
+breeding	v.	繁殖
+California	n.	美国加州
+condor	n.	秃鹰
+endangered	adj.	濒临灭绝的
+extinct	adj.	灭绝的
+predators	n.	捕食者
+albatross	n.	信天翁
+great auk	n.	大海雀
+kakapo	n.	鸮鹦鹉
+Firefighters		
+firefighters	n.	消防员
+fuel	n.	燃料
+machine	n.	机器
+oxygen	n.	氧气
+pump	n.	泵，抽水机
+spray	v.	喷射
+chemicals	n.	化学制品
+equipment	n.	设备；装备
+smother	v.	闷熄
+prevent	v.	预防，防止
+inspect	v.	检查
+protect	v.	保护
+remove	v.	移开
+common	adj.	普通的
+extinguishers	n.	灭火器
+Fall Forward, Spring Back		
+confusion	n.	困惑
+Daylight Saving Time	n.	夏令时（日光节约时制）
+float	n.	花车
+parades	n.	游行
+route	n.	路线
+thrust	v.	猛推
+forward	adv.	向前地
+remember	v.	记得
+though	conj.	尽管
+reminded	v.	提醒
+confessed	v.	坦白
+opposite	n.	对立面
+overslept	v.	睡过头（oversleep的过去式）
+Hermit Crabs		
+colony	n.	群体
+exoskeleton	n.	外骨骼
+molt	v.	蜕壳
+nocturnal	adj.	夜行的
+scavengers	n.	食腐动物
+tidal pools	n.	潮汐池
+antennae	n.	触须
+larvae	n.	幼虫（larva的复数）
+Hoover Dam		
+power plant	n.	发电站
+electricity	n.	电
+canyon	n.	峡谷
+molds	n.	模具
+concrete	n.	混凝土
+grout	n.	水泥浆
+project	n.	项目
+displays	v.	展示，陈列
+sealed	v.	密封
+narrow	adj.	狭窄的
+Go Away, Sun		
+burrow	n.	洞穴
+gloomy	adj.	沮丧的
+horizon	n.	地平线
+radiant	adj.	光芒四射的
+rays	n.	光线
+remark	n.	话语，言论
+create	v.	造成；创造
+return	v.	返回，回来
+without	prep.	没有
+bright	adj.	明亮的
+gathered	v.	收集，聚集
+appeared	v.	出现
+faint	adj.	微弱的，暗淡的
+glow	n.	光亮，光辉
+The Baobab		
+ancient	adj.	古老的
+hollow	adj.	中空的
+shelter	n.	庇护所
+survive	v.	生存
+trunks	n.	树干
+vitamins	n.	维生素
+savanna	n.	热带的稀树大草原
+calcium	n.	钙
+strings	n.	细绳
+dye	n.	染料
+centuries	n.	世纪（century的复数）
+dying	v.	正在死去（die的现在分词）
+plentiful	adj.	丰富的，大量的
+The Great Wall of China		
+continent	n.	大陆
+landmarks	n.	地标
+border	n.	边境
+protect	v.	保护
+harmony	n.	和谐; 协调
+mortar	n.	灰浆; 砂浆
+kingdoms	n.	王国
+measure	v.	测量
+materials	n.	材料
+rulers	n.	统治者
+mighty	adj.	强大的，非凡的
+I’m the Small One		
+audience	n.	观众
+audition	n.	试镜
+emerged	v.	出现
+limbs	n.	四肢
+perks	n.	好处，特别待遇
+rehearsals	n.	排练, 排演
+deliver	v.	讲台词，发言
+dramatic	adj.	戏剧性的, 激动人心的
+gaping	adj.	目瞪口呆地看
+entire	adj.	全体的
+fact	n.	事实
+role	n.	角色
+though	conj.	尽管
+underneath	prep.	在…底下
+kindergartner	n.	幼儿园里的小孩
+The History of House Cats		
+bred	v.	繁殖；饲养（breed的过去式）
+features	n.	特点
+mummies	n.	木乃伊
+pests	n.	有害之物
+superstitions	n.	迷信
+tame	adj.	驯服的
+common	adj.	普遍的
+expert	n.	专家
+pair	n.	一对
+seek	v.	寻找
+usually	adv.	通常
+brought	v.	带来（bring的过去式）
+respect	n.	尊敬, 尊重
+kitty litter	n.	猫砂
+The Best Guess		
+bar graph	n.	条线图
+column	n.	（图表的）列，栏
+data	n.	数据
+guesses	v.	猜测
+tally mark	n.	计数符号
+temperature	n.	气温
+certain	adj.	确定的，肯定的
+degrees	n.	（温度的）度数
+scan	v.	扫描；浏览
+contest	n.	比赛
+chart	n.	图表
+complained	v.	抱怨
+compare	v.	比较
+	
