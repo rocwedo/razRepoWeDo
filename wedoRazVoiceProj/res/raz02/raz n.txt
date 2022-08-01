@@ -1,0 +1,167 @@
+Asthma 		
+disease	n.	疾病
+inhalers	n.	吸入器（复数形式）
+mist	n.	液体喷雾
+symptoms	n.	症状
+triggers	n.	起因（复数形式）
+wheeze	v.	喘息
+control	v.	控制
+attack	v.	侵害
+tubes	n.	气管（复数形式）
+Awesome Ants 		
+antennae	n.	触须
+colony	n.	群
+communicate	v.	交流
+insects	n.	昆虫（复数形式）
+species	n.	物种（复数形式）
+vibrations	n.	振动（复数形式）
+allow	v.	允许
+through	prep.	通过
+different	adj.	不同的
+instead	adv.	反而
+protect	v.	保护
+release	v.	释放
+The Buffalo Hunt 		
+buffalo	n.	水牛
+cautiously	adv.	小心地
+scared	adj.	受惊吓的
+stampede	v.	乱窜
+surrounded	v.	包围
+swiftest	adj.	飞快的
+envied	v.	羡慕
+herds	n.	牛群（复数形式）
+Beyond the Five Senses 		
+balance 	n.	平衡
+compass	n.	指南针
+echoes	n.	回声（复数形式）
+electric field 	n.	电场
+magnetic field	n.	磁场
+sensors	n.	传感器（复数形式）
+mates 	n.	伴侣（复数形式）
+senses	n.	感觉（复数形式）
+whiskers	n.	晶须（复数形式）
+Blackbeard the Pirate 		
+cargo 	n.	货物
+legend	n.	传奇
+pirate	n.	海盗
+privateer	n.	武装民船
+sail	v.	航行
+treasure	n.	财富
+crew	n.	船员
+loot	n.	掠夺物
+victims	n.	受害者（复数形式）
+Critter Crossings 		
+collisions 	n.	碰撞（复数形式）
+endangered	adj.	濒危的
+extinction	n.	灭绝
+habitats	n.	栖息地（复数形式）
+migrate	v.	迁徙
+vehicles	n.	车辆（复数形式）
+mate 	n.	配偶
+roam	v.	游荡
+species	n.	物种（复数形式）
+Coding Camp 		
+animation	n.	动画
+coding	n.	编码
+counselor	n.	辅导员
+crashed	v.	崩溃
+design	n.	设计
+files	n.	文件夹（复数形式）
+arcade game	n.	电子游戏
+backing up	v.	备份
+programming	n.	方案
+Elephants		
+endangered	adj.	濒危的
+herbivores	n.	食草动物（复数形式）
+matriarch	n.	女家长
+minerals	n.	矿物质（复数形式）
+routes	n.	路线（复数形式）
+water hole	n.	水坑
+mate	v.	交配
+snorkel	n.	通气管
+A Landforms Adventure		
+erosion 	n.	侵蚀
+isthmus	n.	地峡
+landforms	n.	地形（复数形式）
+peninsula	n.	半岛
+plateau	n.	高原
+weathering	n.	风化
+continents	n.	大陆（复数形式）
+delta	n.	三角洲
+gorge	n.	峡谷
+Totem Poles 		
+carver 	n.	雕刻匠
+clan	n.	家族
+memorial poles	n.	纪念柱（复数形式）
+mortuary poles 	n.	丧葬柱（复数形式）
+potlatch	n.	宴会
+totem poles 	n.	图腾柱（复数形式）
+gravestones	n.	墓碑（复数形式）
+figures	n.	图形（复数形式）
+symbol	n.	象征
+Leap Year Birthday 		
+beamed 	v.	微笑（过去式）
+comprehend	v.	理解（过去式）
+confounded 	v.	困惑（过去式）
+deprived	adj.	被剥夺的
+leap day 	n.	闰日
+leap year 	n.	闰年
+different 	adj.	不同的
+exactly	adv.	精确地
+understand 	v.	理解
+explain	v.	解释
+remember	v.	记住
+usually	adv.	经常
+Yellowstone, A Place of Wild Wonders 		
+explorers 	n.	探险者（复数形式）
+haven	n.	保护区
+hot spot 	n.	热点
+national park	n.	国家公园
+protected	adj.	受保护的
+seeps	v.	渗入（第三人称单数）
+area 	n.	地区
+create	v.	创造
+finally	adv.	最终
+forever	adv.	永远
+through	prep.	通过
+Taj Mahal 		
+burial 	n.	埋葬
+coffin 	n.	棺材
+memorial 	n.	纪念馆
+peaceful 	adj.	宁静的
+pollution 	n.	污染
+towers 	n.	塔（复数形式）
+ruler	n.	统治者
+marble	n.	大理石
+lasting	adj.	永恒的
+Abigail Adams 		
+advice 	n.	建议
+colonies	n.	殖民地（复数形式）
+equal rights	n.	平等的权利（复数形式）
+First Lady 	n.	第一夫人
+independent	adj.	独立的
+respected	v.	尊重（过去式）
+capital	n.	首都
+elected	v.	选举（过去式）
+politics	n.	政治
+instead 	adv.	反而
+represent	v.	代表
+The Mystery Wind 		
+mystery	adj.	神奇的
+struggle	v.	挣扎
+leak	v.	漏雨
+charity	n.	仁爱
+deliver	v.	实现
+throughout	adv.	处处
+dirt	n.	尘土
+wheat	n,	小麦
+Celebrating Food and Family 		
+ancestors 	n.	祖先（复数形式）
+celebrations	n.	庆祝
+Sukkoth	n.	结庐节
+synagogue	n.	犹太教堂
+tortoises	n.	乌龟（复数形式）
+yams	n.	洋芋（复数形式）
+Chuseok	n.	秋夕
+etrog	n.	香橼
+persimmons	n.	柿子（复数形式）
