@@ -1,0 +1,97 @@
+Badlands National Park		
+distance	n.	距离
+layers	n.	层级
+national park	n.	国家公园
+protect	v.	保护
+ridges	n.	山脊
+warn	v.	警告
+area	n.	区域
+display	v.	展示，显示
+history	n.	历史
+include	v.	包括
+reason	n.	原因
+show	v.	节目
+Badlands National Park01		
+distance	n.	距离
+layers	n.	层（复数）
+National Park	n.	国家公园
+protect	v.	保护
+ridges	n.	山脉（复数）
+warn	v.	警告
+reservation	n.	保留地
+rocky	adj.	多岩石的
+prairie	n.	大草原
+Animal Discoveries		
+arachnid	n.	蜘蛛
+endangered	adj.	濒危的
+habitat	n.	栖息地
+remote	adj.	遥远的
+scientists	n.	科学家（复数）
+species	n.	物种（复数）
+jungle	n.	丛林
+starfish	n.	海星
+lemurs	n.	狐猴（复数）
+HeroRATS Rats Who Save Lives		
+explosives	n.	炸药（复数）
+handlers	n.	驯兽员（复数）
+program	n.	程序
+rodents	n.	啮齿动物（复数）
+sniffing	v.	嗅（现在分词）
+trained	v.	训练(过去式）
+alert	v.	向...报警
+detect	v.	侦察出
+inspecting	v.	检查（现在分词）
+Cinderello		
+chores	n.	杂务
+object	v.	反对
+pitch	v.	投球
+runt	n.	小不点
+transformed	v.	转变
+tryouts	n.	选拔（复数）
+sibling	n.	兄弟姐妹
+impress	v.	给...留下深刻印象
+gasped	v.	倒抽气(过去式）
+Hillary Clinton		
+Congress	n.	国会
+first lady	n.	第一夫人
+lawyer	n.	律师
+nominee	n.	被提名人
+secretary of state	n.	国务卿
+senator	n.	参议员
+political	adj.	政治的
+president	n.	总统
+astronaut	n.	宇航员
+Istanbul		
+bazaar	n.	集市
+church	n.	教堂
+cistern	n.	蓄水池
+landmark	n.	地标
+mosque	n.	清真寺
+tower	n.	塔
+Europe	n.	欧洲
+lighthouse	n.	灯塔
+continent	n.	大陆
+Karate		
+defend	v.	防守
+discipline	n.	纪律
+dojo	n.	道场
+karate	n.	空手道
+martial art	n.	武术
+self-improvement	n.	自我提升
+patience	n.	耐心
+sensei	n.	老师
+practice	v.	练习
+respect	v.	尊重
+posture	n.	姿势
+Looking for Bigfoot		
+creatures	n.	生物（复数）
+evidence	n.	证据
+exist	v.	存在
+hoax	n.	恶作剧
+primates	n.	灵长目动物（复数）
+sightings	n.	目睹（复数）
+footage	n.	镜头
+species	n.	物种
+stride	n.	步伐
+
+
