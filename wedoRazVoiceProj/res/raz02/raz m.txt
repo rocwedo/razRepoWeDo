@@ -52,7 +52,7 @@ giggle	v.	咯咯地笑
 focus	n.	焦点
 attention	n.	关注
 gorgeous	adj.	非常漂亮的
-Jack’s Tale		
+Giant’s Tale		
 ax	n.	斧子
 beanstalk	n.	豆茎
 cure	v.	治疗
@@ -457,4 +457,125 @@ contest	n.	比赛
 chart	n.	图表
 complained	v.	抱怨
 compare	v.	比较
-	
+The Creature Constitution 		
+argued	v.	争吵，争论
+constitution	n.	宪法
+elections	n.	选举
+miserable	adj.	令人不快的
+represented	v.	代表
+signed	v.	签名
+document	n.	文件
+issues	n.	议题
+vote	v.	投票
+The Day Before Thanksgiving 		
+buried 	v.	掩埋
+overnight	adv.	在晚上，在夜里
+rumbling	adj.	隆隆声
+snowdrift	n.	雪堆
+Thanksgiving	n.	感恩节
+wailed	v.	哀号着说
+holler	v.	大声喊叫
+bundle	v.	匆忙离开
+snowplow 	n.	雪犁,扫雪机
+The Day It Rained Tortillas 		
+advised  	v.	建议
+babbled	v.	喋喋不休
+furious	adj.	狂怒的, 暴怒的
+snatched	v.	抢夺
+stash	v.	藏起来，藏匿
+tortillas	n.	墨西哥玉米粉圆饼
+explain 	v.	解释
+lesson	n.	课
+return 	v.	返回
+meanwhile	adv.	同时
+plan	n.	计划
+remember	v.	记得
+porch 	n.	走廊
+figured out 	v.	想出，弄明白
+The Hoppers Start School 		
+bunch 	n.	一束
+late	adv.	迟到
+lunch box	n.	午餐盒
+oatmeal	n.	燕麦片
+remember	v.	记得
+troubles	n.	烦恼
+How to Make Lemonade		
+container	n.	容器
+countertop	n.	(厨房的)工作台面
+creation	n.	创作物
+gather	v.	收集，使…聚集
+impatient	adj.	没有耐心的
+measuring cups 	n.	量杯
+Ichiro Suzuki 		
+all-star 	adj.	明星云集的
+championship	n.	锦标赛，冠军赛
+Japan	n.	日本
+record	n.	记录
+rookie	n.	新手
+season	n.	赛季
+batting average 	n.	棒球的击球率
+league	n.	联盟
+A COVID Birthday 		
+celebrate	v.	庆祝
+social distancing 	n.	社交距离
+coronavirus	n.	冠状病毒
+decorated	v.	装饰
+obstacle course 	n.	障碍赛
+spread	n.	传播
+except	conj.	除了
+entire	adj.	整个的
+important	adj.	重要的
+remember	v.	记得
+several	adj.	几个的
+Incredible Places to Stay 		
+blends	v.	混入；使交融
+endangered	adj.	濒临灭绝的
+hotels 	n.	酒店；旅馆
+incredible	adj.	不可置信的
+profits	n.	收益，红利
+tour	n.	旅行, 游历
+beneath 	prep.	在…下面
+different	adj.	不同的
+experience	n.	经历
+however	adv.	然而
+remember	v.	记得
+through	prep.	穿过，通过
+Inside Your Body 		
+amazing 	adj.	神奇的
+chemicals	n.	化学物质
+circulatory system	n.	循环系统
+digestion	n.	消化
+organ	n.	器官
+reproductive system	n.	生殖系统
+carbon dioxide 	n.	二氧化碳
+oxygen	n.	氧气
+rotate	v.	转动
+joints 	n.	关节
+Keb Needs a Home 		
+advantages	n.	优势
+discarded	adj.	废弃的
+envious	adj.	羡慕的，满怀嫉妒的
+handsome	adj.	英俊潇洒的
+proper	adj.	合适的
+proportions	n.	比例
+enormity 	n.	严重性
+seaweed	n.	海藻，海草
+spectacular	adj.	令人惊叹的
+Louis Braille A Man and His Method 		
+awl 	n.	钻，锥
+blind	adj.	盲的，看不见的
+obstacles	n.	障碍
+slate	n.	字板
+stylus	n.	椎笔
+symbol	n.	字符
+night writing 	n.	夜间书写
+sew	v.	缝制
+touch system	n.	触摸系统
+braille	n.	盲文
+Machu Picchu 		
+ancient      	adj.	古代的
+Inca	n.	印加人
+empire	n.	帝国
+ruin	n.	废墟
+explorer	n.	探险家
+spring	n.	泉水
