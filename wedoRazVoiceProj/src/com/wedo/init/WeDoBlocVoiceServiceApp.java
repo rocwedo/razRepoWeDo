@@ -1,7 +1,6 @@
 package com.wedo.init;
 
 import java.io.File;
-import java.util.ArrayList;
 
 public class WeDoBlocVoiceServiceApp {
 	private static WeDoBlocSSMLFileFactory wedotest = WeDoBlocSSMLFileFactory.initWeDoBlocSSMLFileFactory();
@@ -10,7 +9,7 @@ public class WeDoBlocVoiceServiceApp {
 		// TODO Auto-generated method stub
 		System.out.println("Start...");
 		
-		app.dealwithRes("res\\raz02\\raz m.txt","Raz level M");
+		app.dealwithRes("res\\raz\\raz c 2022 ext.txt","Raz level C");
 //		app.dealwithResFold("res\\raz02");
 		System.out.println("End");
 	}
