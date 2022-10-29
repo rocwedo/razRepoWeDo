@@ -1,0 +1,78 @@
+I won't		
+no	adv.	不
+will	modal	将会
+you	pron.	你
+watch	v.	观看
+mask	n.	面具
+picture	n.	图片
+scary	adj.	可怕的
+song	n.	歌曲
+Making Salsa		
+and	conj.	和
+eat	v.	吃
+go	v.	去
+goes	v.	去（第三人称单数）
+in	prep.	里面
+chips	n.	薯片（名词复数）
+cilantro	n.	香菜
+onion	n.	洋葱
+pepper	n.	辣椒
+salsa	n.	番茄酱沙司
+Many Kinds of Dinosaurs		
+dinosaur	n.	恐龙
+head	n.	头
+kind	n.	种类
+leg	n.	腿
+live	v.	居住
+teeth	n.	牙齿（名词复数）
+had	v.	有（动词过去式）
+were	v.	是（动词过去式）
+Open and Close		
+I	pron.	我
+the	art.	那个
+you	pron.	你
+cage	n.	笼子
+close	v.	关闭
+drawer	n.	抽屉
+jar	n.	罐子
+open	v.	打开
+Learning About the Past		
+clothes	n.	衣服
+learn	v.	学习
+look	v.	看
+newspapers	n.	报纸（名词复数）
+past	n.	过去
+photos	n.	照片（名词复数）
+can	modal	能够
+old	adj.	老旧的
+you	pron.	你
+Making Music		
+board	n.	木板
+drum	n.	鼓
+horn	n.	号角
+pluck	v.	弹拨
+rattle	n.	沙锤
+strum	v.	演奏
+a	art.	一个
+can	modal	能够
+you	pron.	你
+The Woodsy Band Jam		
+came	v.	来（动词过去式）
+here	adv.	这里
+is	v.	是
+my	pron.	我的
+out	adv.	外面
+said	v.	说（动词过去式）
+banjo	n.	班卓
+drum	n.	鼓
+fiddle	n.	小提琴
+fife	n.	小横笛
+horn	n.	号角
+What Is at the Zoo	
+are	v.	是
+at	prep.	在
+the	art.	这个
+there	adv.	那里
+giraffes	n.	长颈鹿（名词复数）
+sea lions	n.	海狮（名词复数）
+dinosaurs	n.	恐龙（名词复数）
