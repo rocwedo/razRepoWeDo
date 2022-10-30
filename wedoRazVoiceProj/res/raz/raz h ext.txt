@@ -1,0 +1,7 @@
+Ships and Boats
+defend 	v.	防卫
+engines	n.	引擎，发动机
+frames	n.	框架
+oars	n.	船桨
+row	v.	划船
+sails	n.	船帆
