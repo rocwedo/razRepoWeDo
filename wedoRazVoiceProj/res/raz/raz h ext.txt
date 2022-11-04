@@ -5,3 +5,11 @@ frames	n.	框架
 oars	n.	船桨
 row	v.	划船
 sails	n.	船帆
+Our Five Senses
+bitter	adj.	苦的
+brain	n.	大脑
+senses	n.	感官
+smells 	n.	嗅觉
+sour	adj.	酸的
+ taste buds	n.	味蕾
+

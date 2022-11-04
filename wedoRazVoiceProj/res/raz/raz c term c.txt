@@ -1,0 +1,314 @@
+What Do I wear
+a	art.	一个
+chest	n.	胸膛
+heart	n.	心
+smile	n.	微笑
+waist	n.	腰部
+wear	v.	穿戴
+wrist	n.	手腕
+		
+When Is Nighttime
+is	v.	是
+the	art.	那个
+when	adv.	什么时候
+blink	v.	照耀
+lights	n.	电灯（名词复数）
+nighttime	n.	夜间
+rises	v.	升起（第三人称单数）
+shine	v.	照耀
+		
+What Does the Wind Move	
+floats	v.	漂浮
+lifts	v.	举起（第三人称单数）
+pushes	v.	推动（第三人称单数）
+something	pro.	某物，某事
+turns	v.	转动（第三人称单数）
+wind	n.	风
+a	art.	一个
+is	v.	是
+the	art.	那个
+		
+Who Stole the North Pole	
+candy cane	n.	柺杖糖
+North Pole	n.	北极
+polar bear	n.	北极熊
+reindeer	n.	驯鹿
+Santa	n.	圣诞老人
+taken	v.	拿走（动词过去分词）
+have	v.	有
+it	pron.	它
+not	adv.	不
+		
+What Season is it
+change	v.	改变
+fall	n.	秋天
+grow	v.	成长
+spring	n.	春天
+summer	n.	夏天
+winter	n.	冬天
+does	aux.	无实意，构成疑问句
+in	prep.	在（某段时间）内
+when	adv.	什么时候
+		
+Who,Who,Who		
+me	pron.	我
+to	prep.	去
+wants	v.	想要（第三人称单数）
+who	pron.	谁
+with	prep.	和
+hunt	v.	捕猎
+fly	v.	飞
+alligator	n.	短吻鳄
+owl	n.	猫头鹰
+		
+What's for Breakfast	
+eat	v.	吃
+for	prep.	为了
+some	pron.	一些
+bacon	n.	培根
+breakfast	n.	早餐
+cereal	n.	麦片
+muffin	n.	杯状小松糕
+toast	n.	吐司
+yogurt	n.	酸奶
+		
+The Woodsy Band Jam		
+came	v.	来（动词过去式）
+here	adv.	这里
+is	v.	是
+my	pron.	我的
+out	adv.	外面
+said	v.	说（动词过去式）
+banjo	n.	班卓
+drum	n.	鼓
+fiddle	n.	小提琴
+fife	n.	小横笛
+horn	n.	号角
+		
+Winter Hats		
+has	v.	有（第三人称单数）
+is	v.	是
+this	pron.	这个
+floppy	adj.	松软的
+funny	adj.	有趣的
+furry	adj.	覆盖毛皮的
+fuzzy	adj.	毛茸茸的
+wear	v.	穿戴
+		
+Yummy,Yummy		
+and	conj.	和
+I	pron.	我
+like	v.	喜欢
+cookies	n.	饼干（名词复数）
+corn on the cob	n.	玉米棒
+jam	n.	果酱
+yucky	adj.	讨厌的
+carrots	n.	胡萝卜（名词复数）
+		
+All About Penguins		
+all	pron.	所有
+are	v.	是
+some	pron.	一些
+black	adj.	黑色的
+penguins	n.	企鹅（名词复数）
+white	adj.	白色的
+		
+Birthday Party		
+get	v.	得到
+the	art.	那个
+we	pron.	我们
+bakery	n.	面包店
+balloon	n.	气球
+shopping	v.	购物
+party	n.	聚会
+games	n.	游戏（名词复数）
+		
+All About Spiders		
+climb	v.	爬
+eggs	n.	卵（名词复数）
+eight	adj.	八个的
+lays	v.	产卵
+silk	n.	丝
+spiders	n.	蜘蛛（名词复数）
+can	modal.	能够
+has	v.	有
+it	pron.	它
+make	v.	制作
+outside	adv.	外面
+		
+What is at the Zoo	
+are	v.	是
+at	prep.	在
+the	art.	这个
+there	adv.	那里
+giraffes	n.	长颈鹿（名词复数）
+sea lions	n.	海狮（名词复数）
+dinosaurs	n.	恐龙（名词复数）
+		
+The  Animals of Canada		
+in	prep.	在...里
+is	v.	是
+this	pron.	这个
+beaver	n.	河狸
+eagle	n.	老鹰
+goose	n.	鹅
+loon	n.	潜鸟
+moose	n.	驼鹿
+		
+Feelings		
+I	pron.	我
+of	prep.	的
+very	adv.	非常的
+angry	adj.	生气的
+feelings	n.	情绪（名词复数）
+scared	adj.	可怕的
+sometimes	adj.	有时的
+sad	adj.	伤心的
+		
+How Many	
+candle	n.	蜡烛
+kites	n.	风筝（名词复数）
+smiles	n.	微笑（名词复数）
+wheels	n.	车轮（名词复数）
+wings	n.	翅膀（名词复数）
+windows	n.	窗户（名词复数）
+		
+Get In		
+duck	n.	鸭子
+elephant	n.	大象
+in	prep.	在...里面
+man	n.	男人
+pig	n.	猪
+woman	n.	女人
+boy	n.	男孩
+cannot	v.	不能
+girl	n.	女孩
+can	modal.	能够
+get	v.	到...
+he	pron.	他
+it	pron.	它
+she	pron.	她
+		
+New Again		
+can	modal.	能够
+into	prep.	进入到
+we	pron.	我们
+airplane	n.	飞机
+bucket	n.	桶
+drum	n.	鼓
+fort	n.	堡垒
+puppet	n.	木偶
+sprinkler	n.	洒水器
+Go Away,Lily		
+ate	v.	吃（过去式）
+played	v.	玩（过去式）
+ran	v.	跑（过去式）
+read	v.	读（过去式）
+sat	v.	坐着（过去式）
+slept	v.	睡觉（过去式）
+away	adv.	离开
+go	v.	去
+when	adv.	当...时
+All About Penguins		
+clothes	n.	衣服
+learn	v.	学习
+look	v.	看
+newspapers	n.	报纸（名词复数）
+past	n.	过去
+photos	n.	照片（名词复数）
+can	modal	能够
+old	adj.	老旧的
+you	pron.	你
+		
+Mongo and Cutie		
+to	prep.	去
+with	prep.	和
+Grandma	n.	奶奶
+hide	v.	躲藏
+lunch	n.	午饭
+tries	v.	尝试（第三人称单数）
+nice	adj.	令人愉快的
+		
+Machines at Home		
+blender	n.	搅拌器
+dry	v.	使...干燥
+freeze	v.	使...冷冻
+machine	n.	机器
+make	v.	使得
+wash	v.	洗
+we	pron.	我们
+with	prep.	和
+		
+My Clothes Are Too Small		
+brother	n.	兄弟
+grown	v.	成长
+small	adj.	小的
+summer	n.	夏天
+sweatshirt	n.	运动衫
+too	adv.	太
+my	pron.	我的
+old	adj.	旧的
+must	modal.	肯定
+		
+Making Music		
+board	n.	木板
+drum	n.	鼓
+horn	n.	号角
+pluck	v.	弹拨
+rattle	n.	沙锤
+strum	v.	演奏
+a	art.	一个
+can	modal	能够
+you	pron.	你
+		
+My Teacher		
+caring	adj.	关心他人的
+creative	adj.	有创造力的
+helpful	adj.	有帮助的
+interesting	adj.	有趣的
+smart	adj.	聪明的
+talented	adj.	有天赋的
+best	adj.	最好的
+is	v.	是
+my	pron.	我的
+		
+Making Salsa!		
+and	conj.	和
+eat	v.	吃
+go	v.	去
+goes	v.	去（第三人称单数）
+in	prep.	里面
+chips	n.	薯片（名词复数）
+cilantro	n.	香菜
+onion	n.	洋葱
+pepper	n.	辣椒
+salsa	n.	番茄酱沙司
+		
+My Tree House		
+a	art.	一个
+has	v.	有（第三人称单数）
+my	pron.	我的
+cozy	adj.	温暖舒适的
+deck	n.	甲板
+view	n.	观点
+window	n.	窗户
+wooden	adj.	木质的
+		
+Many Kinds of Dinosaurs		
+dinosaur	n.	恐龙
+head	n.	头
+kind	n.	种类
+leg	n.	腿
+live	v.	居住
+teeth	n.	牙齿（名词复数）
+had	v.	有（动词过去式）
+were	v.	是（动词过去式）
+Open and Close		
+I	pron.	我
+the	art.	那个
+you	pron.	你
+cage	n.	笼子
+close	v.	关闭
+drawer	n.	抽屉
+jar	n.	罐子
+open	v.	打开
