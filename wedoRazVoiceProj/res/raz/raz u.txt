@@ -1,0 +1,383 @@
+The Great Gallardo's Books		
+awe	n.	敬畏，惊叹
+biography	n.	传记，传记文学
+science fiction	n.	科幻小说
+skeleton key	v.	万能钥匙
+transport	v.	运输，运送
+western	n.	西部小说
+breeches	n.	马裤
+confetti	n.	五彩纸屑
+contraptions	n.	奇妙装置
+crater	n.	坑，弹坑
+high-tech	adj.	高科技的
+intimate	adj.	亲密的；个人的
+laboratory	n.	实验室
+lasso	v.	用套索套捕
+perilous	adj.	危险的
+plastered	v.	用灰泥抹
+resort	v.	诉诸，求助于
+sagebrush	n.	蒿属植物
+		
+Noni's Newspaper		
+article	n.	文章
+copy	n.	原稿
+editor	n.	编辑
+factual	adj.	事实的
+libel	v.	进行文字诽谤
+reporter	n.	记者
+column	n.	专栏
+contributors	n.	贡献者
+headline	n.	标题
+issue	n.	期刊
+masthead	n.	报头
+photographer	n.	摄影师
+		
+How Sound Works		
+decibel	n.	分贝
+frequency	n.	频率
+intensity	n.	强度
+pitch	n.	音高
+sound wave	n.	声波
+vibrating	v.	振动
+cochlea	n.	耳蜗
+compressed	v.	压缩
+echolocation	n.	回声定位
+hertz	n.	赫兹
+onomatopoeia	n.	拟声
+sonar	n.	声纳
+sonic boom	n.	超音速爆震
+sound barrier	n.	音障
+ultrasound	n.	超声
+Get Moving! All About Muscles		
+Achilles tendon	n.	跟腱
+flexible	adj.	灵活的
+gluteus maximus	n.	臀大肌
+involuntary muscles	n.	非自主肌
+quadriceps	n.	四头肌
+voluntary muscles	n.	随意肌
+biceps	n.	二头肌
+hamstring	n.	腿筋
+triceps	n.	三头肌
+China 		
+artifacts	n.	史前古器物
+calligraphy	n.	书法
+emperors	n.	皇帝
+ethnic groups	n.	种族群体
+export	n.	出口物
+forbidden	adj.	禁止的
+plateaus	n.	高原
+silk	n.	丝绸
+wetlands	n.	湿地
+Gandhi		
+conflict	n.	冲突
+fairness	n.	公平
+inspire	v.	激励
+nonviolence	n.	非暴力
+political	adj.	政治的
+protest	n.	抗议
+Hindu	adj.	印度教的
+Muslims	n.	穆斯林
+respect	v.	尊敬
+struggle	v.	奋斗
+tax	n.	税款
+will	n.	意愿
+Tanya Takes Out a Loan		
+budget	n.	预算
+debt	n.	债务
+incomes	n.	收入
+interest	n.	利息
+loan	v.	借出
+terms	n.	条款
+deposits	v.	存储
+dividends	n.	股息
+investments	n.	投资
+savings account	n.	储蓄账户
+stock	n.	股票
+value	n.	价值
+		
+The History of Anime		
+animated	adj.	动画片的
+anime	n.	日本动画
+dramatic	adj.	戏剧的
+manga	n.	日本漫画
+panels	n.	画板
+sketches	n.	草图
+banning	v.	禁止
+expressions	n.	表达
+illustrations	n.	插图
+lighthearted	adj.	快乐的
+merchants	n.	商人
+scrolls	n.	卷轴
+		
+Polar Regions of the Earth		
+hibernate	v.	冬眠
+ice cap	n.	冰盖
+inhospitable	adj.	条件恶劣的
+migrate	v.	迁徙
+permafrost	n.	永久冻土
+tundra	n.	苔原
+axis	n.	轴
+blubber	n.	鲸脂
+brutally	adv.	残忍地
+equator	n.	赤道
+lichens	n.	地衣
+The Secret Service		
+agents	n.	代理人
+assassinated	v.	暗杀
+democracy	n.	民主
+investigate	v.	调查
+oath	n.	誓言
+threats	n.	威胁
+bodyguards	n.	保镖
+candidates	n.	候选人
+Congress	n.	国会
+first lady	n.	第一夫人
+inauguration	n.	就职典礼
+limousine	n.	豪华轿车
+		
+Mystery in the Moonlight		
+casual	adj.	随意的
+coincidences	n.	巧合
+escapades	n.	冒险
+fraternal twins	n.	异卵双生
+identical twins	n.	同卵双胞胎
+tolerate	v.	容忍
+complemented	v.	补充
+intent	adj.	专注的
+plots	n.	情节
+recruit	v.	组建
+threshold	n.	门槛
+Xeroderma Pigmentosum	n.	着色性干皮病
+		
+The Thing in the Forest		
+bulbous	adj.	球根的
+flail	v.	猛击
+heaving	v.	举起
+lurking	v.	潜伏
+vault	v.	跳跃
+weave	v.	编织
+fortuitous	adj.	偶然的
+grasping	v.	抓牢
+hulking	adj.	笨重的
+mammoth	adj.	巨大的
+momentum	n.	冲力
+utterly	adv.	完全地
+
+The Hard Stuff All About Bones		
+appendages	n.	附件
+bone marrow	n.	骨髓
+cartilage	n.	软骨
+ligaments	n.	韧带
+tendons	n.	肌腱
+vertebrates	n.	脊椎动物
+ball-and-socket joint	n.	球窝关节
+fused	adj.	熔融的
+hinge joints	n.	铰缝
+legumes	n.	豆科植物
+precise	adj.	精确的
+spinal cord	n.	脊髓
+sutures	n.	缝合
+swivel joints	n.	旋转接头
+		
+Hubble An Out-of-This-World Telescope		
+astronomers	n.	天文学家
+atmosphere	n.	大气
+collision	n.	碰撞
+elements	n.	要素
+infrared light	n.	红外线
+orbits	v.	环绕……的轨道运行
+black hole	n.	黑洞
+complex	adj.	复杂的
+density	n.	密度
+ejecting	v.	喷射
+fragile	adj.	脆弱的
+glitch	n.	小故障
+informative	adj.	提供有用信息的
+light years	n.	光年
+multitude	n.	众多
+nebulas	n.	星云
+plumes	n.	羽状物
+spectrographs	n.	光谱仪
+vacuum	n.	真空
+		
+Australia		
+colonized	v.	对……进行殖民
+continent	n.	大陆
+habitats	n.	栖息地
+isolation	n.	隔离
+landscape	n.	风景
+population	n.	人口
+breathtaking	adj.	激动人心的
+distinct	adj.	不同的
+extraordinary	adj.	异乎寻常的
+history	n.	历史
+marsupials	n.	有袋类哺乳动物
+settlements	n.	殖民地
+
+The Hard Stuff All About Bones		
+appendages	n.	附件
+bone marrow	n.	骨髓
+cartilage	n.	软骨
+ligaments	n.	韧带
+tendons	n.	肌腱
+vertebrates	n.	脊椎动物
+ball-and-socket joint	n.	球窝关节
+fused	adj.	熔融的
+hinge joints	n.	铰缝
+legumes	n.	豆科植物
+precise	adj.	精确的
+spinal cord	n.	脊髓
+sutures	n.	缝合
+swivel joints	n.	旋转接头
+		
+Hubble An Out-of-This-World Telescope		
+astronomers	n.	天文学家
+atmosphere	n.	大气
+collision	n.	碰撞
+elements	n.	要素
+infrared light	n.	红外线
+orbits	v.	环绕……的轨道运行
+black hole	n.	黑洞
+complex	adj.	复杂的
+density	n.	密度
+ejecting	v.	喷射
+fragile	adj.	脆弱的
+glitch	n.	小故障
+informative	adj.	提供有用信息的
+light years	n.	光年
+multitude	n.	众多
+nebulas	n.	星云
+plumes	n.	羽状物
+spectrographs	n.	光谱仪
+vacuum	n.	真空
+		
+Australia		
+colonized	v.	对……进行殖民
+continent	n.	大陆
+habitats	n.	栖息地
+isolation	n.	隔离
+landscape	n.	风景
+population	n.	人口
+breathtaking	adj.	激动人心的
+distinct	adj.	不同的
+extraordinary	adj.	异乎寻常的
+history	n.	历史
+marsupials	n.	有袋类哺乳动物
+settlements	n.	殖民地
+		
+Kenya		
+acacia	n.	金合欢
+colony	n.	殖民地
+equator	n.	赤道
+escarpments	n.	悬崖
+mangrove	n.	红树林
+migration	n.	移民
+reserve	n.	保护区
+safari	n.	游猎
+savanna	n.	热带草原
+Thomas Edison		
+apprenticeship	n.	学徒期
+filament	n.	灯丝
+invented	v.	发明
+manufacture	v.	制造
+patent	n.	专利
+sketched	v.	简要描述
+discouraged	adj.	泄气的
+for-profit	adj.	以盈利为目的的
+investors	n.	投资者
+models	n.	模型
+peephole	n.	窥视孔
+technology	n.	科技
+		
+The Sun, Earth, and Moon		
+eclipse	n.	日食
+gravity	n.	重力
+revolution	n.	革命
+rotation	n.	旋转
+tides	n.	潮汐
+affect	v.	影响
+cycle	n.	循环
+exactly	adv.	精确地
+opposite	adj.	完全相反的
+same	adj.	一模一样的
+visible	adj.	明显的
+		
+Dawn of the Doughnut		
+doughnut	n.	甜甜圈
+inexpensive	adj.	便宜的
+ingredients	n.	材料
+invention	n.	发明物
+pastries	n.	点心
+recipe	n.	食谱
+delicatessens	n.	熟食店
+efficient	adj.	高效的
+immigrant	n.	移民
+profitable	adj.	盈利的
+staple	n.	主食
+		
+Water Cities		
+artificial	adj.	人造的
+drained	v.	流干
+isthmus	n.	地峡
+reclaimed	v.	改造
+seaport	n.	海港
+stilt	n.	支撑物
+adobe	n.	粘土
+import	v.	进口
+lagoon	n.	泻湖
+residents	n.	居民
+transportation	n.	运输
+urban	adj.	城市的
+		
+What Happens When You Flush		
+clarifier	n.	沉淀池
+digester	n.	蒸煮器
+septic system	n.	化粪池系统
+sewage	n.	污水
+sewage treatment plant	n.	污水处理厂
+sewage systems	n.	污水系统
+aeration	n.	通风
+drainage field	n.	引流领域
+effluent	n.	污水
+methane	n.	甲烷
+organisms	n.	生物体
+percolate	v.	过滤
+		
+Temperate Deciduous Forests		
+adaptation	n.	适应
+dormant	adj.	静止的
+humid	adj.	潮湿的
+landscapes	n.	风景
+precipitation	n.	降水
+temperate	adj.	温和的
+equator	n.	赤道
+fertile	adj.	肥沃的
+fungi	n.	真菌
+herbivores	n.	食草动物
+mosses	n.	苔藓
+omnivores	n.	杂食者
+		
+Morocco		
+barren	adj.	贫瘠的
+café	n.	小餐馆；咖啡馆
+culture	n.	文化
+dynasty	n.	朝代
+industries	n.	行业
+Islam	n.	伊斯兰教
+landscape	n.	风景
+oases	n.	绿洲
+port	n.	港口
+prime minister	n.	首相
+strait	n.	海峡
+tourism	n.	旅游业
+		
+Chick-a-Dude		
+kiln	n.	窑
+nurturing	v.	养育
+orphaned	adj.	孤儿的
+pottery	n.	陶器
+rescue	v.	营救
+territory	n.	领土
+mimicked	v.	模仿
+roast	v.	炙烤
+volunteered	v.	自愿做

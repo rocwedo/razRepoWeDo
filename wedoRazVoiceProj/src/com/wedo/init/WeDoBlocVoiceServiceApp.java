@@ -8,7 +8,7 @@ public class WeDoBlocVoiceServiceApp {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Start...");
-		app.dealwithRes("res\\raz\\raz t.txt","Raz level T");
+		app.dealwithRes("res\\raz\\raz w.txt","Raz level W");
 //		app.dealwithRes("res\\raz02\\raz b 2023ext.txt","Raz level B");
 //		app.dealwithResFold("res\\raz02");
 		System.out.println("End");

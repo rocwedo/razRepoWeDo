@@ -33,3 +33,122 @@ bored	adj.	无聊的
 gray	adj.	灰色的
 lizard	n.	蜥蜴
 butterfly	n.	蝴蝶
+Maria's Halloween		
+for	prep.	为了
+go	v.	去
+or	conj.	或者
+the	art.	这个
+you	pron.	你
+look	v.	看
+ghost	n.	鬼魂
+Halloween	n.	万圣节
+spider	n.	蜘蛛
+treat	n.	点心
+trick	n.	捉弄
+Frog Is Hungry		
+are	v.	是
+not	adv.	不
+says	v.	说（第三人称单数）
+eats	v.	吃（第三人称单数）
+fly	n.	苍蝇
+food	n.	食物
+hop	v.	跳
+hungry	adj.	饥饿的
+What to Wear		
+closet	n.	壁橱
+clothes	n.	衣服
+gives	v.	给（第三人称单数）
+space	n.	空间
+style	n.	风格
+takes	v.	拿走（第三人称单数）
+how	adv.	怎样
+some	pron.	一些
+you	pron.	你
+To the Store		
+a	art.	一个
+for	prep.	为了
+go	v.	去
+goes	v.	去（第三人称单数）
+her	pron.	她的
+she	pron.	她
+the	art.	这个
+to	prep.	去
+with	prep.	和
+coat	n.	大衣
+pet	n.	宠物
+Greater Than		
+compare	v.	比较
+greater than	adj.	大于
+greatest	adj.	最大的
+more	adj.	更多
+numbers	n.	数字
+vegetables	n.	蔬菜
+many	adj.	许多
+there	adv.	那个
+which	adj.	哪一个
+Tiger Sharks		
+blunt	adj.	钝的
+eyesight	n.	视力
+fins	n.	鱼鳍（名词复数）
+gills	n.	腮（名词复数）
+stripes	n.	条纹（名词复数）
+tiger sharks	n.	虎鲨（名词复数）
+are	v.	是
+eat	v.	吃
+have	v.	有
+Where Animals Live		
+above	prep.	在…上面
+turtle	n.	乌龟
+prairie	n.	草原田鼠
+woodchuck	n.	土拨鼠
+octopus	n.	章鱼
+whale	n.	鲸鱼
+		
+To the Woods		
+woods	n.	树林
+squirrel	n.	松鼠
+log	n.	圆木
+crawl	v.	爬行
+hiding	v.	躲藏（现在分词）
+bushes	n.	灌木丛（复数）
+		
+What		
+curious	adj.	好奇的
+breakfast	n.	早餐
+snack	n.	点心
+lunch	n.	午餐
+dinner	n.	晚餐
+pizza	n.	披萨
+		
+Why can't I		
+paint		画画
+climb		攀爬
+slide		滑行
+kichen		厨房
+safe		安全的
+shelves		书架（复数）
+		
+Dollars and Cents		
+cent	n.	分
+penny	n.	便士
+nickel	n.	五分镍币
+dime	n.	十分硬币
+quarter	n.	二十五美分
+dollar	n.	美元
+		
+Workers		
+workers	n.	工人（复数）
+farmer	n.	农民
+trucker	n.	卡车司机
+mill	n.	磨坊
+grind	n.	研磨
+baker	n.	糕点师
+grocer	n.	杂货商
+		
+Nothing Scares Me		
+vampire	n.	吸血鬼
+pirate	n.	海盗
+gorilla	n.	猩猩
+mummy	n.	木乃伊
+skeleton	n.	骷髅
+monster	n.	怪物

@@ -1,0 +1,371 @@
+Razor and the Wolves		
+crosswinds	n.	横风
+disdain	n.	蔑视
+improvised	adj.	即兴的
+Search and Rescue	n.	搜救
+spotter	n.	观测员
+unconscious	adj.	无意识的
+barreling	v.	横冲直撞
+glacier	n.	冰川
+GPS	n.	全球定位系统
+gully	n.	沟壑
+igniter	n.	点火器
+menacing	adj.	来势汹汹的
+		
+Test Anxiety		
+amygdala	n.	杏仁核
+anxiety	n.	焦虑
+fight-or-flight	adj.	战斗或逃跑
+metacognition	n.	元认知
+motivator	n.	动机
+stress	n.	压力
+endangered	v.	濒危
+fatigue	n.	疲劳
+hormones	n.	荷尔蒙
+jitters	n.	不安
+overwhelming	adj.	不堪重负的
+pressure	n.	压力
+		
+The Tuskegee Airmen		
+civil rights	n.	公民权利
+discrimination	n.	歧视
+experiment	n.	实验
+fighter	n.	战斗机
+segregated	adj.	种族隔离
+World War Ⅱ	n.	第二次世界大战
+combat	adj.	战斗
+equality	n.	平等
+escort	v.	护航
+formation	n.	编队
+mission	n.	任务
+squadron	n.	中队
+Clara Barton		
+authorized	v.	授权
+battlefield	n.	战场
+field hospitals	n.	野战医院
+founded	v.	成立
+tend	v.	倾向
+volunteers	n.	志愿者
+careers	n.	职业生涯
+Civil War	n.	内战
+devastation	n.	破坏
+disasster	n.	破坏者
+electrified	v.	通电
+humanitarian	adj.	人道主义的
+purposeful	adj.	有目的的
+survivors	n.	幸存者
+traumatic	adj.	创伤的
+		
+Why We Sleep		
+anabolic activity	n.	合成代谢活动
+brain waves	n.	脑电波
+catabolic activity	n.	分解代谢活动
+function	v.	功能
+restores	v.	恢复
+schedule	n.	时间表
+immune system	n.	免疫系统
+molecules	n.	分子
+monitor	v.	监测
+sleep-deprived	adj.	睡眠不足的
+solidifying	v.	凝固
+temporary	adj.	临时的
+		
+Forests on Fire		
+adapted	adj.	适应的
+cycled	v.	循环
+devastation	n.	破坏
+ecosystem	n.	生态系统
+stewardship	n.	管理
+wildfire	n.	野火
+acres	n.	英亩
+climate change	n.	气候变化
+debris	n.	碎片
+embers	n.	余烬
+invasive	adj.	入侵的
+reproduce	v.	繁殖
+Mexico's Fight for Independence		
+civilization	n.	文明
+compromise	n.	妥协
+fiesta	n.	嘉年华
+independence	n.	独立
+republic	n.	共和国
+revolution	n.	革命
+anthem	n.	国歌
+Creoles	n.	克里奥尔人
+dethrone	v.	废黜
+immigrants	n.	移民
+Native	adj.	原住民的
+time immemorial	n.	自古以来
+		
+How Advertising Works		
+advertisements	n.	广告
+analyze	v.	分析
+appeals	n.	呼吁
+discontent	n.	不满
+media	n.	媒体
+products	n.	产品
+banned	v.	禁用
+brands	n.	品牌
+commercials	n.	广告
+logic	n.	逻辑
+loyal	adj.	忠诚的
+methods	n.	方法
+		
+Animal Communication		
+complex	adj.	复杂的
+glands	n.	腺体
+infrasonic	adj.	次声波的
+organ	n.	器官
+structure	n.	结构
+vocal	adj.	发声的
+bioluminescence	n.	生物发光
+dominance	n.	优势
+navigate	v.	导航
+phonic lips	n.	发音唇
+vertebrates	n.	脊椎动物
+vibrates	v.	振动
+Bullying Hurts Everyone		
+aggressive	adj.	好斗的
+cruel	adj.	残忍的
+prevention	n.	预防
+threats	n.	威胁
+violence	n.	暴力
+witnessing	v.	目睹
+behavior	n.	行为
+ringleader	n.	头目
+self-esteem	n.	自尊
+statistics	n.	统计
+strategies	n.	策略
+teasing	n.	戏弄
+		
+Frederick Douglass		
+abolition	n.	废除
+autobiographies	n.	自传
+civil rights	n.	民权
+enslaved	v.	被奴役者
+fugitive	n.	逃亡者
+literacy	n.	扫盲
+amendment	n.	修正案
+editorials	n.	社论
+eloquence	n.	口才
+incompatible	n.	不相容
+inspire	v.	启发
+principles	n.	原则
+		
+Life Spans		
+adapted	v.	适应
+aging	n.	老龄化
+environment	n.	环境
+factors	n.	因素
+mature	v.	成熟
+organisms	n.	生物
+century	n.	世纪
+decades	n.	几十年
+evolved	v.	进化
+immortal	adj.	不朽
+postpone	v.	推迟
+predators	n.	捕食者
+The U.S. Government At Work		
+advisors	n.	顾问
+agencies	n.	机构
+approved	v.	批准
+executive	adj.	执行的
+experts	n.	专家
+federal	adj.	联邦的
+function	v.	职能
+regulates	v.	监管
+representatives	n.	代表
+security	n.	安全
+Senate	n.	参议院
+unify	v.	统一
+		
+The Birds Nest		
+Arabic	n.	阿拉伯语
+baklava	n.	巴克拉瓦（一种甜点）
+dialect	n.	方言
+pistachios	n.	开心果
+refugee	n.	难民
+Syria	n.	叙利亚
+habibti	n.	habibti（亲爱的、宝贝的，阿拉伯语用语）
+homeland	n.	故乡
+phyllo	n.	菲洛酥皮
+socialize	v.	社交
+tentatively	adv.	暂时地
+tradition	n.	传统
+enough	adj.	足够的
+explain	v.	解释
+mention	v.	提到
+repeat	v.	重复
+return	v.	返回
+whenever	conj.	每当
+		
+Attila and the Fall of the Roman Empire		
+allies	n.	盟友
+dowry	n.	嫁妆
+empire	n.	帝国
+rampaged	v.	狂暴行径
+refugees	n.	难民
+siege	n.	围攻
+conguered	v.	征服
+diplomacy	n.	外交
+Germanic	adj.	日耳曼
+humanity	n.	人类
+moderation	n.	适度
+sacked	v.	劫掠
+		
+Supply and Demand		
+demand	n.	需求
+fluctuate	v.	波动
+intertwined	adj.	纠结在一起的
+merchandise	n.	商品
+product	n.	产品
+supply	n.	供应
+endorsed	v.	认可
+fixed	adj.	固定的
+hypothetical	adj.	假设的
+perspective	n.	透视
+surplus	n.	剩余
+virtual	adj.	虚拟
+complex	adj.	复杂
+consider	v.	考虑
+factor	n.	因素
+impact	n.	影响
+purchase	v.	购买
+valuable	adj.	有价值的
+		
+Alternative Fuel Cars		
+alterative fuels	n.	替代燃料
+ethanol	n.	乙醇
+fuel cells	n.	燃料电池
+hydrogen	n.	氢气
+renewable resource	n.	可再生资源
+solar cells	n.	太阳能电池
+atom	n.	原子
+biomass	n.	生物质
+bond	n.	债券
+fermentation	n.	发酵
+gaseous	adj.	气体的
+pollutants	n.	污染物
+radiant	adj.	辐射的
+		
+The Great Wall of China		
+convicts	n.	囚犯
+culture	n.	文化
+feat	n.	壮举
+harmonious	adj.	和谐的
+kilns	n.	窑
+nomadic	adj.	游牧的
+parallel	adj.	平行的
+raiding	n.	劫掠
+restoration	n.	恢复
+steppes	n.	大草原
+winds	v.	风
+uniform	adj.	制服的
+		
+Giant Insects		
+adapted 	v.	适应
+colonies	n.	殖民地
+mandibles	n.	大颚
+safari	n.	狩猎旅行
+species	n.	物种
+titans	n.	巨人
+canopy	n.	树冠
+evolved	v.	演变
+fossil	n.	化石
+nocturnal	adj.	夜间的
+swarm	v.	蜂群
+wingspan	n.	翼展
+		
+Natural Wonders of the World		
+cinder cones	n.	熔岩锥
+erosion	n.	侵蚀
+geologists	n.	地质学家
+landforms	n.	地貌
+polyps	n.	珊瑚体
+terrain	n.	地形
+breeding	adj.	繁殖的
+downstream	adv.	下游
+fissure	n.	裂缝
+mountaineers	n.	登山者
+plateau	n.	高原
+plunge pool	n.	深潭
+Sherpa	n.	夏尔巴（喜马拉雅地区的一支藏族）
+species	n.	物种
+water vapor	n.	水蒸气
+cause	v.	引起
+condition	n.	条件
+period	n.	时期
+process	n.	过程
+structure	n.	结构
+unique	adj.	独特的
+		
+The Last Great Race		
+checkpoints	n.	检查站
+indigenous	n.	土著的
+insulate	v.	隔热
+mandatory	adj.	强制性
+mushers	n.	驾驶狗雪橇的人
+serum	n.	血清
+ceremonial	adj.	仪式的
+exhaustion	n.	精疲力尽
+frostbite	n.	冻伤
+grueling	adj.	艰苦的
+incentive	n.	激励
+tundra	n.	苔原
+		
+Eclipses		
+accuracy	n.	准确性
+coincidence	n.	巧合
+obscured	adj.	被遮蔽的
+orbited	v.	轨道
+partial	adj.	部分的
+predict	v.	预测
+astronomers	n.	天文学家
+cosmic	adj.	宇宙的
+eclipses	n.	日食
+light filters 	n.	光过滤器
+omens	n.	预兆
+theory	n.	理论
+		
+Hoover Dam		
+bedrock	n.	基岩
+compresses	v.	压缩
+converts	v.	转变
+divert	v.	转移
+facilities	n.	设施
+fluctuating	adj.	波动的
+impressed	adj.	印象深刻的
+irrigate	v.	灌溉
+parched	adj.	干燥的
+reservoir	n.	水库
+silt	n.	淤泥
+transformed	v.	改造
+		
+Everest On Top of the World		
+acclimate	v.	适应气候
+crevasses	n.	冰隙
+edema	n.	水肿
+inhospitable	adj.	荒凉的
+strenuous	adj.	艰苦的
+summit	n.	峰顶
+amputated	v.	截肢
+dehydration	n.	脱水
+fault	n.	断层
+hallucinations	n.	幻觉
+nausea	n.	恶心
+porters	n.	搬运工
+		
+The Tuskegee Airmen		
+civil rights	n.	公民权利
+discrimination	n.	歧视
+experiment	n.	实验
+fighter	n.	战斗机
+segregated	adj.	隔离的
+World War II	n.	第二次世界大战
+combat	adj.	战斗
+equality	n.	平等
+escort	v.	护航
+formation	n.	编队
+mission	n.	任务
+squadron	n.	中队
+

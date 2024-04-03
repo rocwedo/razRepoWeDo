@@ -1,0 +1,57 @@
+Spring and Fall		
+birds	n.	小鸟（名词复数）
+corn	n.	玉米
+fall	n.	秋天
+leaves	n.	树叶（名词复数）
+spring	n.	春天
+in	prep.	在...时
+see	v.	看见
+		
+Vegetables		
+broccoli	n.	西兰花
+cabbage	n.	卷心菜
+onion	n.	洋葱
+lettuce	n.	生菜
+potato	n.	土豆
+vegetables	n.	蔬菜（名词复数）
+are	v.	是
+is	v.	是
+this	pron.	这个
+		
+I Push		
+baby	n.	宝贝
+bike	n.	自行车
+button	n.	按钮
+cart	n.	手推车
+door	n.	门
+swing	n.	秋千
+I	pron.	我
+push	v.	推
+the	art.	那个
+Hot and Cold		
+a	art.	一个
+be	v.	是
+can	modal	能够
+or	conj.	或者
+people	n.	人们
+place	n.	地方
+things	n.	物品（名词复数）
+cold	adj.	寒冷的
+hot	adj.	热的
+What I Like		
+I	pron.	我
+like	v.	喜欢
+play	v.	玩
+bees	n.	蜜蜂（名词复数）
+flowers	n.	花朵（名词复数）
+outside	adv.	外面
+slide	v.	滑滑梯
+swing	v.	荡秋千
+What Makes Me Happy		
+bubbles	n.	泡泡（名词复数）
+friends	n.	朋友（名词复数）
+happy	adj.	开心的
+make	v.	使得
+swings	n.	秋千（名词复数）
+trains	n.	火车（名词复数）
+me	pron.	我

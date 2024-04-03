@@ -1,0 +1,162 @@
+Curiosity on Mars		
+evidence	n.	证据
+extraterrestrial	adj	地球外的
+Martian	adj.	火星的
+microbes	n.	微生物
+mission	n.	使命
+rover	n.	漫游者
+elements	n.	元素
+laser	n.	激光
+relay	v.	中继
+robotic	adj.	机器人的
+satellites	n.	卫星
+simulates	v.	模拟
+Digestion		
+abdomen	n.	腹部
+absorption	n.	吸收
+digestive system	n.	消化系统
+gastric	adj.	胃的
+nutrients	n.	营养物质
+saliva	n.	唾液
+dissolving	v.	溶解
+elimination	n.	消除
+enzymes	n.	酶
+microbes	n.	微生物
+molecules	n.	分子
+vital	adj.	至关重要的
+High-Tech Treasure Hunt		
+exchange student	n.	交换学生
+GPS	n.	全球定位系统
+hosted	v.	做东
+online	adj.	在线
+treasure hunt	n.	寻宝游戏
+website	n.	网站
+coordinates	n.	坐标
+Internet	n.	互联网
+master	v.	掌握
+Metro	n.	地铁
+profile	n.	简介
+smartphone	n.	智能手机
+Ancient Greek and Roman Gods and Goddesses		
+disguised	v.	伪装
+immortal	adj.	不朽的
+mythology	n.	神话
+realm	n.	领域
+temples	n.	寺庙
+underworld	n.	冥界
+chariot	n.	战车
+mischievous	adj.	调皮的
+nymphs	n.	女神
+scepter	n.	权杖
+Titans	n.	泰坦神
+trident	n.	三叉戟
+The Nobel Prize		
+committee	n.	委员会
+economics	n.	经济学
+nominate	v.	提名
+physics	n.	物理学
+physiology	n.	生理学
+scholars	n.	学者们
+controversy	n.	争议
+democracy	n.	民主
+engineer	n.	工程师
+foundation	.	基础
+injustice	n.	不公正
+radioactivity	n.	放射性
+The Mystery of Granville Library		
+dead end	n.	死胡同
+discovered	v.	发现
+mysteries	n.	谜团
+riddle	n.	谜语
+secrets	n.	秘密
+treasure	n.	宝藏
+acrostics	n.	藏头诗
+binding	n.	装订
+catalog	n.	目录
+copyright	n.	版权
+decades	n.	数十年
+Middle Ages	n.	中世纪
+pattern	n.	模式
+scanning	v.	扫描
+Catching Air		
+aerodynamics	n.	空气动力学
+air pressure	n.	气压
+altitude	n.	海拔
+free-falling	v.	自由落体
+stalls	o.	失速
+thrust	n.	推力
+canopy	n.	机舱罩
+drogue	n.	减速伞
+lift	n.	升力
+resistance	n.	阻力
+thermal	n.	热气流
+winch	n.	绞车
+Hurricanes		
+evacuate	v.	撤离
+eye	n.	眼睛
+eyewall	n.	眼墙
+intensity	n.	强度
+tropical depression	n.	热带低气压
+tropical	adj.	热带的
+air pressure	n.	空气压力
+Caribbean	adj.	加勒比海的
+chaotic	adj.	混乱的
+condenses	v.	凝结
+disperse	v.	驱散
+hurricanewatch	n.	飓风警报
+satellite	n.	卫星
+storm surge	n.	风暴潮
+structure	n.	结构
+sustained	adj.	持续的
+The Eurovision Song Contest		
+audiences	n.	观众
+competition	n.	竞争
+contestants	n.	参赛者
+international	adj.	国际的
+lyrics	n.	歌词
+trophy	n.	奖杯
+broadcast	v.	广播
+cultures	n.	文化
+diversity	n.	多样性
+experts	n.	专家
+inclusive	adj.	包容的
+mock	v.	模仿
+Mount Kilimanjaro		
+ecosystems	n.	生态系统
+equator	n.	赤道
+geologic	adj.	地质的
+glaciers	n.	冰川
+montane	adj.	山地的
+summit	n.	山顶
+altitude sickness	n.	高山病
+caldera	n.	火山口
+evaporation	n.	蒸发
+plateau	n.	高原
+porters	n.	搬运工
+tribes	n.	部落
+Through a Microscope		
+compound	adj.	化合物的
+crystal	n.	晶体
+distortions	n.	失真
+electron	n.	电子
+microorganisms	n.	微生物
+microscope	n.	显微镜
+antennae	n.	天线
+artificial	adj.	人造的
+contaminate	v.	污染
+nutrients	n.	营养物质
+product	n.	产品
+specimens	n.	标本
+COVID-19 A Challenging Pandemic		
+contagious	adj.	传染性的
+coronavirus	n.	冠状病毒
+crises	n.	危机
+detect	v.	检测
+essential	adj.	必要的
+symptoms	n.	症状
+disease	n.	疾病
+hospitalized	v.	住院
+immune	adj.	免疫的
+inhabit	v.	居住
+professionals	n.	专家
+temporarily	adv.	暂时地

@@ -1,0 +1,313 @@
+Aladdin and the Wonderful Lamp 		
+cavern	n.	洞穴
+impressed	adj.	钦佩的
+kingdom	n.	王国
+magician	n.	巫师
+potion	n.	魔水，毒液
+transformed	v.	转变
+gleaming	adj.	闪耀的
+murured	v.	怨言
+peddler	n.	商贩
+pleased	adj.	开心的
+distraught	adj.	心烦意乱的
+approached	v.	接近
+splendid	adj.	华丽的
+Albert Einstein		
+atoms	n.	原子
+molecules	n.	分子
+patent	n.	专利
+physics	n.	物理
+theories	n.	理论
+universe	n.	宇宙
+algebra	n.	代数
+astounded	v.	使震惊
+compass	n.	指南针
+geometry	n.	几何
+mysterious	adj.	不易解释的
+solar eclipse	n.	日食
+relativity	n.	相对论
+professor	n.	教师
+application	n.	应用
+Ants in My Bed 		
+abdomen	n.	腹部
+colony	n.	群体
+larvae	n.	幼虫（复数）
+obstacle	n.	障碍
+pupae	n.	蛹
+thorax	n.	(昆虫的)胸
+cedar shakes	n.	雪松木屋瓦
+cocoons	n.	茧
+dismay	n.	沮丧
+moat	n.	护城河
+nodes	n.	茎节
+saliva	n.	唾液
+steamboats	n.	轮船
+tide	n.	潮汐
+Brazil		
+cassava	n.	木薯
+Catholic	adj.	天主教的
+dictators	n.	独裁者
+highlands	n.	高原地区
+Pantanal	n.	潘塔纳尔湿地
+plantations	n.	种植园
+plateaus	n.	高原
+sugarcane	n.	甘蔗
+tributaries	n.	支流
+healthcare	n.	医疗卫生
+minerals	n.	矿物
+Brazilians	n.	巴西人
+descended	adj.	是…的后代的
+Bats in the Attic 		
+ebb	v.	退潮
+echolocation	n.	回声定位
+pups	n.	幼小动物
+rabies	n.	狂犬病
+secluded	adj.	僻静的
+snout	n.	鼻子
+bloodworms	n.	血液寄生虫
+Bon appetit	n.	有好的食欲
+driftwood	n.	浮木
+Eptesicus fuscus	n.	大棕蝠
+tides	n.	潮汐
+tines	n.	尖齿
+waded	v.	跋涉（过去式）
+Camouflage		
+blending coloration	n.	融合色
+disguise	v.	伪装
+disruptive coloration	n.	混隐色
+flash coloration	n.	闪光色
+startle	v.	使惊吓
+warning coloration	n.	警戒色
+blotch	n.	斑点
+conceal	v.	隐藏
+eyespot	n.	眼状斑纹
+offspring	n.	后代
+predators	n.	掠夺者
+prey	n.	猎物
+Captain Morty Commands the Sky		
+checking	v.	托运（行李）
+descending	v.	下降
+passengers	n.	乘客
+security checkpoint	n.	安检
+transport	v.	运输
+turbulence	n.	(空气和水的)涡流
+abuzz	adj.	嘈杂的
+indicator	n.	指示信号
+schedule	n.	清单
+instructed	v.	指示
+accompany	v.	陪伴
+Cathy Freeman 		
+award	n.	奖
+disqualified	adj.	不合格的
+equality	n.	平等
+heritage	n.	遗产
+genocide	n.	种族灭绝
+mistreatment	n.	虐待
+dignity	n.	尊严
+forcibly	adv.	用武力
+scholarships	n.	奖学金
+lap	n.	一圈
+acknowledge	v.	承认
+eliminate	v.	消除
+Art Around Us 		
+casting	v.	铸造
+ceramic	n.	陶瓷
+kiln	n.	炉子
+loom	n.	织布机
+mosaics	n.	镶嵌图案，马赛克
+murals	n.	壁画
+blowpipe	n.	吹管
+chisel	n.	凿子
+glaze	n.	釉
+installation	n.	艺术装置
+pottery wheel	n.	制陶轮
+weaver	n.	编织工
+Color Blindness		
+color blindness	n.	色盲
+cone cells	n.	视锥细胞
+retina	n.	视网膜
+rod cells	n.	视杆细胞
+tissue	n.	(人、动植物细胞的)组织
+wavelength	n.	波长
+ancestors	n.	祖先
+apps	n.	应用程序
+gene	n.	基因
+reflect	v.	反映
+signal	n.	信号
+affect	v.	影响
+overlap	v.	重叠
+The Black Stones		
+furious	adj.	狂怒的
+legend	n.	传奇
+obsidian	n.	黑曜石
+research	v.	调查
+search engine	n.	搜索引擎
+volcanic	adj.	火山的
+Apache	n.	阿帕切人
+twins	n.	双胞胎
+website	n.	网站
+pebble	n.	卵石
+tightly	adv.	紧紧地
+apologize	v.	道歉
+Earthquakes,Volcanoes, and Tsunamis		
+earthquakes	n.	地震
+faults	n.	缺陷
+magma	n.	岩浆
+plates	n.	盘子
+tsunamis	n.	海啸
+volcanoes	n.	火山
+continents	n.	大陆
+erupts	v.	爆发
+landslides	n.	崩塌
+mudslide	n.	泥石流
+The Buffalo Soliders		
+contracts	n.	契约
+disbanded	v.	解散
+fierce	adj.	猛烈的
+regiments	n.	(军队的)团
+reputation	n.	名誉
+starvation	n.	饥饿
+achievements	n.	成就
+challenged	v.	挑战
+salary	n.	薪水
+violence	n.	暴力
+settler	n.	殖民者
+reservation	n.	保留地
+Holidays Around the World		
+generation	n.	一代人
+kinara	n.	宽扎节烛台
+menorah	n.	大烛台
+merriment	n.	欢乐
+ornaments	n.	装饰
+traditions	n.	传统
+dreidel	n.	光明节陀螺
+resolutions	n.	心愿
+shamash	n.	中间的蜡烛
+well-being	n.	安乐
+mischief	n.	恶作剧
+fabrics	n.	织物
+The Hero Maui		
+cunning	n.	狡猾的
+demigod	n.	半神半人
+immortality	n.	永生
+mythical	adj.	神话的
+Polynesians	n.	波利尼西亚人
+snare	v.	陷阱
+canoe	n.	独木舟
+devour	v.	吞噬
+generation	n.	一代人
+humankind	n.	人类
+exhausted	adj.	耗尽的
+Kid Inventors		
+app	n.	应用程序
+creativity	n.	创造力
+device	n.	装置
+invented	v.	发明
+research	v.	调查
+sensors	n.	传感器
+model	n.	模型
+patent	n.	专利
+prototype	n.	原型
+competition	n.	竞争
+collaboration	n.	合作
+inventor	n.	发明家
+Morty and the Floating Rubbish		
+debris	n.	残骸 
+hammock	n.	吊床
+helm	n.	船舵
+navigate	v.	导航
+refuse	n.	垃圾
+sound	n.	海峡
+balmy	adj.	温和的
+galley	n.	船上的厨房
+gangplank	n.	踏板
+gauges	n.	仪表
+marina	n.	码头
+unmoor	v.	解缆
+Severe Weather 		
+air pressure	n.	气压
+atmosphere	n.	大气
+blizzard	n.	暴风雪
+precipitation	n.	降雨
+temperature	n.	温度
+water vapor	n.	水汽
+absorbed	v.	吸收
+avalanche	n.	雪崩
+dust devil	n.	沙尘旋风
+hail	n.	冰雹
+waterspout	n.	水龙卷
+whiteout	n.	雪盲
+Muhammad Ali		
+banned	v.	禁止
+civil rights	n.	民权
+drafting	v.	起草
+Islam	n.	伊斯兰教
+racism	n.	种族主义
+segregation	n.	隔离政策
+amateur	adj.	业余的
+human rights	n.	人权
+Supreme Court	n.	最高法院
+Thomas Jefferson 		
+Declaration of Independence	n.	独立宣言
+democracy	n.	民主
+Founders	n.	开国元勋
+plantation	n.	种植园
+representatives	n.	代表
+right	n.	权力
+government	n.	政府
+independence	n.	独立
+statute	n.	法令
+Robots		
+automatic	adj.	自动的
+complex	adj.	复杂的
+mechanical	adj.	机械的
+programmed	v.	编写程序
+repetitive	adj.	重复乏味的
+sensors	n.	传感器
+adjust	v.	调整
+assembly line	n.	流水线
+instinct	n.	本能
+Titanic Treasure 		
+artifacts	n.	史前古物
+iceberg	n.	冰山
+salvagers	n.	打捞者
+sonar	n.	声呐
+submersible	n.	潜水器
+tragedy	n.	悲剧
+bow	n.	船头
+debris field	v.	碎片区
+hull	n.	船体
+maiden voyage	n.	初航
+remote	adj.	偏远的
+scuba dive	v.	水肺潜水
+snorkel	v.	用水下通气管潜航
+stern	n.	船尾
+tidal pools	n.	潮池
+Skin Color		
+exposing	v.	暴露
+heredity	n.	遗传
+melanin	n.	黑色素
+migrated	v.	迁徙
+pigment	n.	色素
+ultraviolet radiation	n.	紫外线辐射
+generations	n.	世代
+immune system	n.	免疫系统
+variations	n.	变种
+Special Effects		
+backdrop	n.	背景
+illusion	n.	幻觉
+models	n.	模型
+projected	v.	放映；投射
+scenery	n.	布景
+special effects	n.	特效
+animatronics	n.	电子动画制作技术
+color-replacement photography	n.	换色摄影
+computer-generated images	n.	计算机生成图像
+developed	adj.	成熟的
+imaginable	adj.	可想象的
+miniature	adj.	小型的
+movements	n.	动作
+process	n.	步骤
+props	n.	小道具
+rear projection	n.	背部投影
+stop-motion animation	n.	定格动画
