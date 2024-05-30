@@ -1,0 +1,319 @@
+The School Versus James Holt		
+defendant	n.	被告
+evidence	n.	证据
+prosecution	n.	控方
+testify	v.	作证
+verdict	n.	判决
+witness	n.	证人
+defense	n.	辩护
+due process	n.	正当程序
+overruled	v.	驳回
+resonable doubt	adj.	合理怀疑
+sustained	v.	维持
+trial	n.	审判
+A Crafty Escape		
+disguised	v.	伪装
+escapees	n.	逃離者
+enslaved	adj.	奴役
+harassment	n.	骚扰
+harbor	v.	窝藏
+segregated	adj.	隔离
+abolitionists	n.	废奴主义者
+bounty hunters	n.	赏金猎人
+complexion	n.	肤色
+conductor	n.	售票员
+fugitive	n.	逃犯
+vouched	v.	担保
+Your Road to the White House		
+campaign	n.	竞选
+convention	n.	大会
+delegates	n.	代表
+nominee	n.	候选人
+political party	n.	政党
+politician	n.	政客
+campaign headquarters	n.	竞选总部
+caucus	n.	党团会议
+concession speech	n.	认输演讲
+Constitution	n.	宪法
+electors	n.	选举人
+primaries	n.	初选
+Dust Bowl Disaster		
+disasters	n.	灾难
+drought	n.	干旱
+dust	n.	灰尘
+economic	adj.	经济的
+erosion	n.	侵蚀
+grasslands	n.	草原
+conservation	n.	保护
+Dust Bowl	n.	沙尘暴
+dust storm	n.	尘暴
+flouted	v.	蔑视
+Great Depression	n.	大萧条
+Great Plains	n.	大平原
+income	n.	收入
+irrevocably	adv.	不可逆转地
+migration	n.	迁移
+precipitation	n.	降水
+prosperity	n.	繁荣
+recovery	n.	复苏
+unemployed	adj.	失业的
+Malala the Brave		
+activist	n.	活动家
+dedication	n.	奉献精神
+empowerment	n.	赋权
+human rights	n.	人权
+Muslim	adj.	穆斯林
+nominated	v.	提名
+blogging	v.	写博客
+fundamentalist	adj.	原教旨主义者
+prime minister	n.	总理
+Taliban	n.	塔利班
+terrorism	n.	恐怖主义
+United Nations	n.	联合国
+Amazing Animal Adaptations		
+adaptations	n.	适应
+cope	v.	应对
+habitat	n.	栖息地
+instinctive	adj.	本能的
+thrive	v.	兴旺
+torpor	n.	麻木
+digest	v.	消化
+gnawing	v.	啃咬
+hibernation	n.	冬眠
+inhabits	v.	栖息
+masquerade	v.	伪装
+reproduce	v.	繁殖
+The Amazing Undersea Food Web		
+abyssal zone	n.	深海区
+aphotic zone	n.	无光区
+disphotic zone	n.	无光区
+euphotic zone	n.	真光区
+photosynthesis	n.	光合作用
+phytoplankton	n.	浮游植物
+anemones	n.	海葵
+bioluminescence	n.	生物发光
+chlorophyll	n.	叶绿素
+faults	n.	断层
+trenches	n.	海沟
+zooplankton	n.	浮游动物
+Hiking the Appalachian Trail		
+acclimate	v.	适应
+footpath	n.	人行道
+insurmountable	adj.	无法克服
+summited	v.	登顶
+thru-hiking	n.	徒步穿越
+traversed	v.	穿越
+hygiene	n.	卫生
+hypothermia	n.	体温过低
+lean-to	n.	倚靠
+solitude	n.	孤独
+subsist	v.	生存
+terrain	n.	地形
+The Bill of Rights		
+amendment	n.	修正案
+Bill of Rights	n.	权利法案
+Constitution	n.	宪法
+Founders	n.	创始人
+freedoms	n.	自由
+right	n.	权利
+confederation	n.	同盟
+equality	n.	平等
+excluded	v.	排除
+freedom of speech	n.	言论自由
+principles	n.	​​原则
+revolution	n.	革命
+Seeds of Revolution		
+allies	n.	联盟
+colonists	n.	殖民者
+delegates	n.	代表
+protesting	v.	抗议
+revolution	n.	革命
+rights	n.	权利
+debts	n.	债务
+militia	n.	民兵
+mutiny	n.	兵变
+Parliament	n.	议会
+rebellious	adj.	叛乱的
+taxes	n.	税收
+Canada		
+camouflage	n.	伪装
+commonwealth	n.	联邦
+democratically	adv.	民主
+diverse	adj.	多元的
+dominion	n.	统治
+First Nations	n.	原住民
+Inuit	n.	因纽特人
+Metis	n.	梅蒂人
+migrating	v.	迁移
+provinces	n.	省份
+tradional	adj.	传统的
+tundra	n.	苔原
+Seeing the Evidence Forensic Scientists at Work		
+crime scene investigator (CSI)	n.	犯罪现场调查员 (CSI)
+eyewitnesses	n.	目击者
+fingerprints	n.	指纹
+forensic science	n.	法医科学
+suspect	n.	嫌疑人
+trace evidence	n.	痕迹证据
+convict	v.	判罪
+crime lab	n.	犯罪实验室
+DNA	n.	脱氧核糖核酸
+informers	n.	告密者
+microscope	n.	显微镜
+victim	n.	受害者
+Grandpa Smoke Jumper		
+donned	v.	穿上
+extinguishing	v.	熄灭
+grueling	adj.	艰辛的
+igniting	v.	点燃
+maneuvered	v.	操纵
+plummeting	v.	直线下降
+abruptly	adv.	突然地
+briefed	v.	作简报
+diminishing	v.	减少
+instinctively	adv.	本能地
+preoccupied	adj.	全神贯注
+relayed	v.	传递
+What Makes You, You?		
+dominant	adj.	显性的
+genes	n.	基因
+genetics	n.	遗传学
+heredity	n.	遗传
+recessive	adj.	隐性的
+traits	n.	特征
+acquire	v.	获得
+chromosomes	n.	染色体
+DNA	n.	脱氧核糖核酸
+domesticate	v.	驯化
+offspring	n.	后代
+override	v.	凌驾
+The Gettysburg Address		
+address	n.	讲话
+commit	v.	承诺
+conceived	v.	构想
+dedicated	v.	奉献
+detract	v.	贬低
+devastation	n.	破坏
+devotion	n.	奉献
+inspiring	adj.	鼓舞人心的
+perish	v.	灭亡
+peoposition	n.	主张
+resolve	v.	解决
+secession	n.	分裂
+Invasion of the Pythons		
+competition	n.	竞争
+ecosystem	n.	生态系统
+invasive species	n.	入侵物种
+native	adj.	本地
+python	n.	蟒蛇
+reproduce	v.	繁殖
+adapting	v.	适应
+food chain	n.	食物链
+population	n.	种群
+predators	n.	捕食者
+suffocates	v.	窒息
+transmitters	n.	发射器
+Famous Hispanic Americans A Proud Heritage		
+achievements	n.	成就
+citizen	n.	公民
+culture	n.	文化
+diverse	adj.	多元的
+heritage	n.	遗产
+Hispanic	adj.	西班牙裔
+contributed	v.	贡献
+descent	n.	血统
+generations	n.	世代
+immigrants	n.	移民
+opportunity	n.	机会
+roots	n.	根源
+Fun by Remote Control		
+mechanic	n.	力学
+miniaturization	n.	小型化
+receiver	n.	接收器
+remote control	n.	遥控器
+transistor	n.	晶体管
+transmitter	n.	发射器
+aerobatic	adj.	特技飞行
+drones	n.	无人机
+electromagnetic radiation	n.	电磁辐射
+maneuver	v.	机动
+replica	n.	复制品
+shock absorbers	n.	减震器
+Whale Sharks Giant Fish		
+aggregation	n.	聚集
+distinctive	adj.	独特的
+endangered	adj.	濒危的
+migrate	v.	迁徙
+passive	adj.	被动的
+plankton	n.	浮游生物
+predator	n.	捕食者
+reproduction	n.	繁殖
+snout	n.	吻部
+solitary	adj.	孤独的
+temperate	adj.	温带的
+vulnerable	adj.	脆弱的
+The History of Halloween		
+Celtic	adj.	凯尔特人
+prank	n.	恶作剧
+prediction	n.	预言
+supernatural	adj.	超自然的
+tradition	n.	传统
+underworld	n.	黑社会
+consumer	n.	消费者
+immigrant	n.	移民
+malicious	adj.	恶意的
+medieval	adj.	中世纪的
+merchandise	n.	商品
+Puritans	n.	清教徒
+Make an Impression		
+criticized	v.	批评
+impression	n.	印象
+realistic	adj.	现实主义的
+rebel	v.	反叛
+sketched	v.	速写
+spontaneity	n.	自发性
+conservative	adj.	保守的
+depicted	v.	描绘
+exhibition	n.	展览
+focal point	n.	焦点
+modernization	n.	现代化
+portrait	n.	肖像
+Wildlife Rescue		
+ambassador	n.	大使
+exotic	adj.	异国情调的
+forage	v.	饲料
+incubator	n.	孵化器
+indigenous	adj.	土著的
+quarantined	v.	隔离
+coaxing	v.	哄骗
+colleague	n.	同事
+devastated	adj.	沮丧的
+fledgling	n.	雏鸟
+ornithologist	n.	鸟类学家
+veterinarian	n.	兽医
+Vanishing Languages		
+assimilated	v.	同化
+culture	n.	文化
+endangered	adj.	濒危的
+extinct	adj.	灭绝的
+indigenous	adj.	土著的
+preserve	v.	保护
+bombarded	v.	轰炸
+document	v.	记录
+erosion	n.	侵蚀
+fluent	adj.	流畅的
+heitage	n.	遗产
+immersion	n.	沉浸
+Zoos Pro or Con?		
+conservation	n.	保护
+controversial	adj.	有争议的
+exotic	adj.	异国情调的
+extinct	adj.	灭绝的
+outdated	adj.	过时的
+steward	n.	管家
+accredited	adj.	认可的
+curator	n.	策展人
+ecosystem	n.	生态系统
+psychological	adj.	心理的
+tranquilize	v.	安抚的
+wildlife refuge	n.	野生动物保护区
