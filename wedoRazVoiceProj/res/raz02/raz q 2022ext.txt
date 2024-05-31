@@ -1,0 +1,194 @@
+Plight of the Polar Bear		
+global warming	n.	全球变暖
+migrate	v.	迁徙
+plight	n.	困境
+pollutants	n.	污染物（名词复数）
+thrive	v.	蓬勃发展
+toxic	adj.	有毒的
+fast	v.	禁食
+insulate	v.	隔热
+prey	n.	猎物
+magnificent	adj.	了不起的
+capture	v.	捕获
+environment	n.	环境
+blubber	n.	脂肪
+Sinkhole Science		
+bedrock	n.	基岩
+dissolves	v.	溶解(第三人称单数）
+eroding	v.	受侵蚀（动词现在分词）
+karst	n.	喀斯特（地形）
+overburden	n.	表土
+sinkholes	n.	落水洞（名词复数）
+chasm	n.	深坑
+destructive	adj.	破坏性的
+geologists	n.	地质学者（名词复数）
+mines	n.	矿山（名词复数）
+sediment	n.	沉积物
+triggered	v.	触发（动词过去式）
+The WeatherBot Warning		
+device	n.	仪器
+inexperienced	adj.	缺乏认识的
+initiate	v.	开始
+manipulation	n.	操纵
+sequence	n.	顺序
+unstable	adj.	不稳定的
+circuit board	n.	电路板
+forecast	n.	预报
+intensify	v.	加强
+bleacher	n.	露天座位
+invention	n.	发明
+tarp	n.	防水布
+Zookeeping		
+anesthesia	n.	麻醉
+exhibits	n.	展览品（名词复数）
+giraffes	n.	长颈鹿（名词复数）
+hoofed	adj.	有蹄的
+species	n.	物种
+zookeeper	n.	动物饲养员
+antelope	n.	羚羊
+procedure	n.	步骤
+vultures	n.	秃鹫（名词复数）
+transferred	v.	调动（动词过去式）
+oversee	v.	监视
+independently	adv.	独立地
+routine	n.	正常顺序
+Color Blindness		
+color blindness	n.	色盲
+cone cells	n.	视锥细胞（名词复数）
+retina	n.	视网膜
+rod cells	n.	视杆细胞（名词复数）
+tissue	n.	组织
+wavelength	n.	波长
+apps	n.	计算机应用程序（名词复数）
+gene	n.	基因
+sensitive	adj.	感觉灵敏的
+absorb	v.	吸收
+trigger	v.	触发
+fulfill	v.	完成
+Earthquakes,Volcanoes,and Tsunamis		
+earthquakes	n.	地震（名词复数）
+faults	n.	（地壳岩层）断层
+magma	n.	岩浆
+plates	n.	板块（名词复数）
+tsunamis	n.	海啸（名词复数）
+volcanoes	n.	火山（名词复数）
+landslides	n.	（山坡）崩塌
+mudslide	n.	泥流
+Richter scale	n.	里氏震级
+seismograph	n.	地震仪
+continents	n.	大陆（名词复数）
+collapse	n.	倒塌
+plug	n.	塞子
+Chili Pepper Powder Surprise		
+corral	n.	畜栏
+dodging	v.	躲开（现在分词）
+galloping	v.	飞奔（现在分词）
+grazed	v.	放牧（动词过去式）
+thoroughbred	n.	良种动物
+trot	n.	骑马小跑
+gingerly	adv.	小心翼翼地
+saddle	n.	马鞍
+sidestepped	v.	回避（动词过去式）
+stammered	v.	结结巴巴地说（动词过去式）
+stirrup	n.	马镫
+tethered	v.	拴（动词过去式）
+Fireworks		
+brusting charge	n.	炸药
+gunpowder	n.	火药
+leader	n.	引线
+lift charge	n.	升力炸药
+mortars	n.	炮筒（名词复数）
+pyrotechnics	n.	烟花（名词复数）
+chemicals	n.	化学制品（名词复数）
+salute	n.	鸣礼炮
+time fuse	n.	定时引信
+celebration	n.	庆祝
+copper	n.	铜
+generation	n.	一代
+ingredients	n.	成分（名词复数）
+American Football		
+championship	n.	锦标赛
+defensive	adj.	防守的
+end zone	n.	球门区
+kickoff	n.	开球
+offensive line	n.	攻击线
+platoons	n.	组
+quarterback	n.	(指挥进攻的)四分卫
+spectacular	adj.	令人惊叹的
+wide receiver	n.	外接手
+indoor	adj.	室内的
+rugby	n.	橄榄球
+incomplete	adj.	不完整的
+Awesome Ants		
+antennae	n.	触角(名词复数）
+colony	n.	群体
+communicate	v.	沟通
+insects	n.	昆虫(名词复数）
+pheromones	n.	信息素(名词复数）
+vibrations	n.	颤动(名词复数）
+environments	n.	环境(名词复数）
+mammals	n.	哺乳动物(名词复数）
+species	n.	种类(名词复数）
+awesome	adj.	令人惊叹的
+related	adj.	有亲属关系的
+European Castles		
+battering rams	n.	攻城锤(名词复数）
+catapults	n.	弩炮(名词复数）
+commoners	n.	平民(名词复数）
+crenelations	n.	垛口(名词复数）
+keep	n.	城堡主楼
+moats	n.	护城河(名词复数）
+nobles	n.	贵族成员(名词复数）
+palisade	n.	木栅栏
+peasants	n.	(尤指昔日国家的)农民(名词复数）
+trebuchets	n.	投石机(名词复数）
+turrets	n.	塔楼(名词复数）
+Arthur's Bad-News Day		
+bundle	n.	捆
+disturbing	adj.	令人不安的
+nearly	adv.	几乎
+ruin	v.	破坏
+tickling	v.	(使)发痒（现在分词）
+diapers	n.	尿片(名词复数）
+syrup	n.	糖浆
+The Eurovision Song Contest
+audiences	n.	观众(名词复数）
+broadcasters	n.	广播公司(名词复数）
+competition	n.	比赛
+contestants	n.	比赛者(名词复数）
+cultures	n.	文化(名词复数）
+experts	n.	专家(名词复数）
+international	adj.	国际的
+lyrics	n.	歌词(名词复数）
+trophy	n.	奖杯
+amused	v.	逗乐(动词过去式)
+careers	n.	职业(名词复数）
+voting	n.	投票
+juries	n.	评判委员会(名词复数）
+Extreme Animals		
+creatures	n.	生物
+extreme	adj.	异乎寻常的
+mammals	n.	哺乳动物
+pigment	n.	色素
+reptiles	n.	爬行动物
+temperament	n.	性格
+Goliath Bird-Eating Spiders Giant Arachnids		
+appendages	n.	附加物(名词复数）
+burrows	n.	洞穴(名词复数）
+captivity	n.	困住
+glands	n.	腺(名词复数）
+molt	v.	蜕皮,脱毛
+nocturnal	adj.	夜行的
+paralyzes	v.	使瘫痪或麻痹(名词复数）
+sense	v.	觉察到
+venom	n.	毒液
+spiderling	n.	幼蛛
+exoskeleton	n.	外骨骼
+underneath	n.	底部
+The Castaway Pines		
+bough	n.	大树枝
+castaway	adj.	流浪的
+defenseless	adj.	无防备的
+distracted	adj.	注意力分散的
+evergreen	adj.	常青树
+harvest	v.	收获

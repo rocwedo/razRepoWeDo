@@ -11,5 +11,163 @@ brain	n.	大脑
 senses	n.	感官
 smells 	n.	嗅觉
 sour	adj.	酸的
- taste buds	n.	味蕾
-
+taste buds	n.	味蕾
+Pip, the Monster Princess		
+daring	adj.	勇敢的
+dream	v.	梦想
+fancy	adj.	精美的，华丽的
+glitter	n.	（装饰用的）小发光物
+princess	n.	公主
+strolls	v.	散步，闲逛
+gown	n.	礼服
+wig 	n.	假发
+trims 	v.	修剪
+glues 	v.	粘合
+fixes 	v.	修理
+Sled Dogs to the Rescue 		
+Alaska	n.	阿拉斯加州
+blizzard	n.	暴风雪
+driver	n.	驾驶员
+famous	adj.	著名的
+medicine	n.	药物
+teams	n.	队伍
+any	adj.	任何的
+little	adj.	小的，少的
+Rapunzel 		
+blind	v.	使失明
+company	n.	陪伴
+happily	adv.	幸福地
+selfish	adj.	自私的
+spell	n.	咒语
+wept	v.	哭泣（weep的过去式）
+down	adv.	向下
+she	pron.	她
+went	v.	去（go 的过去式）
+Spring Is Here 		
+buds	n.	嫩芽
+bulbs	n.	（植物的）球茎
+dandelion	n.	蒲公英
+gophers	n.	地鼠
+shoots	n.	新芽
+wiggly 	adj.	扭动的，蠕动的
+water lily	n.	睡莲，荷花
+garden	n.	花园
+meadow	n.	草地，牧场
+pond	n.	池塘
+woods	n.	森林
+Weird Bird Beaks 		
+beak	n.	鸟喙
+horn	n.	角
+long	adj.	长的
+shaped	v.	塑形
+use	v.	用
+weird	adj.	古怪的，奇特的
+very	adv.	非常地
+Our Sun		
+energy	n.	能量
+hail	n.	冰雹
+humans	n.	人类
+liquid	adj.	液态的
+solid	adj.	固态的
+weather	n.	天气
+we	pron.	我们
+Our Sun		
+energy	n.	能量
+hail	n.	冰雹
+humans	n.	人类
+liquid	adj.	液态的
+solid	adj.	固态的
+weather	n.	天气
+we	pron.	我们
+Pip, the Monster Princess		
+daring	adj.	勇敢的
+dream	v.	梦想
+fancy	adj.	精美的，华丽的
+glitter	n.	（装饰用的）小发光物
+princess	n.	公主
+strolls	v.	散步，闲逛
+gown	n.	礼服
+wig 	n.	假发
+trims 	v.	修剪
+glues 	v.	粘合
+fixes 	v.	修理
+Sled Dogs to the Rescue 		
+Alaska	n.	阿拉斯加州
+blizzard	n.	暴风雪
+driver	n.	驾驶员
+famous	adj.	著名的
+medicine	n.	药物
+teams	n.	队伍
+any	adj.	任何的
+little	adj.	小的，少的
+Rapunzel 		
+blind	v.	使失明
+company	n.	陪伴
+happily	adv.	幸福地
+selfish	adj.	自私的
+spell	n.	咒语
+wept	v.	哭泣（weep的过去式）
+down	adv.	向下
+she	pron.	她
+went	v.	去（go 的过去式）
+Spring Is Here 		
+buds	n.	嫩芽
+bulbs	n.	（植物的）球茎
+dandelion	n.	蒲公英
+gophers	n.	地鼠
+shoots	n.	新芽
+wiggly 	adj.	扭动的，蠕动的
+water lily	n.	睡莲，荷花
+garden	n.	花园
+meadow	n.	草地，牧场
+pond	n.	池塘
+woods	n.	森林
+Weird Bird Beaks 		
+beak	n.	鸟喙
+horn	n.	角
+long	adj.	长的
+shaped	v.	塑形
+use	v.	用
+weird	adj.	古怪的，奇特的
+very	adv.	非常地
+The Stonecutters 		
+emperor	n.	皇帝
+Japan	n.	日本
+merchant	n.	商人
+spirit	n.	精神
+stonecutter	n.	采石工
+wept	v.	哭泣（动词过去式）
+whispered	v.	耳语（动词过去式）
+became	v.	成为（动词过去式）
+scream	v.	尖叫（动词过去式）
+What Lives in This Hole		
+burrows	n.	洞穴
+naked mole rats	n.	裸鼹鼠
+puffins	n.	海鹦
+salamander	n.	蝾螈
+tunnels	n.	地道
+wombat	n.	毛鼻袋熊
+cliff	n.	悬崖
+stream	n.	水流
+dirt	n.	尘土
+What Built This		
+builders	n.	建造者
+chimney	n.	烟囱
+dams	n.	水坝
+dens	n.	兽穴
+prey	n.	猎物
+silk	n.	丝
+underground	n.	地下
+insect	n.	昆虫
+million	n.	百万
+wasp	n.	黄蜂
+Sam's Fourth of July		
+decoration	n.	装饰
+fireworks	n.	烟花
+Fourth of July	n.	美国独立纪念日
+mayor	n.	市长
+parade	n.	游行
+soldiers	n.	士兵（复数）
+stripes	n.	线条（复数）
+clap	v.	拍手
+backyard	n.	后院

@@ -49,7 +49,7 @@ quilt	v.	被子
 square	n.	正方形
 squeal	v.	尖叫
 squint	v.	斜眼看
-squish	v.	眯着眼看
+squish	v.	压扁，挤扁
 at	prep.	在...里面
 in	prep.	在...里面
 they	pron	他们

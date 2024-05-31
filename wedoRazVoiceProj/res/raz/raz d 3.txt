@@ -88,3 +88,35 @@ country	n.	村庄
 learn	v.	学习
 preschool	n.	学前班
 city	n.	城市
+So  Many Fish		
+bright	adj.	鲜艳的
+fancy	adj.	时髦的
+scary	adj.	可怕的
+shiny	adj.	闪耀的
+spotted	adj.	带斑点的
+striped	adj.	有条纹的
+puffy	adj.	膨胀的
+boxy	adj.	四四方方的
+We go out to eat		
+bill	n.	账单
+breakfast	n.	早餐
+check	n.	核对
+menus	n.	菜单
+order	v.	点餐
+server	n.	服务员
+pay	v.	支付
+drinks	n.	饮料
+		
+We Give Away		
+pile	n.	一堆
+bear	n.	熊
+puzzle	n.	拼图
+boots	n.	靴子
+blanket	n.	毯子
+great	adj.	很棒的
+		
+Our Good Night Story		
+choose	v.	选择
+bring	v.	带来
+climb	v.	攀爬
+think	v.	认为

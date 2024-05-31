@@ -1,0 +1,278 @@
+Muzzy 1		
+morning	n.	早晨，上午
+Good morning	n.	早上好
+afternoon	n.	下午
+Good afternoon	n.	下午好
+evening	n.	傍晚
+Good evening	n.	晚上好
+night	n.	晚上
+Good night	n.	晚安
+king	n.	国王
+I'm the King of Gondoland.	n.	我是 Gondoland的国王。
+queen	n.	王后
+I'm the queen.	n.	我是王后。
+princess	n.	公主
+I'm princess sylvia.	n.	我是Sylvia公主。
+gardener	n.	花匠
+I'm the gardener.	n.	我是花匠。
+strong	n.	强壮的
+I'm strong.	n.	我很强壮。
+brave	n.	勇敢的
+I'm brave.	n.	我很勇敢。
+clever	n.	聪明的
+I'm clever.	n.	我很聪明。
+beautiful	n.	漂亮的
+You're beautiful.	n.	你很漂亮。
+big	n.	大的
+small	n.	小的
+bag	n.	包，袋子
+I've got a bag.	n.	我有一个包。
+map	n.	地图
+hamburger	n.	汉堡
+Can I have a hamburger, please?	n.	请给我一个汉堡好吗？
+bike	n.	自行车
+rose	n.	玫瑰花
+computer	n.	电脑
+I've got a computer.	n.	我有一台电脑。
+garden	n.	花园
+I've got a garden.	n.	我有一个花园。
+plum	n.	李子
+I've got a plum.	n.	我有一个李子。
+some plums	n.	一些李子
+I like plums.	n.	我喜欢李子。
+peach	n.	桃子
+Can I have a peach, please?	n.	请给我一个桃子好吗？
+some peaches	n.	一些桃子
+I like peaches.	n.	我喜欢桃子。
+grape	n.	葡萄
+some grapes	n.	一些葡萄
+I like grapes.	n.	我喜欢葡萄。
+salad	n.	沙拉
+Can I have a salad, please?	n.	请给我一份沙拉好吗？
+drink	n.	饮料
+Can I have a drink, please?	n.	请给我一份饮料好吗?
+ice-cream	n.	冰淇淋
+Can I have an ice-cream, please?	n.	请给我一份冰淇淋好吗?
+wash	n.	洗
+Can I have a wash, please?	n.	请让我洗一下好吗?
+tree	n.	树
+trees	n.	树（名词复数）
+How many trees are there?	n.	那有多少棵树？
+bush	n.	灌木丛
+bushes	n.	灌木丛（名词复数）
+How many bushes are there？	n.	那有多少棵灌木丛？
+flower	n.	花
+one	n.	1
+two	n.	2
+three	n.	3
+four	n.	4
+five	n.	5
+six	n.	6
+seven	n.	7
+eight	n.	8
+nine	n.	9
+ten	n.	10
+hundred	n.	100
+Muzzy 2		
+eleven	n.	11
+twelve	n.	12
+thirteen	n.	13
+fourteen	n.	14
+fifteen	n.	15
+sixteen	n.	16
+seventeen	n.	17
+eighteen	n.	18
+nineteen	n.	19
+twenty	n.	20
+this	n.	这个
+that	n.	那个
+these	n.	这些
+What are these?	n.	这些是什么？
+those	n.	那些
+What are those?	n.	那些是什么？
+it	n.	它
+Eat it.	n.	吃了它。
+cat	n.	猫
+clocks	n.	钟表
+spaceship	n.	飞船
+bell	n.	铃铛
+It's my bell.	n.	它是我的铃铛。
+name	n.	名字
+What’s your name?	n.	你的名字叫什么？
+China	n.	中国
+Britain	n.	英国
+Italy	n.	意大利
+Greece	n.	希腊
+Japan	n.	日本
+France	n.	法国
+Muzzy 3		
+a head	n.	一个头
+an eye	n.	一只眼睛
+eyes	n.	眼睛（名词复数）
+a nose	n.	一个鼻子
+a mouth	n.	一张嘴
+an ear	n.	一只耳朵
+ears	n.	耳朵（名词复数）
+a neck	n.	一个脖子
+an arm	n.	一只胳膊
+a hand	n.	一只手
+a leg	n.	一条腿
+a foot	n.	一只脚
+shoulders	n.	肩膀（名词复数）
+knees	n.	膝盖（名词复数）
+toes	n.	脚趾（名词复数）
+friends	n.	朋友（名词复数）
+thirsty	n.	口渴的
+I am thirsty.	n.	我口渴。
+hungry	n.	饥饿的
+I am hungry.	n.	我饿了。
+hot	n.	热的
+It's hot.	n.	很热。
+wet	n.	湿的
+I am wet.	n.	我身上弄湿了。
+dry	n.	干的
+cold	n.	冷的
+I am very cold.	n.	我很冷。
+tired	n.	累的
+I am tired	n.	我累了。
+shower	n.	淋浴
+towel	n.	毛巾
+sweater	n.	毛衣
+take a rest	n.	休息一下
+drink	n.	饮料
+hear	n.	听到
+talk	n.	谈话
+walk	n.	走路
+run	n.	跑步
+jump	n.	跳
+swim	n.	游泳
+in the box	n.	在盒子里
+under the box	n.	在盒子下
+on the box	n.	在盒子上
+between the boxes	n.	在盒子中间
+in front of the box	n.	在盒子前面
+behind the box	n.	在盒子后面
+green	n.	绿色
+red	n.	红色
+yellow	n.	黄色
+brown	n.	棕色
+blue	n.	蓝色
+white	n.	白色
+black	n.	黑色
+Muzzy 4		
+time	n.	时间
+What’s the time now?	n.	现在几点了？
+lunch-time	n.	午饭时间
+doctor	n.	医生
+headache	n.	头疼
+stomachache	n.	胃疼
+toothache	n.	牙疼
+backache	n.	后背疼
+next	n.	下一个
+the swimming pool	n.	游泳池
+tennis court	n.	网球场
+exercise	n.	锻炼
+She’s doing her exercises.	n.	她正在做锻炼。
+raining	n.	下雨
+It’s raining.	n.	正在下雨。
+have breakfast	n.	吃早饭
+have lunch	n.	吃完饭
+go to bed	n.	去睡觉
+take a bath	n.	洗澡
+feeling better	n.	感觉好一些
+Muzzy 5		
+spring	n.	春天
+summer	n.	夏天
+autumn	n.	秋天
+fall	n.	秋天
+winter	n.	冬天
+January	n.	一月
+February	n.	二月
+March	n.	三月
+April	n.	四月
+May	n.	五月
+June	n.	六月
+July	n.	七月
+August	n.	八月
+September	n.	九月
+October	n.	十月
+November	n.	十一月
+December	n.	十二月
+Monday	n.	星期一
+Tuesday	n.	星期二
+Wednesday	n.	星期三
+Thursday	n.	星期四
+Friday	n.	星期五
+Saturday	n.	星期六
+Sunday	n.	星期日
+play football	n.	踢足球
+play basketball	n.	打篮球
+roller-skating	n.	滑轮滑
+golf	n.	高尔夫
+swimming	n.	游泳
+tennis	n.	网球
+floor	n.	楼层
+I’m on the second floor.	n.	我在二楼。
+left	n.	左边
+left hand	n.	左手
+right	n.	右边
+right hand	n.	右手
+middle	n.	中间
+door	n.	门
+kitchen	n.	厨房
+fireplace	n.	壁炉
+wall	n.	墙
+sitting room	n.	起居室
+bathroom	n.	洗手间
+shower	n.	淋浴
+bounce	n.	跳
+chairs	n.	椅子（名词复数）
+help	n.	帮助
+crying	n.	哭
+reach the apple	n.	拿到苹果
+listen	n.	听
+Muzzy 6		
+fat	n.	胖的
+There’s a fat one.	n.	有一个胖的。
+fatter	n.	更胖的
+That one is fatter.	n.	那个更胖。
+small	n.	小的
+I’m small.	n.	我很小。
+smaller	n.	更小的
+The fourth one’s smaller.	n.	第四个更小。
+tall	n.	高的
+The fifth is tall.	n.	第五个很高。
+taller	n.	更高的
+The sixth is taller.	n.	第六个更高。
+big	n.	大的
+I’m big.	n.	我很大。
+bigger	n.	更大的
+I’m bigger.	n.	我更大。
+first	n.	第一
+The first one’s big.	n.	第一个很大。
+second	n.	第二
+The second one’s bigger.	n.	第二个更大。
+third	n.	第三
+The third one’s small.	n.	第三个很小。
+fourth	n.	第四
+fifth	n.	第五
+The fifth is tall.	n.	第五个很高。
+sixth	n.	第六
+seventh	n.	第七
+eighth	n.	第八
+run away	n.	逃跑
+Ah, I can run away.	n.	呀，我可以逃跑。
+see	n.	看见
+job	n.	工作
+I don't like this job.	n.	我不喜欢这份工作。
+up	n.	向上
+stop	n.	停止
+Stop the computer.	n.	让电脑停下。
+there	n.	那里
+There’s one and there’s one.	n.	那有一个还有那也有一个。
+wait	n.	等待
+Wait a moment.	n.	稍等一下。
+mine	n.	我的
+It’s mine.	n.	它是我的。
+wake up	n.	起床
+goodbye	n.	再见

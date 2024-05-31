@@ -8,8 +8,8 @@ public class WeDoBlocVoiceServiceApp {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Start...");
-		
-		app.dealwithRes("res\\raz\\raz h ext.txt","Raz level H");
+		app.dealwithRes("res\\raz\\raz w2.txt","Raz level W");
+//		app.dealwithRes("res\\raz02\\raz b 2023ext.txt","Raz level B");
 //		app.dealwithResFold("res\\raz02");
 		System.out.println("End");
 	}
@@ -35,9 +35,9 @@ public class WeDoBlocVoiceServiceApp {
 			String tmpString = tmpFiles[i].getName();
 			String[] tmp = tmpString.split(" ");
 				if(tmp.length>1) {
-					//Éú³É¶ÔÓ¦Raz¼¶±ð
+					//ï¿½ï¿½ï¿½É¶ï¿½Ó¦Razï¿½ï¿½ï¿½ï¿½
 					StringBuffer buffRazLevelString= new StringBuffer("raz level ").append(tmp[1].trim().toUpperCase());
-					//Éú³É¶ÔÓ¦Ä¿±êÎÄ¼þ¼Ð
+					//ï¿½ï¿½ï¿½É¶ï¿½Ó¦Ä¿ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½
 					StringBuffer destOutputPath =new StringBuffer("raz level ").append(tmp[1].trim().toUpperCase());
 					if(tmp.length>2) {
 						if(tmp[2].endsWith(".txt")) {

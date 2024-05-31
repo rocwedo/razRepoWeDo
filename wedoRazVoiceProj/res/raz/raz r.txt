@@ -1,0 +1,203 @@
+Alaska		
+Indigenous	adj.	当地的
+risk	n.	风险
+steadily	adv.	不断地
+unique	adj.	独特的
+vast	adj.	大量的
+wealth	n.	财富
+drilled	v.	钻孔（动词过去式）
+harshly	adv.	严厉地
+pipeline	n.	输油管道
+adventure	n.	冒险
+agreement	n.	协议
+economy	n.	经济
+camouflage	v.	伪装
+All About Chocolate		
+cacao	n.	可可
+conching	n.	研拌
+fermentation	n.	发酵
+ingredients	n.	成分（名词复数）
+mills	n.	磨坊（名词复数）
+solidified	v.	凝固
+consume	v.	消费
+machete	n.	大刀
+mole	n.	墨西哥辣酱
+pods	n.	荚果（名词复数）
+process	n.	工序
+flavor	n.	滋味
+Animal Discoveries		
+endangered	adj.	濒临灭绝的
+habitat	n.	栖息地
+populations	n.	数量(名词复数）
+remote	adj.	遥远的
+scientists	n.	科学家(名词复数）
+species	n.	种类
+DNA	n.	脱氧核糖核酸
+herpetologist	n.	动物学家
+secretions	n.	分泌物(名词复数）
+microscope	n.	显微镜
+titi monkey	n.	伶猴
+full-grown	adj.	成熟的
+invertebrates	n.	无脊椎动物(名词复数）
+How the Robin Stole Fire		
+corroboree	n.	狂欢
+enraged	adj.	愤怒的
+feat	n.	英勇事迹
+ingenuity	n.	聪明才智
+journey	n.	行程
+journeyed	v.	旅行（动词过去式）
+cockatoo	n.	凤头鹦鹉
+kookaburra	n.	笑翠鸟
+refreshed	adj.	神清气爽的
+An Apple a Day		
+calorie	n.	卡路里（热量）
+carbohydrates	n.	碳水化合物
+fat	n.	脂肪
+minerals	n.	矿物质
+nutrient	n.	营养物
+nutrition fact	n.	营养成分表
+proteins	n.	蛋白质
+supplements	n.	补充(物)
+vitamins	n.	维生素
+cells	n.	细胞
+processed	adj.	被加工的
+ingredient	n.	成分
+contain	v.	包括
+Bessie Coleman		
+biplane	n.	双翼飞机
+discrimination	n.	歧视
+enlisted	v.	从军(动词过去式）
+gender	n.	性别
+manicurist	n.	美甲师
+mechanic	n.	技工
+race	n.	种族
+sharecroppers	n.	佃农（名词复数）
+solo	adv.	独自地
+pioneer	n.	先锋
+participated	v.	参加(动词过去式）
+accomplishment	n.	成就
+stunts	n.	特技表演（名词复数）
+Food Around the World		
+borscht	n.	罗宋汤
+cacao	n.	可可
+cannoli	n.	奶油煎饼卷
+delicacy	n.	精美的食物
+escargots	n.	焗蜗牛
+flying foxes	n.	狐蝠
+game	n.	猎物
+rich	adj.	油腻的
+specialty	n.	特色食品
+sushi	n.	寿司
+recipes	n.	食谱
+cuisine	n.	菜肴
+Morty and Charming Theo		
+admired	v.	赞美（动词过去式）
+awe	n.	敬畏
+embarrassment	n.	尴尬
+jealousy	n.	嫉妒
+putrid	adj.	腐烂的
+scampered	v.	蹦蹦跳跳（动词过去式）
+scoffed	v.	嘲笑（动词过去式）
+sneered	v.	讥讽（动词过去式）
+snickered	v.	窃笑（动词过去式）
+admitted	v.	承认（动词过去式）
+crumpled	v.	(使)变皱（动词过去式）
+guilty	adj.	内疚的
+New Year Celebrations		
+cultures	n.	文化
+cycles	n.	循环
+resolutions	n.	决定，决心
+symbolize	v.	象征
+traditions	n.	传统
+usher	v.	引入
+Buddha	n.	佛陀
+fortunes	n.	命运
+exchange	v.	交换
+positive	adj.	积极的
+represent	v.	代表
+smash	v.	打破
+Basketball		
+amamteur	adj.	业余爱好的
+court	n.	球场
+defense	n.	防守
+foul shot	n.	罚球
+offense	n.	进攻
+opposing	adj.	相竞争的
+pastime	n.	休闲活动
+personalities	n.	个性
+prefessional	adj.	专业的
+popularity	n.	受欢迎，普及
+transform	v.	转变
+regular	adj.	常规的
+attached	v.	依附于
+Sea Turtles		
+carapace	n.	外壳
+carnivore	n.	食肉动物
+herbivore	n.	食草动物
+omnivore	n.	杂食动物
+plastron	n.	腹甲
+scutes	n.	鳞甲
+endangered	adj.	濒临灭绝的
+prominent	adj.	显眼的
+reptiles	n.	爬行动物
+rudders	n.	舵
+unique	adj.	独特的
+Arrows		
+code	n.	密码
+Choctaw	n.	乔克托部落
+Code Talkers	n.	密码通讯员
+deciphered	v.	破译
+glyph	n.	象形文字
+interpret	v.	口译
+cipher	n.	密码，暗号
+substitute	v.	代替
+undergrowth	n.	下层灌木丛
+disappeared	v.	消失（动词过去式）
+enslaved	adj.	被奴役的
+alphabet	n.	字母表
+Storm Chasers		
+funnel clouds	n.	漏斗云
+meteorologists	n.	气象学家
+supercell	n.	超级单体
+tornado warning	n.	龙卷风警报
+tornado watch	n.	龙卷风警戒
+wall cloud	n.	云墙
+doppler radar	n.	多普勒雷达
+F-ratings	n.	龙卷风等级
+image	n.	形象
+predict	v.	预测
+Tornado Alley	n.	龙卷风走廊
+waterspout	n.	海龙卷
+Alexander the Great		
+city-states	n.	城邦
+claim	v.	夺取
+control	n.	控制
+dominated	v.	支配(动词过去式）
+empire	n.	帝国
+explore	v.	探索
+intelligence	n.	智慧
+javelins	n.	标枪
+responsibilities	n.	责任
+Water Cities		
+drained	v.	排空
+isthmus	n.	地峡
+reclaimed	adj.	改造的
+reeds	n.	芦苇
+sea level	n.	海平面
+stilt	n.	柱子
+pursue	v.	追求
+residents	n.	居民
+transportation	n.	运输
+military	adj.	军事的
+aircraft	n.	飞机
+connection	n.	关联
+Fishing in Simplicity		
+catfish	n.	鲇鱼
+crawdads	n.	喇蛄（一种淡水小龙虾）
+enchanted	adj.	狂喜的
+fiberglass	n.	玻璃丝
+fishing	n.	钓鱼
+intolerable	adj.	不能容忍的
+persimmons	n.	柿子（名词复数）
+remnant	n.	剩余部分
+
