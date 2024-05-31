@@ -1,0 +1,203 @@
+The Plague		
+bacteria 	n.	细菌
+immmune systemm	n.	免疫系统
+infected 	adj.	感染的
+outbreak 	n.	爆发
+sanitation 	n.	卫生
+viruses 	n.	病毒
+boils 	n.	疖子
+incense 	n.	香
+pus 	n.	脓
+starvation 	n.	饥饿
+supernatural	adj.	超自然
+symptoms 	n.	症状
+area 	n.	区域
+authority 	n.	权威
+confirm 	v.	确认
+event 	n.	事件
+likely 	adj.	可能
+source 	n.	来源
+Microbes Friend or Foe		
+antigens	n.	抗原
+contaminated	adj.	污染
+immmune system 	n.	免疫系统
+invade 	v.	侵入
+organisims	n.	生物体
+vaccines 	n.	疫苗
+antibiotics 	n.	抗生素
+cells 	n.	细胞
+disease 	n.	疾病
+epidemic 	n.	流行病
+eradicate 	v.	根除
+infection 	n.	感染
+microscope 	n.	显微镜
+mutate 	v.	突变
+outbreak 	n.	爆发
+pandemic 	n.	大流行
+parasites 	n.	寄生虫
+resistance 	n.	抵抗力
+symptoms 	n.	症状
+The Creature and the Queen		
+commenced	v.	开始
+eloquent 	adj.	雄辩的
+impudence 	n.	厚颜无耻
+plight 	n.	困境
+reconnaissance	n.	侦察
+succumb	v.	屈服
+abscond 	v.	潜逃
+begrudge 	v.	嫉妒
+domicile 	n.	住所
+embellishment 	n.	装饰
+empathetic 	adj.	有同情心的
+frolicked 	v.	嬉戏
+certain	adj.	确定的
+construct	v.	建立
+discussion	n.	讨论
+influence	n.	影响
+manipulate	v.	操纵
+return	v.	返回
+The U.S. Constitution		
+confederation 	n.	联邦
+constitution 	n.	宪法
+critical 	adj	关键的
+debts 	n.	债务
+delegates 	n.	代表团
+elected 	v.	选举
+federal 	adj	联邦的
+liberty 	n.	自由
+procedure 	n.	程序
+prosperous 	adj	繁荣的
+representatives	n.	代表
+Senate 	n.	参议院
+Mummies		
+afterlife 	n.	来世
+embalmers 	n.	防腐师
+hieroglyphs 	n.	象形文字
+immortality	n.	永生
+mummified	n.	木乃伊化的
+sacred	adj	神圣的
+akh 	n.	阿赫（古埃及人死后的幽灵）
+amulets 	n.	护身符
+ba 	n.	灵魂
+cremated	v.	火葬
+decomposing	v.	腐烂
+embalming hook 	n.	防腐钩
+incision 	n.	切口
+papier-maché 	n.	纸浆
+resin 	n.	树脂
+shriveled 	v.	干枯的
+talismans 	n.	护身符
+tempted 	v.	诱惑
+Atlantic Crossing		
+blacksmith 	n.	铁匠
+famine 	n.	饥荒
+immigrant 	n.	移民
+makings 	n.	素材
+mast 	n.	桅杆
+yardarm 	n.	桅樯
+bustle 	n.	喧嚣
+crest 	n.	浪尖
+frantically 	adv.	疯狂地
+hatch 	n.	舱口
+rafters 	n.	椽子
+stern 	n.	船尾
+Paving the Way American Sports Legends		
+achievements	n.	成就
+determination 	n.	决心
+discriminated 	v.	歧视
+dominated 	v.	统治
+represented	v.	代表
+revolutionized	v.	革命性改变
+barrier 	n.	障碍
+blazed 	v.	开创
+championship 	n.	冠军赛
+competitor 	n.	竞争对手
+dignity 	n.	尊严
+opponents 	n.	对手
+Threats to Our Atmosphere		
+atmosphere 	n.	大气层
+chemicals 	n.	化学物质
+fossil fuels 	n.	化石燃料
+global warming 	n.	全球变暖
+greenhouse effect 	n.	温室效应
+pollutants 	n.	污染物
+atoms 	n.	原子
+constant 	adj.	恒定的
+contributor 	n.	贡献者
+decomposes 	v.	分解
+molecules 	n.	分子
+precipitation 	n.	降水
+ultraviolet 	adj.	紫外线
+Route 66		
+bypassed 	v.	绕过
+endangered 	adj.	濒临灭绝的
+highway 	n.	高速公路
+installations 	n.	设施
+resurgence 	n.	复兴
+road trip 	n.	公路旅行
+congestion 	n.	拥堵
+dire 	adj.	迫切的
+fiberglass 	n.	玻璃纤维
+mobilized 	v.	动员
+phenomenon 	n.	现象
+stock market 	n.	股票市场
+common 	adj.	普通的
+example 	n.	例子
+main 	adj.	主要的
+period 	n.	时期
+protect 	v.	保护
+release 	v.	释放
+Puffins		
+antics 	n.	滑稽行为
+breeding season 	n.	繁殖季节
+burrow 	n.	洞穴
+coastal 	adj.	沿海的
+colonies 	n.	群落
+plumage 	n.	羽毛
+climate change 	n.	气候变化
+demeanor 	n.	举止
+fledges 	v.	羽翼丰满
+gait 	n.	步态
+incubating 	v.	孵化
+tufted 	adj.	有羽毛的
+adapted 	v.	适应
+adult 	n.	成年
+features 	n.	特征
+prepares 	v.	准备
+unique 	adj.	独特的
+usually 	adv.	通常
+Electric Cars History and Future		
+alternative 	adj.	替代
+efficient 	adj	高效的
+emissions 	n.	排放物
+environment 	n.	环境
+exhaust 	n.	废气
+hybrid	adj.	混合动力
+atoms 	n.	原子
+breakthrough 	n.	突破
+chemical reaction 	n.	化学反应
+dangerous 	adj.	危险的
+eliminated 	v.	消除
+flamboyant 	adj.	华丽的
+generation 	n.	一代
+methods 	n.	方法
+mobility 	n.	机动性,流动性
+nuisance 	n.	恼人的事物（或人）
+production 	n.	生产
+prosperous 	adj.	繁荣的
+prototypes 	n.	原型
+pungent 	adj.	刺鼻的
+quantity	n.	数量
+Otzi The Iceman		
+carbon dating 	n.	碳测年法
+corpse 	n.	尸体
+evidence 	n.	证据
+glacier 	n.	冰川
+preserved 	adj.	保存的
+theory 	n.	理论
+acupuncture 	n.	针灸
+arthritis 	n.	关节炎
+shaman 	n.	萨满
+tattoos 	n.	纹身
+tension 	n.	紧张
+wounds 	n.	伤口
