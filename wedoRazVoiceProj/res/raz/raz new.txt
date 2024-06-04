@@ -1,0 +1,10 @@
+France		
+baguette	n.	法棍面包
+basin	n.	盆地
+carnival	n.	狂欢节
+cathedral	n.	大教堂
+dialect	n.	方言
+fashion	n.	时尚
+gorge	n.	峡谷
+tourism	n.	旅游
+vineyard	n.	葡萄园

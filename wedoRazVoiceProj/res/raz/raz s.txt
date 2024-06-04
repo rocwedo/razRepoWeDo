@@ -209,4 +209,239 @@ steerage	n.	统舱
 lavish	adj.	耗资巨大的
 tragedy	n.	灾难
 rescued	v.	救援（动词过去式）
-
+Animal Groups, Strength in Numbers		
+competitive	adj.	竞争的
+cooperate	v.	合作
+matriarch	n.	女族长
+predators	n.	捕食者
+solitary	adj.	孤独的
+young	n.	幼崽
+fungus	n.	真菌类植物
+groom	v.	刷洗
+sophisticated	adj.	水平高的
+unique	adj.	独特的
+orangutans	n.	红毛猩猩
+survive	v.	幸存
+communicate	v.	沟通
+complex	adj.	复杂的
+April Fools' Day		
+hoax	n.	恶作剧
+media	n.	大众传播工具
+naive	adj.	天真的
+pranks	n.	玩笑
+traditional	adj.	传统的
+victim	n.	受害者
+consumer	n.	消费者
+disguises	n.	装扮
+spoof	n.	玩笑
+messenger	n.	送信人
+theory	n.	看法
+attempts	n.	尝试
+innocent	adj.	无辜的
+Argentina		
+citizens	n.	公民（名词复数）
+cultures	n.	文化（名词复数）
+elected	v.	选举
+festivals	n.	节日（名词复数）
+gaucho	n.	南美牛仔
+geography	n.	地理
+mammals	n.	哺乳动物（名词复数）
+provinces	n.	省份（名词复数）
+textiles	n.	纺织品（名词复数）
+population	n.	人口
+automobiles	n.	汽车（名词复数）
+plains	n.	平原（名词复数）
+parades	n.	游行
+Attack on St Augustine		
+attack	v.	攻击
+conflicts	n.	矛盾
+defense	n.	防守
+looted	v.	打劫（动词过去式）
+segregation	n.	种族分离
+settlement	n.	定居点
+damage	n.	损坏
+Indigenous	adj.	本地的
+isolated	adj.	偏远的
+resident	n.	居民
+massacred	v.	屠杀（动词过去式）
+governor	n.	统治者
+Baseball		
+competitor	n.	竞争对手
+fielding	adj.	守备的
+infield	n.	内场
+league	n.	联赛
+minor	adj.	少数的
+outfield	n.	外场
+pastime	n.	休闲活动
+professional	adj.	专业的
+titles	n.	称号
+succeed	v.	成功
+remarkable	adj.	非凡的
+champion	n.	冠军
+Bears		
+carnivore	n.	食肉动物
+comparative	adj.	比较的
+diverse	adj.	多种多样的
+exclusively	adv.	完全地
+hibernating	v.	冬眠
+muzzle	n.	口鼻
+omnivores	n.	杂食动物
+solitary	adj.	孤独的
+rare	adj.	少的
+layer	n.	层
+walruses	n.	海象
+shaggy	adj.	乱蓬蓬的
+Before the Internet		
+contacting	v.	联系
+information	n.	信息
+interview	v.	采访
+research	v.	调查
+resources	n.	资源（名词复数）
+sources	n.	来源（名词复数）
+festival	n.	节日
+technology	n.	科技
+topics	n.	话题（名词复数）
+available	adj.	可获得的
+project	n.	项目
+encyclopedias	n.	百科全书
+A Big League for Little Players		
+divisions	n.	分开
+goal	n.	目标
+league	n.	联合会
+organized	adj.	有安排的
+pastime	n.	消遣
+tournament	n.	锦标赛
+competitors	n.	竞争者
+eager	adj.	渴望的
+equipment	n.	设备
+feat	n.	功绩
+scheduled	adj.	定期的
+spectators	n.	观众
+Why We Sleep		
+brain waves	n.	脑电波
+function	v.	运作
+reorganize	v.	重组
+restore	v.	恢复
+schedule	n.	日程
+shuffle	v.	把…移來移去
+immune system	n.	免疫系统
+monitor	v.	监测
+trigger	v.	触发
+Gems Treasures from the Earth		
+dissolve 	v.	溶解
+evaporates 	v	蒸发
+minerals 	n.	矿物质
+atoms 	n.	原子
+crystals 	n.	晶体
+facets 	n.	刻面
+grain 	n.	颗粒
+opaque 	adj.	不透明的
+organic gems 	n.	有机宝石
+Voyagers in Space		
+explore	v.	探索
+instrument	n.	仪器
+mission	n.	任务
+orbit	n.	轨道
+probe	n.	探测器
+solar system	n.	太阳系
+gravity	n.	重力
+interstellar	adj.	星际的
+plasma	n.	等离子体
+Let's Make Vegetable Soup		
+boil	n.	煮沸
+broth	n.	汤
+ladle	n.	勺子
+simmer	v.	慢炖
+strainer	n.	滤网
+tender	adj.	嫩的
+ensure	v.	确保
+hearty	adj.	丰盛的
+leek	n.	韭菜
+Mediterranean	adj.	地中海的
+nutrient	n.	营养
+unique	adj.	独特的
+Polar Bear's Promise		
+appetizing	adj.	开胃的
+devour	v.	吞食
+peculiar 	adj.	奇特的
+savor 	v.	味道
+scrumptious 	adj.	美味的
+suspicious 	adj.	可疑的
+crimson 	adj.	深红色的
+frigid 	adj.	寒冷的
+recede 	v.	退却
+Too Much Screen Time		
+electronic 	adj.	电子的
+interacting 	v.	互动
+relationship	n.	关系
+researching 	v.	研究
+social media 	n.	社交媒体
+technology 	n.	技术
+challenging 	adj.	挑战的
+engaging 	adj.	参与的
+obesity 	n.	肥胖
+smartphone 	n.	智能手机
+strict 	adj.	严格的
+technical 	adj.	技术的
+Labor Day		
+labor 	n.	劳工
+labor movement 	n.	劳工运动
+minimum wage 	n.	最低工资
+right	n.	权利
+strike 	n.	罢工
+wage	n.	工资
+federal 	adj.	联邦的
+Industrial Revolution 	n.	工业革命
+rate 	n.	利率
+Seven Wonders of the Modern World		
+engineer	n.	工程师
+habitat	n.	栖息地
+hydrelectric plant	n.	水力发电站
+landmark	n.	地标
+observation deck	n.	观景台
+power plant	n.	发电厂
+radio and television signals	n.	无线电和电视信号
+scholar	n.	学者
+shipping industry	n.	航运业
+skyline	n.	天际线
+suspension bridge	n.	悬索桥
+waterway	n.	水道
+Monkey Business		
+anthropoids 	n.	类人猿
+habitat 	n.	栖息地
+prehensile 	adj.	抓握能力强的
+primates 	n.	灵长类动物
+prosimian 	n.	原猴
+troop 	n.	群体
+New World 	n.	新世界
+Old World 	n.	旧世界
+opposable thumb 	n.	对生拇指
+Michelle Obama		
+advise 	v.	建议
+determined 	adj.	有决心的
+diverse 	adj.	多样的
+encouraged 	v.	鼓励
+first lady 	n.	第一夫人
+law 	n.	法律
+descend	v.	是（特定祖先）的血亲
+politics 	n.	政治
+volunteer 	n.	志愿者
+Wild and Wacky World of Wigs		
+extension	n.	延伸
+fashion 	n.	时尚
+ornate 	adj.	华丽的
+toupee	n.	假发
+wealthy 	adj.	富裕的
+wig	n.	假发
+Empire	adj.	帝国的
+obsession 	n.	痴迷
+resin 	n.	树脂
+India		
+endangered	adj.	濒危的
+Hindu	adj.	印度教的
+mangrove	n.	红树林
+monsoon	n.	季风
+Muslim	n.	穆斯林
+peninsula	n.	半岛
+sacred	adj.	神圣的
+subcontinent	n.	次大陆

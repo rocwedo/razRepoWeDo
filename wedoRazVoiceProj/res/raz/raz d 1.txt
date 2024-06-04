@@ -91,3 +91,733 @@ trying	v.	尝试
 all	pron.	所有的
 can	modal.	能够
 now	adv.	现在
+At a Fall Fair		
+bob	v.	上下浮动
+explore	v.	探索
+fair	n.	游乐园
+fall	n.	秋天
+hay	n.	干草
+maze	n.	迷宫
+at	prep.	在某地
+can	modal.	能够
+you	pron.	你
+I Hide		
+behind	prep.	在...后面
+covers	n.	覆盖物
+hide	v.	躲藏
+inside	adv.	在...里面
+sleepy	adj.	瞌睡的
+time	n.	时间
+much	adj.	许多
+not	adv.	不是
+now	adv.	现在
+At the Library		
+at	prep.	在
+can	modal.	能够
+the	art.	这个
+library	n.	图书馆
+listen	v.	听
+stories	n.	故事
+visit	v.	参观
+I Need an Eraser		
+made	v.	制作
+there	adv.	那里
+this	pron.	这个
+drawer	n.	抽屉
+eraser	n.	橡皮
+fixed	v.	修改
+found	v.	找到
+mistake	n.	错误
+Backyard Camping		
+our	adv.	我们的
+to	prep.	去
+we	pron.	我们
+backyard	n.	庭院
+pajamas	n.	睡衣
+flashlights	n.	手电筒
+camp	n.	野营
+Best Friends Q and U		
+earthquake	n.	地震
+quilt	v.	被子
+square	n.	正方形
+squeal	v.	尖叫
+squint	v.	斜眼看
+squish	v.	压扁，挤扁
+at	prep.	在...里面
+in	prep.	在...里面
+they	pron	他们
+Because You Recycle		
+counters	n.	计数器
+litter	n.	垃圾
+newspaper	n.	报纸
+plastic	adj.	塑料的
+recycle	v.	循环
+steel	n.	钢
+can	modal.	能够
+sometimes	adv.	有时
+you	pron.	你
+Just a Trim		
+fun	adj.	有趣的
+haircut	n.	理发
+scared	adj.	恐怖的
+shorter	adj.	更短的
+snip	v.	剪下
+trim	n.	修剪
+long	adj.	长的
+say	v.	说
+some	adj.	一些
+Caretakers		
+he	pron.	他
+she	pron.	她
+this	pron.	这个
+babysitter	n.	保姆
+dentist	n.	牙医
+firefighters	n.	消防员
+gardener	n.	花匠
+police officers	n.	警察
+Katie and Katie		
+both	pron.	两个都
+said	v.	说
+your	pron.	你的
+turn	n.	机会
+class	n.	班级
+idea	n.	主意
+name	n.	名字
+student	n.	学生
+Bats Day and Night		
+are	v.	是
+it	pron.	它
+the	art.	这个
+cave	n.	山洞
+hanging	v.	悬挂
+hunting	v.	捕猎
+returning	v.	返回
+Lily the Cat		
+from	prep.	来自
+saw	v.	看见
+she	pron.	她
+circled	n.	画圈
+couch	n.	沙发
+crossed	v.	穿过
+curled	v.	卷曲
+strolled	v.	闲逛
+Bees Feed Me		
+have	v.	有
+not	adv.	不是
+would	modal.	将会
+favorite	adj.	喜欢的
+without	prep.	没有
+feed	v.	喂养
+Little Loon		
+and	conj.	并且
+got	v.	得到
+on	prep.	在...上面
+went	v.	去
+where	adv.	哪里
+alone	adj.	独自的
+lonely	adj.	孤独的
+loon	n.	潜鸟
+swam	v.	游泳
+Community Helpers		
+a	art.	一个
+an	art.	一个
+lives	v.	居住
+our	pron.	我们的
+this	pron.	这个
+baker	n.	面包师
+construction worker	n.	建筑工人
+trash collector	n.	垃圾清理工
+Buddy the Bear		
+different	adj.	不同的
+fall apart	v.	摔坏
+lost	v.	失去
+loved	adj.	被爱的
+old	adj.	旧的
+teddy bear	n.	泰迪熊
+new	adj.	新的
+we	pron.	我们
+Cranberries		
+bogs	n.	沼泽
+cranberries	n.	蔓越莓
+dried	adj.	干的
+fruits	n.	水果
+sauce	n.	酱汁
+tart	n.	果馅饼
+as	prep.	作为
+eat	v.	吃
+them	pron.	他们
+My Neighborhood		
+is	v.	是
+my	pron.	我的
+there	adv.	那里
+bakery	n.	面包店
+grocery store	n.	食品杂货店
+neighborhood	n.	街区
+fire station	n.	消防站
+Bubbles		
+bubbles	n.	泡泡
+colorful	adj.	多彩的
+material	n.	材料
+pockets	n.	口袋
+solids	n.	固体
+stick	v.	黏住
+make	v.	制作
+some	pron.	一些
+with	prep.	伴着
+My New School		
+at	prep.	在
+got	v.	拿到
+in	prep.	在...里面
+my	pron.	我的
+will	modal.	将会
+country	n.	村庄
+learn	v.	学习
+preschool	n.	学前班
+city	n.	城市
+So  Many Fish		
+bright	adj.	鲜艳的
+fancy	adj.	时髦的
+scary	adj.	可怕的
+shiny	adj.	闪耀的
+spotted	adj.	带斑点的
+striped	adj.	有条纹的
+puffy	adj.	膨胀的
+boxy	adj.	四四方方的
+We go out to eat		
+bill	n.	账单
+breakfast	n.	早餐
+check	n.	核对
+menus	n.	菜单
+order	v.	点餐
+server	n.	服务员
+pay	v.	支付
+drinks	n.	饮料
+		
+We Give Away		
+pile	n.	一堆
+bear	n.	熊
+puzzle	n.	拼图
+boots	n.	靴子
+blanket	n.	毯子
+great	adj.	很棒的
+		
+Our Good Night Story		
+choose	v.	选择
+bring	v.	带来
+climb	v.	攀爬
+think	v.	认为
+Do Not Eat That		
+finds	v.	找到（第三人称单数）
+eat	v.	吃
+hungry	adj.	饥饿的
+space	n.	空间
+trash	n.	垃圾
+tree	n.	树
+do	v.	做
+not	adv.	不
+says	v.	说（第三人称单数）
+The Busy Pond		
+see	v.	看见
+they	pron.	他们
+when	adv.	什么时候
+busy	adj.	忙碌的
+cattails	n.	香蒲（名词复数）
+lily pads	n.	睡莲叶（名词复数）
+pond	n.	池塘
+What Do You See	
+on	prep.	在...上面
+see	v.	看见
+what	adj.	什么
+bark	n.	树皮
+bumps	n.	凸块（名词复数）
+fern	n.	蕨类植物
+ink	n.	墨水
+lamb	n.	羊羔
+spills	v.	洒出（第三人称单数）
+No, Lily, Don't
+at	prep.	向
+no	adv.	不
+bored	adj.	无聊的
+gray	adj.	灰色的
+lizard	n.	蜥蜴
+butterfly	n.	蝴蝶
+Maria's Halloween		
+for	prep.	为了
+go	v.	去
+or	conj.	或者
+the	art.	这个
+you	pron.	你
+look	v.	看
+ghost	n.	鬼魂
+Halloween	n.	万圣节
+spider	n.	蜘蛛
+treat	n.	点心
+trick	n.	捉弄
+Frog Is Hungry		
+are	v.	是
+not	adv.	不
+says	v.	说（第三人称单数）
+eats	v.	吃（第三人称单数）
+fly	n.	苍蝇
+food	n.	食物
+hop	v.	跳
+hungry	adj.	饥饿的
+What to Wear		
+closet	n.	壁橱
+clothes	n.	衣服
+gives	v.	给（第三人称单数）
+space	n.	空间
+style	n.	风格
+takes	v.	拿走（第三人称单数）
+how	adv.	怎样
+some	pron.	一些
+you	pron.	你
+To the Store		
+a	art.	一个
+for	prep.	为了
+go	v.	去
+goes	v.	去（第三人称单数）
+her	pron.	她的
+she	pron.	她
+the	art.	这个
+to	prep.	去
+with	prep.	和
+coat	n.	大衣
+pet	n.	宠物
+Greater Than		
+compare	v.	比较
+greater than	adj.	大于
+greatest	adj.	最大的
+more	adj.	更多
+numbers	n.	数字
+vegetables	n.	蔬菜
+many	adj.	许多
+there	adv.	那个
+which	adj.	哪一个
+Tiger Sharks		
+blunt	adj.	钝的
+eyesight	n.	视力
+fins	n.	鱼鳍（名词复数）
+gills	n.	腮（名词复数）
+stripes	n.	条纹（名词复数）
+tiger sharks	n.	虎鲨（名词复数）
+are	v.	是
+eat	v.	吃
+have	v.	有
+Where Animals Live		
+above	prep.	在…上面
+turtle	n.	乌龟
+prairie	n.	草原田鼠
+woodchuck	n.	土拨鼠
+octopus	n.	章鱼
+whale	n.	鲸鱼
+		
+To the Woods		
+woods	n.	树林
+squirrel	n.	松鼠
+log	n.	圆木
+crawl	v.	爬行
+hiding	v.	躲藏（现在分词）
+bushes	n.	灌木丛（复数）
+		
+What		
+curious	adj.	好奇的
+breakfast	n.	早餐
+snack	n.	点心
+lunch	n.	午餐
+dinner	n.	晚餐
+pizza	n.	披萨
+		
+Why can't I		
+paint		画画
+climb		攀爬
+slide		滑行
+kichen		厨房
+safe		安全的
+shelves		书架（复数）
+		
+Dollars and Cents		
+cent	n.	分
+penny	n.	便士
+nickel	n.	五分镍币
+dime	n.	十分硬币
+quarter	n.	二十五美分
+dollar	n.	美元
+		
+Workers		
+workers	n.	工人（复数）
+farmer	n.	农民
+trucker	n.	卡车司机
+mill	n.	磨坊
+grind	n.	研磨
+baker	n.	糕点师
+grocer	n.	杂货商
+		
+Nothing Scares Me		
+vampire	n.	吸血鬼
+pirate	n.	海盗
+gorilla	n.	猩猩
+mummy	n.	木乃伊
+skeleton	n.	骷髅
+monster	n.	怪物
+Clouds		
+a	art.	一个
+do	v.	做
+I	pron.	我
+look	v.	看
+see	v.	看见
+the	art.	这个
+what	pron.	什么
+you	pron.	你
+darker	adj.	更暗的
+fuzzy	adj.	毛茸茸的
+jumbo	adj.	巨大的
+puffy	adj.	蓬松的
+creamy	adj.	奶油般的
+Pick a Pie		
+blackberries	n.	黑莓（复数形式）
+cups	n.	茶杯（复数形式）
+enough	adv.	足够
+picked	v.	采摘（过去式）
+pie	n.	派
+plenty	n.	大量
+have	v.	有
+made	v.	制作（过去式）
+we	pron.	我们
+How do they swim		
+bodies	n.	身体（复数形式）
+fins	n.	鱼鳍（复数形式）
+flippers	n.	背鳍（复数形式）
+paws	n.	爪子（复数形式）
+swim	v.	游泳
+tails	n.	尾巴（复数形式）
+can	modal.	能够
+their	pron.	他们的
+they	pron.	他们
+The Mitten		
+after	prep.	在...之后
+he	pron.	他
+into	prep.	进入到
+she	pron.	她
+too	adv.	也
+was	v.	是
+with	prep.	和
+mitten	n.	手套
+squash	v.	塞进
+squeeze	v.	挤入
+squish	v.	挤进
+Country Places		
+is	v.	是
+this	pron.	这个
+what	pron.	什么
+corral	n.	畜栏
+farmhouse	n.	农舍
+orchard	n.	果园
+shed	n.	小屋
+Pillow Fort Passward		
+anyway	adv.	无论如何
+cookies	n.	饼干（复数形式）
+know	v.	知道
+password	n.	密码
+pillow fort	n.	枕头堡
+wanted	v.	想要（过去式）
+come	v.	来到
+he	pron.	他
+know	v.	知道
+I Count 100 Things		
+can	modal.	能够
+make	v.	制作
+what	pron.	什么
+count	v.	计数
+gumdrops	n.	橡皮糖（复数形式）
+igloo	n.	冰屋
+marshmallow	n.	棉花糖
+paperclips	n.	别针（复数形式）
+My First Class Play		
+acting	v.	表演（现在分词）
+costume	n.	戏服
+lines	n.	台词（复数形式）
+nervous	adj.	焦虑的
+props	n.	舞台道具（复数形式）
+stage	n.	舞台
+am	v.	是
+my	pron.	我的
+what	pron.	什么
+Hobbies		
+like	v.	喜欢
+some	adj.	一些的
+they	pron.	他们
+collecting	v.	收集（现在分词）
+create	v.	创造
+relax	v.	放松
+writing	v.	书写（现在分词）
+Shave It Off		
+ago	adv.	之前
+beard	n.	胡子
+hairy	adj.	浓密的
+shave	v.	刮胡子
+smooth	adj.	光滑的
+wild	adj.	野生的
+he	pron.	他
+like	prep.	像
+said	v.	说(过去式）
+Imagine the Beach		
+crashing	adj.	哗啦一声的
+dive	v.	潜水
+imagine	v.	想象
+rough	adj.	粗糙的
+salty	adj.	咸的
+sense	n.	感觉
+can	modal.	能够
+what	pron.	什么
+you	pron.	你
+Silent E		
+how	adv.	如何
+into	prep.	进入到
+what	pron.	什么
+change	v.	改变
+sound	v.	听起来
+mean	v.	意思是
+silent	adj.	沉默的
+Insect Wings		
+clear	adj.	透明的
+covers	n.	遮盖（复数形式）
+insects	n.	昆虫（复数形式）
+spotted	adj.	有斑点的
+wasp	n.	黄蜂
+wings	n.	翅膀（复数形式）
+fly	v.	飞
+has	v.	有（第三人称单数）
+many	adj.	许多的
+Sky High		
+all	pron.	所有的
+goes	v.	去（第三人称单数）
+on	prep.	在...之上
+up	adv.	向上
+bumpy	adj.	崎岖不平的
+gorilla	n.	猩猩
+mossy	adj.	长满苔藓的
+Less Than		
+compare	v.	比较
+count	v.	数一数
+fewer	adj.	更少的
+less than	adj.	少于
+numbers	n.	数量（复数形式）
+total	n.	总计
+blue	adj.	蓝色的
+has	v.	有（第三人称单数）
+red	adj.	红色的
+Tadpole Teasing		
+are	v.	是
+said	v.	说（过去式）
+the	art.	这个
+grew	v.	成长（过去式）
+odd	adj.	奇怪的
+strange	adj.	奇特的
+tadpole	adj.	蝌蚪
+Let's Make a Bird Feeder		
+bird feeder	n.	喂鸟器
+birdseed	n.	鸟食
+dried	adj.	脱水的
+fruit	n.	水果
+hang	v.	悬挂
+slices	n.	薄片（复数形式）
+make	v.	制作
+put	v.	放置
+we	pron.	我们
+These Bees		
+birdhouse	n.	鸟窝
+bus stop	n.	公交站
+home	n.	家
+log	n.	圆木
+mailbox	n.	邮箱
+need	v.	需要
+good	adj.	好的
+look	v.	看
+no	int.	不
+Mud Balls		
+and	conj.	和
+in	prep.	在...里面
+we	pron.	我们
+dry	adj.	干燥的
+mix	v.	混合
+mud	n.	泥土
+sand	n.	沙子
+scoop	v.	挖出
+shape	v.	塑形
+My New City		
+city	n.	城市
+different	adj.	不同的
+freeway	n.	高速公路
+moved	v.	移动（过去式）
+stores	n.	商店（复数形式）
+subway	n.	地铁
+down	adv.	向下
+now	adv.	现在
+ride	v.	搭乘
+Reindeer Are Real		
+born	adj.	与生俱来的
+real	adj.	真实的
+reindeer	n.	驯鹿
+sleds	n.	雪橇（复数形式）
+travel	v.	行进
+weigh	v.	称重
+all	pron.	所有的
+are	v.	是
+walk	v.	走路
+Polly Gets Out		
+over	prep.	超过
+saw	v.	看到（过去式）
+she	pron.	她
+cage	n.	笼子
+children	n.	孩子们（复数形式）
+flew	v.	飞（过去式）
+path	n.	小路
+playground	n.	操场
+safe	adj.	安全的
+River Otters		
+amazing	adj.	神奇的
+breath	n.	呼吸
+catching	n.	捕食
+fur	n.	皮毛
+river otters	n.	水獭（复数形式）
+swimming	n.	游泳
+all	pron.	所有的
+good	adj.	好的
+have	v.	有
+The Sky Is Falling		
+is	v.	是
+not	adv.	不
+squirrel	n.	松鼠
+falling	v.	倒塌（现在分词）
+nut	n.	坚果
+hits	v.	击中（第三人称单数）
+Senses		
+I	pron.	我
+my	pron.	我的
+use	v.	使用
+smell	v.	闻起来
+hear	v.	听到
+senses	v.	感觉（第三人称单数）
+taste	v.	品尝
+touch	v.	触摸
+Stone Soup		
+and	conj.	和
+had	v.	有（过去式）
+some	adj.	一些的
+they	pron.	他们
+brought	v.	带来（过去式）
+feast	n.	盛宴
+hungry	adj.	饥饿的
+soup	n.	汤
+Swamps		
+clean	adj.	干净的
+fresh water	n.	淡水
+healthy	adj.	健康的
+salt water	n.	咸水
+soil	n.	土壤
+swamp	n.	湿地
+can	modal.	能够
+help	v.	帮助
+many	adj.	许多的
+Tootsie Can Talk		
+birthday	n.	生日
+cake	n.	蛋糕
+good	adj.	好的
+make	v.	制作
+nothing	pron.	没什么
+sweet	adj.	甜的
+am	v.	是
+girl	n.	女孩
+said	v.	说（过去式）
+The Team		
+a	art.	一个
+has	v.	有（第三人称单数）
+have	v.	有
+is	v.	是
+very	adv.	非常
+baseball	n.	棒球
+batter	n.	击球员
+catcher	n.	接球手
+pitcher	n.	投手
+players	n.	运动员（复数形式）
+Under the Rock		
+grub	n.	毛毛虫
+silky	adj.	吐丝的
+slow	adj.	慢的
+smooth	adj.	光滑的
+surprises	n.	惊喜（复数形式）
+wiggly	adj.	蠕动的
+find	v.	找到
+may	modal.	或许
+you	pron.	你
+Whale Watching		
+carefully	adv.	认真地
+docks	n.	礁石
+spot	v.	发现
+surface	n.	表面
+tricky	adj.	有难度的
+whales	n.	鲸鱼
+Who wants to play basketball		
+aunt	n.	阿姨
+basketball	n.	篮球
+find	v.	找到
+neighbor	n.	邻居
+plans	n.	计划（复数）
+schoolwork	n.	学校作业
+Why does an octopus need eight arms		
+brushing	v.	刷洗（现在分词）
+combing	v.	梳理（现在分词）
+second	num.	第二
+third	num.	第三
+umbrella	n.	雨伞
+eighth	num.	第八
+Grow, Vegetables Grow		
+carrot	n.	胡萝卜
+pepper	n.	辣椒
+tomatoes	n.	西红柿（复数）
+onion	n.	洋葱
+cucumber	n.	黄瓜
+salad	n.	沙拉
+Where Plants Grow		
+places	n.	地方（复数）
+outside	adj.	外面的
+inside	adj.	内部的
+soil	n.	土壤
+pot	n.	花盆
+sand	n.	沙子
+plant	n.	植物
+Welcome Back, Butterflies		
+south	n.	南方
+north	n.	北方
+lay	v.	产卵
+seed	n.	种子
+sprout	n.	新芽
+yard	n.	庭院
+Fog		
+fog	n.	雾气
+form	n.	形式
+ice	n.	冰
+spooky	adj.	令人毛骨悚然的
+still	adj.	宁静的
+water	n.	水
+I Like My Hair		
+curly	adj.	卷曲的
+straight	adj.	笔直的
+swing	v.	摇晃
+braids	n.	辫子
+spike	n.	穗
+Who runs faster		
+antelope	n.	羚羊
+cheetah	n.	猎豹
+faster	adj.	更快的
+run	v.	跑步
+squirrel	n.	松鼠
+tortoise	n.	乌龟
+Swamp Music		
+band	n.	乐队
+grasshopper	n.	蝗虫
+claw	n.	钳子
+belly	n.	肚子
+tongue	n.	舌头
+sound	n.	声音
