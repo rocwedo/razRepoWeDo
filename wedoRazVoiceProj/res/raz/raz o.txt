@@ -1,0 +1,400 @@
+1849 The California Gold Rush		
+economy	n.	经济
+erosion	n.	侵蚀
+fortune	n.	运气
+gold rush	n.	淘金热
+mining	n.	采矿
+prospectors	n.	勘探者（复数）
+shovel	n.	铁锹
+wagon	n.	货车
+discovery	n.	发现
+Acadia National Park		
+donate	v.	贡献
+mammals	n.	哺乳动物
+national park	n.	国家公园
+preserve	v.	保护
+tides	n.	潮汐(复数）
+variety	n.	多样性
+limits	v.	限制（三单）
+migrate	v.	迁徙
+falcon	n.	猎鹰
+coastline	n.	海岸线
+raptors	n.	猛禽（复数）
+Bats		
+echolocation	n.	回声定位
+hibernation	n.	冬眠
+mammals	n.	哺乳动物
+megabats	n.	巨蝠
+microbats	n.	微蝠
+migrates	v.	迁徙
+behavior	n.	行为
+fossil	n.	化石
+tropical	adj.	热带的
+Anansi and the Talking Watermelon		
+absurd	adj.	不合理的
+gorged	v.	狼吞虎咽（过去式）
+oddity	n.	怪现象
+pondered	v.	深思
+salivated	v.	分泌唾液
+unison	n.	齐唱
+The Beekeeper		
+anther	n.	花粉囊
+bellows	n.	风箱（复数）
+congregate	v.	集合
+extract	v.	提取
+honeycomb	n.	蜂巢
+pistil	n.	雌蕊
+cells	n.	蜂窝（复数）
+native	adj.	当地的
+pollen	n.	花粉
+drone	n.	雄蜂
+pollinate	v.	授粉
+nectar	n.	花蜜
+evaporate	v.	蒸发
+hive	n.	蜂箱
+Edible Bugs		
+calories	n.	卡路里
+edible	adj.	可食用的
+insects	n.	昆虫
+nutrients	n.	养分
+recipes	n.	食谱
+uncomfortable	adj.	不舒适的
+calcium	n.	钙
+chef	n.	厨师
+diets	n.	饮食
+iron	n.	铁
+poisonous	adj.	有毒的
+protein	n.	蛋白质
+termites	n.	白蚁（复数）
+caterpillars	n.	毛毛虫（复数）
+cricket	n.	蟋蟀
+ Gorge Washington Carver		
+agriculture	n.	农业
+famous	adj.	著名的
+fertilizer	n.	肥料
+inventor	n.	发明家
+professor	n.	专家
+segregated	adj.	（因种族，性别）分开的，隔离的
+Civil War	n.	美国内战
+Congress	n.	国会
+nutrients	n.	营养物（复数）
+The Backpack Tax		
+allowance	n.	津贴
+community	n.	社会
+government	n.	政府
+purchase	v,	购买
+salary	n.	工资
+tax	n.	税
+income tax	n.	个人所得税
+property tax	n.	地产税
+sales tax	n.	销售税
+Giant Pumpkins		
+compete	v.	竞赛
+hobby	n.	爱好
+nutrients	n.	营养物（复数）
+pumpkins	n.	南瓜（复数）
+record	n.	记录
+weighed	v.	称重（过去式）
+compost	n.	堆肥
+pollinated	v.	授粉（过去式）
+gigantic	adj.	巨大的
+prizewinning	adj.	得奖的
+prune	v.	修剪
+Park Rangers		
+experts	n.	专家（复数）
+national	adj.	国家的
+park ranger	n.	护林员
+preserve	v.	保护
+public	adj.	公众的
+visitors	n.	游客（复数）
+glaciers	n.	冰川（复数）
+memorial	n.	纪念碑
+museums	n.	博物馆（复数）
+flashlight	n.	手电筒
+sunscreen	n.	防晒霜
+Sally Ride		
+astronaut	n.	宇航员
+galaxies	n.	星系（复数）
+gravity	n.	重力
+launched	v..	发射（过去式）
+recruiting	v..	征募（现在分词）
+satellites	n.	人造卫星
+boosters	n.	助推火箭（复数）
+layer	n.	层
+educator	n.	教育家
+astrophysics	n.	天体物理学
+A Dog's Tale		
+bared	v..	脱掉（过去式）
+consequences	n.	结果（复数）
+mischievous	adj.	调皮的
+revenge	n.	复仇
+tension	n.	紧张局势
+vain	adj.	徒劳的
+communities	n.	团体（复数）
+managed	v..	应付（过去式）
+responded	v..	回应（过去式）
+ Whales		
+baleen	n.	鲸须
+blowhole	n.	(鲸头顶的)呼吸孔
+blubber	n.	鲸脂
+buoyant	adj.	有浮力的
+extinction	n.	灭绝
+pods	n.	荚
+decibels	n.	分贝（复数）
+narwhal	n.	独角鲸
+Wonders of Nature		
+burrow	v.	挖洞
+glide	v.	滑翔
+larvae	n.	幼虫
+silk	n.	丝
+tropical	adj.	热带的
+wetlands	n.	湿地（复数）
+nature	n.	自然
+underground	adj.	地下的
+wonders	n.	奇观（复数）
+Barack Obama		
+ashamed	adj.	羞愧的
+civil rights movement	n.	(美国)民权运动
+inspired	v.	鼓励（过去式）
+moved	v.	移动
+outsider	n.	外人
+races	n.	种族（复数）
+continents	n.	大陆（复数）
+local	adj.	当地的
+slavery	n.	奴隶制
+Jane Goodall		
+Africa	n.	非洲
+behavior	n.	行为
+chimpanzees	n.	黑猩猩（复数）
+field study	n.	实地研究
+preserve	v.	保护
+scientist	n.	科学家
+apes	n.	类人猿（复数）
+observations	n.	观察（复数）
+species	n.	物种
+secretary	n.	秘书
+watcher	n.	观察员
+Blizzards!		
+air pressure	n.	气压
+biting	adj.	刺骨的
+blizzard	n.	暴风雪
+frostbite	n.	冻伤
+whiteout	n.	（气象）乳白天空
+wind chill	n.	风寒
+dangerous	adj.	危险的
+gales	n.	大风
+hurricane	n.	(尤指西大西洋的)飓风
+freezing	adj.	极冷的
+snowstorm	n.	暴风雪
+chilly	adj.	寒冷的
+Deep in the Ocean		
+adaptable	adj.	能适应的
+marine	adj.	海生的
+sensors	n.	传感器
+species	n.	物种
+submersible	n.	潜水器
+sulfur	n.	硫黄
+oceangraphers	n.	海洋学家（复数）
+submarine	n.	潜艇
+biology	n.	生物
+chemistry	n.	化学
+Discovering Dinosaurs		
+decayed	v.	腐烂（过去式）
+dinosaurs	n.	恐龙（复数）
+extinct	adj.	灭绝的
+fossils	n.	化石
+museum	n.	博物馆
+paleontologists	n.	古生物学家
+carnivores	n.	食肉动物
+herbivores	n.	食草动物
+scavengers	n.	食腐肉的兽(或鸟)
+A Bad Movie		
+gloated	v.	扬扬得意（过去式）
+hesitated	v.	犹豫（过去式）
+slumped	v.	重重地坐下（过去式）
+sly	adj.	狡猾的
+smirk	n.	傻笑
+urged	v.	催促（过去式）
+aisle	n.	过道
+complex	n.	忧虑
+manager	n.	经理
+The Everglades		
+development	n.	发展
+ecosystems	n.	生态系统
+mild	adj.	温和的
+national park	n.	国家公园
+roots	n.	根
+subtropical	adj.	亚热带的
+swamp	n.	沼泽(地)
+marsh	n.	湿地
+cypress	n.	柏树
+Great Land Run		
+acres	n.	英亩
+boomers	n.	大雄袋鼠（复数）
+claim	n.	所有权
+stake	v.	拿…冒险
+sooners	n.	抢先取得占有权的人
+territory	n.	领土
+settle	v.	定居
+lawman	n.	执法官
+reservation	n.	(美国为土著美洲人划出的)保留地
+Ghost Towns		
+deserted	adj.	无人居住的
+landslides	n.	塌方
+nuclear power plant	n.	核电厂
+radiation	n.	辐射
+remote	adj.	遥远的
+resource	n.	资源
+vanish	v.	消失
+deadly	adj.	致命的
+diamond	n.	钻石
+Rainy-Day Savings		
+account	n.	账户
+borrowers	n.	借款人（复数）
+expense	n.	费用
+interest	n.	利息
+research	v.	调查
+statement	n.	结算单
+bank	n.	银行
+earn	v.	获利
+galoshes	n.	橡胶套鞋
+minor	n.	未成年人
+savings	n.	存款（复数）
+trudge	v.	费力地走
+Badlands National Park		
+distance	n.	距离
+layers	n.	层级
+national park	n.	国家公园
+protect	v.	保护
+ridges	n.	山脊
+warn	v.	警告
+area	n.	区域
+display	v.	展示，显示
+history	n.	历史
+include	v.	包括
+reason	n.	原因
+show	v.	节目
+Badlands National Park01		
+distance	n.	距离
+layers	n.	层（复数）
+National Park	n.	国家公园
+protect	v.	保护
+ridges	n.	山脉（复数）
+warn	v.	警告
+reservation	n.	保留地
+rocky	adj.	多岩石的
+prairie	n.	大草原
+Animal Discoveries		
+arachnid	n.	蜘蛛
+endangered	adj.	濒危的
+habitat	n.	栖息地
+remote	adj.	遥远的
+scientists	n.	科学家（复数）
+species	n.	物种（复数）
+jungle	n.	丛林
+starfish	n.	海星
+lemurs	n.	狐猴（复数）
+HeroRATS Rats Who Save Lives		
+explosives	n.	炸药（复数）
+handlers	n.	驯兽员（复数）
+program	n.	程序
+rodents	n.	啮齿动物（复数）
+sniffing	v.	嗅（现在分词）
+trained	v.	训练(过去式）
+alert	v.	向...报警
+detect	v.	侦察出
+inspecting	v.	检查（现在分词）
+Cinderello		
+chores	n.	杂务
+object	v.	反对
+pitch	v.	投球
+runt	n.	小不点
+transformed	v.	转变
+tryouts	n.	选拔（复数）
+sibling	n.	兄弟姐妹
+impress	v.	给...留下深刻印象
+gasped	v.	倒抽气(过去式）
+Hillary Clinton		
+Congress	n.	国会
+first lady	n.	第一夫人
+lawyer	n.	律师
+nominee	n.	被提名人
+secretary of state	n.	国务卿
+senator	n.	参议员
+political	adj.	政治的
+president	n.	总统
+astronaut	n.	宇航员
+Istanbul		
+bazaar	n.	集市
+church	n.	教堂
+cistern	n.	蓄水池
+landmark	n.	地标
+mosque	n.	清真寺
+tower	n.	塔
+Europe	n.	欧洲
+lighthouse	n.	灯塔
+continent	n.	大陆
+Karate		
+defend	v.	防守
+discipline	n.	纪律
+dojo	n.	道场
+karate	n.	空手道
+martial art	n.	武术
+self-improvement	n.	自我提升
+patience	n.	耐心
+sensei	n.	老师
+practice	v.	练习
+respect	v.	尊重
+posture	n.	姿势
+Looking for Bigfoot		
+creatures	n.	生物（复数）
+evidence	n.	证据
+exist	v.	存在
+hoax	n.	恶作剧
+primates	n.	灵长目动物（复数）
+sightings	n.	目睹（复数）
+footage	n.	镜头
+species	n.	物种
+stride	n.	步伐
+The Animal Bridge		
+construction	n.	结构
+defeated	adj.	受挫的
+dizzy	adj.	眩晕的
+fumed	v.	十分恼火（过去式）
+humans	n.	人类（名词复数）
+sprayed	v.	喷洒（过去式）
+progress	n.	进步
+staggered	v.	摇摇晃晃地走（过去式）
+trotting	v.	小跑（现在分词）
+The Little Pigs The Wolf's Story		
+delirious	adj.	语无伦次的
+desperate	adj.	绝望的
+inherited	v.	继承（过去式）
+ordeal	n.	磨难
+sapped	v.	使虚弱（过去式）
+sturdy	adj.	结实的
+frostbitten	adj.	生冻疮的
+modern	adj.	现代的
+quaint	adj.	古雅的
+unconscious	adj.	无意识的
+vegetarian	n.	素食者
+New Year Celebrations		
+Buddha	n.	佛
+cultures	n.	文化（名词复数）
+cycles	n.	循环
+priests	n.	僧侣
+resolution	n.	心愿
+traditions	n.	传统（名词复数）
+another	adj.	另一个的
+different	adj.	不同的
+important	adj.	重要的
+prepare	v.	准备
+through	prep.	即使
+type	n.	类型
+Where's Your Hair	
+adapted	v.	适应
+breeds	n.	品种
+bred	v.	饲养（过去式）
+genes	n.	基因（名词复数）
+mammals	n.	哺乳动物（名词复数）
+mutation	n.	变异

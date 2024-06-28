@@ -171,3 +171,13 @@ soldiers	n.	士兵（复数）
 stripes	n.	线条（复数）
 clap	v.	拍手
 backyard	n.	后院
+Summer Olympic Events		
+compete	v.	竞争
+diving	n.	跳水
+event	n.	事件
+gymnast	n.	体操运动员
+leap	v.	跳跃
+stroke	n.	游泳姿势
+detail	n.	细节
+idea	n.	想法，主意
+main	adj.	主要的
