@@ -1,0 +1,162 @@
+Historic Peacemakers		
+apartheid	n.	种族隔离
+discrimination	n.	歧视
+mediation	n.	调解
+protest	v.	抗议
+segregated	adj.	隔离的
+threatened	adj.	受威胁的
+boycott	n.	抵制
+congregation	n.	集会
+controversial	adj.	有争议的
+dictatorship	n.	独裁
+demand	v.	要求
+violation	n.	违反
+So You Want To Go To Mars	
+colony	n.	殖民地
+compatibility	n.	兼容性
+feat	n.	壮举
+gravity	n.	重力
+habitat	n.	栖息地
+radiation	n.	辐射
+barren	adj.	贫瘠的
+embark	v.	启程
+hydroponic	adj.	水培
+mass	n.	质量
+orbit	n.	轨道
+simulate	v.	模拟
+Energy Sources	
+energy	n.	能源
+fossil fuel	n.	化石燃料
+global warming	n.	全球变暖
+hydroelectric	adj.	水力发电的
+pollutant	n.	污染物
+sediment	n.	沉积物
+turbine	n.	涡轮机
+environmentalist	n.	环保主义者
+Microbes		
+antibiotic	n.	抗生素
+contaminate	v.	污染
+immune system	n.	免疫系统
+invading	adj.	入侵的
+organism	n.	生物
+vaccine	n.	疫苗
+cell	n.	细胞
+disease	n.	疾病
+epidemic	n.	流行病
+eradicate	v.	根除
+infection	n.	感染
+microbe	n.	微生物
+microscope	n.	显微镜
+mutate	v.	变异
+outbreak	n.	爆发
+pandemic	n.	大流行
+resistance	n.	耐药性
+symptom	n.	症状
+virus	n.	病毒
+What Is Water Worth		
+climate change	n.	气候变化
+conserve	v.	节约
+fresh water	n.	淡水
+pollution	n.	污染
+population	n.	人口
+sustainable	adj.	可持续
+carbon dioxide	n.	二氧化碳
+distributed	v.	分布
+ecosystem	n.	生态系统
+fossil fuel	n.	化石燃料
+purify	v.	净化
+ration	v.	定量供应
+Abraham Lincoln	
+abolition	n.	废除
+civil rights	n.	民权
+Emancipator	n.	解放者
+enslaved	adj.	奴役
+equality	n.	平等
+secede	v.	脱离
+campaign	n.	运动
+eloquence	n.	雄辩
+homespun	adj.	朴素的
+legislature	n.	立法机关
+privilege	n.	特权
+solemn	adj.	庄严的
+The Paralympics		
+adapt	v.	适应
+disability	n.	残疾
+impairment	n.	损伤
+performance	n.	表现
+prejudice	n.	偏见
+prosthetic	n.	假肢
+amputation	n.	截肢
+barrier	n.	障碍
+cerebral palsy	n.	脑瘫
+medal	n.	奖章
+overrepresent	v.	代表人数过多
+showcase	v.	展示
+Genetics at Work		
+DNA	n.	脱氧核糖核酸
+gene	n.	基因
+genetics	n.	遗传学
+hybridization	n.	杂交
+selective breeding	n.	选择性育种
+species	n.	物种
+captive breeding	n.	圈养繁殖
+characteristic	n.	特征
+diversity	n.	多样性
+habitat	n.	栖息地
+hybrid	n.	杂交
+traits	n.	性状
+The Lakota		
+ancestral	adj.	祖先的
+merchants	n.	商人
+sacred	adj.	神圣的
+spiritual	adj.	精神的
+tipis	n.	帐篷
+traditionally	adv.	传统上
+annually	adj.	每年的
+crucial	adj.	至关重要的
+distinct	adj.	独特的
+elaborately	adv.	精心设计地
+lure	v.	诱惑
+plummet	v.	暴跌
+Dino Duel		
+biased	adj.	有偏见的
+commercial	adj.	商业的
+debate	n.	辩论
+excavate	v.	发掘
+fossil	n.	化石
+paleontology	n.	古生物学
+amateur	n.	业余爱好者
+auction	n.	拍卖
+duel	v.	决斗
+private	adj.	私人的
+regulate	v.	监管
+speciment	n.	标本
+Satellites		
+artificial satellite	n.	人造卫星
+bus	n.	总线
+Global Positioning System	n.	全球定位系统
+gravity	n.	重力
+orbit	n.	绕轨道运行
+payload	n.	有效载荷
+astronomical satellites	n.	天文卫星
+communication satellite	n.	通信卫星
+environmental satellite	n.	环境卫星
+low-Earth orbit	n.	低地球轨道
+meteorologist	n.	气象学家
+reconnaissance satellite	n.	侦察卫星
+navigational satellite	n.	导航卫星
+polar orbit	n.	极地轨道
+weather satellite	n.	气象卫星
+Zoos Through the Ages		
+captivity	n.	圈养
+enrichment	n.	丰富度
+intrusive	adj.	干扰的
+perception	n.	看法
+respite	n.	喘息
+		
+befitt	v.	适合
+extravagant	n.	奢侈
+founder	n.	创始人
+gladiator	n.	角斗士
+stimulation	n.	刺激
+trial and error	n.	反复试验
