@@ -163,3 +163,168 @@ puberty	n.	青春期
 reputation	n.	声誉
 stamina	n.	耐力
 stunted	adj.	发育不良的
+The Amazing Brain		
+brain stem 	n.	 脑干
+cerebellum 	n.	 小脑
+cerebrum 	n.	 大脑
+corpus callosum 	n.	 胼胝体
+decipher 	v.	 破译
+electrodes 	n.	 电极
+hemispheres 	n.	 半球
+interprets 	v.	 解释
+lobes 	n.	 叶
+network 	n.	 网络
+neurons 	n.	 神经元
+signals 	n.	 信号
+Hungry Right Here		
+awareness 	n.	 意识
+benefits 	n.	 好处
+campaign 	n.	 活动
+census 	n.	 人口普查
+epidemic 	n.	 流行病
+federal 	adj.	 联邦的
+food assistance 	n.	 食品援助
+food banks 	n.	 食品银行
+food stamp 	n.	 食品券
+nonprofit 	adj.	 非营利的
+poverty 	n.	 贫困
+surplus 	n.	 剩余
+Refugees		
+asylum 	n.	 庇护
+desperate 	adj.	 绝望的
+discrimination 	n.	 歧视
+distressing 	adj.	 令人痛苦的
+ethnicity 	n.	 种族
+expelling 	v.	 驱逐
+persecuting 	v.	 迫害
+refugees 	n.	 难民
+systematic 	adj.	 有系统的
+temporary 	adj.	 临时的
+trauma 	n.	 创伤
+violence 	n.	 暴力
+Groundwater		
+aquifers 	n.	 含水层
+climate change 	n.	 气候变化
+conservation 	n.	 保护
+crisis 	n.	 危机
+depleted 	adj.	 耗尽的
+drought 	n.	 干旱
+groundwater 	n.	 地下水
+irrigate 	v.	 灌溉
+per capita 	n.	 人均
+percolate 	v.	 渗透
+sensors 	n.	 传感器
+unsustainable 	adj.	 不可持续的
+Supply and Demand		
+demand 	n.	 需求
+endorsed 	adj.	 代言的
+fixed 	adj.	 固定的
+fluctuate 	v.	 波动
+hypothetical 	adj.	 假设的
+intertwined 	adj.	 交织的
+merchandise 	n.	 商品
+perspective 	n.	 视角
+products 	n.	 产品
+supply 	n.	 供给
+surplus 	n.	 剩余
+virtual 	adj.	 虚拟的
+Guy Fawkes Day		
+anonymous 	adj.	 匿名的
+bonfires 	n.	 篝火
+conspirators 	n.	 共谋者
+convert 	v.	 皈依
+dummy 	n.	 假人
+loyal 	adj.	 忠诚的
+plight 	n.	 困境
+plot 	n.	 阴谋
+processions 	n.	 游行
+rebellion 	n.	 叛乱
+revolt 	n.	 反叛
+treason 	n.	 叛国罪
+Kenya		
+acacia 	n.	 金合欢
+equator 	n.	 赤道
+escarpments 	n.	 悬崖
+ivory 	n.	 象牙
+mangrove 	n.	 红树林
+migration 	n.	 迁徙
+nomadic 	adj.	 游牧的
+reserve 	n.	 保护区
+safari 	n.	 游猎
+sanctuary 	n.	 避难所
+savanna 	n.	 稀树草原
+sisal 	n.	 剑麻​
+The Metropolitan Museum of Art		
+abstract 	adj.	 抽象的
+expressionism 	n.	 表现主义
+canvas 	n.	 画布
+cavity 	n.	 腔
+conventional 	adj.	 传统的
+facade 	n.	 外观
+galleries 	n.	 画廊
+inaccuracies 	n.	 不准确之处
+preserve 	v.	 保护
+sanctuary 	n.	 避难所
+sculptures 	n.	 雕塑
+sketch 	n.	 素描
+symbolize 	v.	 象征
+Samuel de Champlain Father of New France		
+administration 	n.	 管理
+appointed 	v.	 任命
+colonists 	n.	 殖民者
+conquest 	n.	 征服
+convert 	v.	 皈依
+exploit 	v.	 利用
+habitation 	n.	 居住地
+Indigenous 	adj.	 土著的
+missionaries 	n.	 传教士
+navigate 	v.	 导航
+populated 	v.	 居住
+settlement 	n.	 定居点
+siege 	n.	 围攻
+site 	n.	 地点
+treaty 	n.	 条约
+vanquish 	v.	 征服
+ventured 	v.	 冒险
+voyages 	n.	 航行​
+The Life of Cesar Chavez		
+barrios 	n.	 贫民区
+boycotts 	n.	 抵制
+civil disobedience 	n.	 公民抗命
+drudgery 	n.	 苦差事
+fasts 	n.	 绝食
+grass-roots 	adj.	 草根的
+Great Depression 	n.	 大萧条
+labor contractors 	n.	 劳工承包商
+labor union 	n.	 工会
+meager 	adj.	 微薄的
+migrant farm workers 	n.	 移民农场工人
+nonviolence 	n.	 非暴力
+picket lines 	n.	 纠察线
+poll 	n.	 民意调查
+911 A Dark Day		
+chaos 	n.	 混乱
+compound 	n.	 建筑群
+debris 	n.	 碎片
+demolition 	n.	 拆除
+evacuating 	v.	 撤离
+fundamentalist 	adj.	 原教旨主义的
+hijacked 	v.	 劫持
+invaded 	v.	 入侵
+memorial 	n.	 纪念碑
+resolve 	n.	 决心
+sacrifice 	n.	 牺牲
+terrorists 	n.	 恐怖分
+The Story of Lewis and Clark Book 2		
+brutal 	adj.	 残酷的
+capsized 	v.	 翻船
+emerged 	v.	 出现
+exchange 	n.	 交换
+extensively 	adv.	 广泛地
+forage 	v.	 觅食
+immemorial 	adj.	 古老的
+myth 	n.	 神话
+navigate 	v.	 导航
+overseeing 	v.	 监督
+policies 	n.	 政策
+relocations 	n.	 迁移

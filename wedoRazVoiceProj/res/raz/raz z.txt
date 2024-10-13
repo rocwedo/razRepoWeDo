@@ -160,3 +160,167 @@ founder	n.	创始人
 gladiator	n.	角斗士
 stimulation	n.	刺激
 trial and error	n.	反复试验
+
+A Selection From Robinson Crusoe		
+arms 	n.	 武器
+casks 	n.	 木桶
+desolate 	adj.	 荒凉的
+fortified 	adj.	 加固的
+hold 	n.	 船舱
+leagues 	n.	 里格（古代测量单位，约等于3英里）
+provisions 	n.	 食物和补给
+realization 	n.	 认识
+resolved 	v.	 决心
+stranded 	adj.	 被困的
+stern 	n.	 船尾
+tarpaulin 	n.	 防水油布
+Queen Elizabeth I		
+alliances 	n.	 联盟
+annul 	v.	 废除
+armada 	n.	 舰队
+captivating 	adj.	 迷人的
+depose 	v.	 罢免
+executed 	v.	 处死
+heretics 	n.	 异教徒
+maneuverable 	adj.	 可操控的
+plundering 	v.	 掠夺
+reign 	n.	 统治
+succession 	n.	 继承
+treason 	n.	 叛国罪
+The Zoo of Extinct Animals		
+captive breeding 	n.	 圈养繁殖
+compound 	n.	 围地
+conservation 	n.	 保护
+extinct 	adj.	 灭绝的
+high ground 	n.	 高地
+humane 	adj.	 人道的
+internship 	n.	 实习
+media 	n.	 媒体
+monitor 	v.	 监控
+specimens 	n.	 标本
+transport 	v.	 运输
+violating 	v.	 违反
+The Industrial Revolution		
+advancement 	n.	 进步
+efficient 	adj.	 高效的
+industrialization 	n.	 工业化
+inhabitants 	n.	 居民
+literacy 	n.	 识字率
+mass-produce 	v.	 批量生产
+outrage 	n.	 愤怒
+reluctant 	adj.	 不情愿的
+revolutionized 	v.	 彻底改变
+technology 	n.	 技术
+toiled 	v.	 辛苦工作
+wages 	n.	 工资
+China		
+agriculture 	n.	 农业
+bamboo 	n.	 竹子
+dialects 	n.	 方言
+dynasties 	n.	 王朝
+export 	v.	 出口
+granary 	n.	 谷仓
+industrial 	adj.	 工业的
+nomadic 	adj.	 游牧的
+plateaus 	n.	 高原
+river basin 	n.	 流域
+silk 	n.	 丝绸
+temples 	n.	 寺庙
+The Black Stones		
+Apache 	n.	 阿帕奇人（美国原住民部族）
+bicker 	v.	 争吵
+chasm 	n.	 裂缝
+confront 	v.	 对抗
+frenzied 	adj.	 疯狂的
+hypotheses 	n.	 假设
+intrigued 	v.	 好奇
+obsidian 	n.	 黑曜石
+outrageous 	adj.	 令人震惊的
+perspectives 	n.	 观点
+pestering 	v.	 烦扰
+pilgrimage 	n.	 朝圣
+preoccupied 	adj.	 全神贯注的
+quarreling 	v.	 吵架
+scouring 	v.	 搜寻
+scurried 	v.	 匆忙跑
+sibling 	n.	 兄弟姐妹
+subconscious 	adj.	 潜意识的
+talisman 	n.	 护身符
+theories 	n.	 理论
+tolerate 	v.	 容忍
+translucent 	adj.	 半透明的
+unison 	n.	 齐唱
+The Necklace		
+caste 	n.	 阶级
+chagrin 	n.	 懊恼
+coquettish 	adj.	 妩媚的
+economical 	adj.	 节俭的
+francs 	n.	 法郎
+hierarchy 	n.	 等级制度
+ingenuous 	adj.	 天真的
+louis 	n.	 路易（金币）
+odious 	adj.	 讨厌的
+privations 	n.	 匮乏
+sou 	n.	 苏（硬币）
+vestibule 	n.	 前厅
+The Olympics Past and Present		
+ancient 	adj.	 古代的
+archaeologists 	n.	 考古学家
+athletes 	n.	 运动员
+character 	n.	 品德
+competitors 	n.	 参赛者
+controversies 	n.	 争议
+motto 	n.	 格言
+procession 	n.	 游行
+qualify 	v.	 有资格
+symbolic 	adj.	 象征性的
+tarnished 	v.	 损坏
+truce 	n.	 休战
+The Hero Maui		
+adamant 	adj.	 坚定的
+adzes 	n.	 斧子
+boon 	n.	 恩赐
+cajoled 	v.	 哄骗
+cunning 	n.	 狡猾
+immortal 	adj.	 不朽的
+mischief 	n.	 恶作剧
+myth 	n.	 神话
+Polynesian 	adj.	 波利尼西亚的
+simultaneously 	adv.	 同时地
+taut 	adj.	 紧绷的
+trickster 	n.	 骗子
+Success Stories		
+anti-Semitism 	n.	 反犹主义
+dictator 	n.	 独裁者
+disarmament 	n.	 裁军
+emigrate 	v.	 移民
+exiles 	n.	 流亡者
+fluently 	adv.	 流利地
+ghetto 	n.	 贫民区
+humanitarian 	adj.	 人道主义的
+immunization 	n.	 免疫接种
+legacies 	n.	 遗产
+refuge 	n.	 避难
+religious oppression 	n.	 宗教压迫
+repertoire 	n.	 全部曲目
+speculation 	n.	 推测
+tyranny 	n.	 暴政
+Violent Weather		
+air pressure 	n.	 气压
+cold front 	n.	 冷锋
+cumulonimbus clouds 	n.	 积雨云
+Doppler radar 	n.	 多普勒雷达
+supercell thunderstorm 	n.	 超级单体雷暴
+Are GMOs Safe		
+agriculture 	n.	 农业
+altered 	v.	 改变
+assessed 	v.	 评估
+beneficial 	adj.	 有益的
+biased 	adj.	 有偏见的
+consumers 	n.	 消费者
+genetically 	adv.	 基因地
+herbicides 	n.	 除草剂
+ingest 	v.	 摄入
+pesticides 	n.	 杀虫剂
+processed 	adj.	 加工的
+vulnerable 	adj.	 脆弱的
