@@ -123,3 +123,40 @@ requirements	n.	必要条件（名词复数）
 stockholders	n.	股东（名词复数）
 voting	v.	投票（现在分词）
 exceeded	v.	超过（动词过去式）
+Going to the Super Bowl		
+civic	adj.	城市的；公民的；社区事务的
+dynasty	n.	王朝；（比喻）强队
+festivities	n.	庆祝活动；节庆
+interception	n.	抢断；拦截
+merge	v.	合并
+root	v.	加油；支持
+spectacle	n.	盛会；壮观的场面
+trounced	v.	彻底击败
+underdog	n.	预期中的失败者
+Lucia's New School		
+apologized	v.	道歉
+confusion	n.	困惑
+immigrant	adj.	移民的
+impatiently	adv.	不耐烦地
+orchard	n.	果园
+poverty	n.	贫穷
+tenements	n.	公寓，特别是破旧的或过度拥挤的房屋
+tongue	n.	语言
+vendors	n.	小贩，卖东西的人
+Dinner Around the World		
+colonized	v.	殖民
+culture	n.	文化
+flaky	adj.	易碎成薄片的
+legumes	n.	豆类植物
+mild	adj.	味道不辣的；温和的
+pickling	v.	腌制
+spices	n.	香料
+staple	n.	主食
+stew	n.	炖菜
+Expedition 60 The Subarctic		
+aurora borealis	n.	北极光
+canals	n.	运河；水道
+hemisphere	n.	半球
+inlet	n.	水湾；入口
+latitude	n.	纬度
+solstice	n.	至日（冬至或夏至）
