@@ -86,3 +86,179 @@ portable	adj.	便携的
 rigid	adj.	僵硬的，严格的
 suspend	v.	暂停，悬挂
 thereby	adv.	因此，从而
+The DNA Trail		
+bulk	n.	大量，体积
+calculate	v.	计算
+descendant	n.	后代
+identical	adj.	相同的
+immense	adj.	巨大的
+rate	n.	速度，比例
+roughly	adv.	大约，粗略地
+scattered	adj.	分散的
+trace	v./n.	追踪，痕迹
+vanish	v.	消失
+Fantastic Voyage		
+analogous	adj.	类似的
+clue	n.	线索
+disrupt	v.	扰乱，中断
+horizon	n.	地平线，眼界
+intact	adj.	完整的，未受损的
+interval	n.	间隔，间距
+navigation	n.	导航，航行
+phenomenon	n.	现象
+stretch	v.	延伸，伸展
+stubborn	adj.	顽固的，固执的
+How Money Made Us Modern		
+commodity	n.	商品
+convenience	n.	便利
+essentially	adv.	本质上
+judgement	n.	判断
+payment	n.	支付
+policy	n.	政策
+signify	v.	表示
+stable	adj.	稳定的
+transaction	n.	交易
+trigger	v.	引发
+The Rise of Virtual Money		
+asset	n.	资产
+drawback	n.	缺点
+drug	n.	药物
+fraud	n.	欺诈
+principle	n.	原则
+scarce	adj.	稀缺的
+sophisticated	adj.	复杂的
+stocks	n.	股票
+supposedly	adv.	据说
+verify	v.	验证
+A Crowd in Harmony		
+evident	adj.	明显的
+faith	n.	信仰
+harmony	n.	和谐
+organized	adj.	有组织的
+participant	n.	参与者
+progress	n.	进展
+prospective	adj.	未来的
+sacred	adj.	神圣的
+society	n.	社会
+suspect	v./n.	怀疑；嫌疑人
+Our Online Behavior		
+aggression	n.	侵略
+collaborate	v.	合作
+confront	v.	面对
+contemporary	adj.	当代的
+division	n.	分裂
+harassment	n.	骚扰
+humanity	n.	人性
+insult	n./v.	侮辱
+pressure	n.	压力
+substantial	adj.	大量的
+Who Killed the Emperor		
+cease	v.	停止
+compelling	adj.	引人入胜的
+dispute	n.	争议
+grand	adj.	宏大的
+inconclusive	adj.	无定论的
+plot	n.	情节
+poison	n.	毒药
+relentlessly	adv.	不懈地
+revenge	n.	复仇
+symptom	n.	症状
+In the Crime Lab		
+allegation	n.	指控
+candidate	n.	候选人
+deprived of	phr.	被剥夺
+evaluate	v.	评估
+frankly	adv.	坦率地
+in terms of	phr.	就……而言
+manipulative	adj.	操纵的
+remorse	n.	悔恨
+suspicious	adj.	可疑的
+weird	adj.	古怪的
+Virtually Immortal		
+assemble	v.	集合
+bounce back	phr.	迅速恢复
+carving	n.	雕刻
+column	n.	圆柱
+firsthand	adj.	第一手的
+garment	n.	服装
+gaze	v.	凝视
+memorial	n.	纪念碑
+stunned	adj.	震惊的
+virtual	adj.	虚拟的
+Lure of the Lost City		
+extensive	adj.	广泛的
+fascinated	adj.	着迷的
+inhabitant	n.	居民
+legend	n.	传奇
+pyramid	n.	金字塔
+satellite	n.	卫星
+slope	n.	斜坡
+trail	n.	小径
+uncover	v.	揭露
+vegetation	n.	植被
+Living Longer		
+chronic	adj.	慢性的，长期的
+elderly	adj.	年长的，老年的
+epidemic	n.	流行病
+homogeneous	adj.	同质的，均匀的
+immune	adj.	免疫的
+lifespan	n.	寿命
+mandatory	adj.	强制的，义务的
+passed down	phr.	传承，遗传
+relocate	v.	搬迁，重新安置
+slightly	adv.	轻微地
+In Search of Longevity		
+barely	adv.	几乎不
+discourage	v.	阻止，使气馁
+forbid	v.	禁止
+guideline	n.	指南，方针
+industrious	adj.	勤勉的
+ironically	adv.	具有讽刺意味地
+lean	v.	倾斜；adj.瘦的
+longevity	n.	长寿
+privilege	n.	特权
+relieve	v.	缓解，减轻
+Saving Water		
+consumption	n.	消耗
+crisis	n.	危机
+dedication	n.	奉献
+divert	v.	转移
+extent	n.	程度
+inherit	v.	继承
+related to	phr.	与……相关
+shortage	n.	短缺
+surpass	v.	超过
+whereby	adv.	通过
+Technology as Trash		
+discard	v.	丢弃
+distressing	adj.	令人痛苦的
+hazardous	adj.	危险的
+infrastructure	n.	基础设施
+notify	v.	通知
+obsolete	adj.	过时的
+pile	n.	堆
+substance	n.	物质
+toxic	adj.	有毒的
+transition	n.	过渡
+Planet Hunters		
+atmosphere	n.	气氛，大气层
+atomic	adj.	原子的
+composition	n.	成分，组成
+exclude	v.	排除
+hence	adv.	因此
+resemble	v.	类似，像
+scope	n.	范围
+spin	v.	旋转
+thrive	v.	茁壮成长
+to date	phr.	到目前为止
+The Threat from Space		
+catastrophe	n.	灾难
+deflect	v.	偏转
+dilemma	n.	困境
+engage	v.	从事，参与
+motor	n.	电动机，发动机
+nuclear	adj.	核能的
+numerous	adj.	许多的
+rotate	v.	旋转
+scenario	n.	情景，剧本
+smash	v.	打碎，粉碎
